@@ -1,0 +1,366 @@
+{
+  "schemaVersion": 1,
+  "sourceMode": "generated",
+  "updatedAt": "2026-09-04T18:06:39.560Z",
+  "mallScope": [
+    "INC KL Eco City"
+  ],
+  "source": "https://spsetia.com/retails/inc-klec/directory/",
+  "tenantCount": 16,
+  "places": [
+    {
+      "id": "inc-boost-juice-inc-kl-eco-city-g-11",
+      "name": "Boost Juice - INC KL Eco City",
+      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
+      "floor": "1",
+      "lot": "G-11",
+      "kind": "tenant",
+      "keywords": [
+        "food",
+        "makan",
+        "makanan",
+        "selera",
+        "jamuan",
+        "air",
+        "minuman",
+        "restaurant",
+        "restoran",
+        "cafe",
+        "food court"
+      ],
+      "officialUrl": "https://spsetia.com/retails/inc-klec/level-1-the-hub/boost-juice/",
+      "dataConfidence": "official-INC-directory"
+    },
+    {
+      "id": "inc-moomoo-inc-kl-eco-city-g-11",
+      "name": "Moomoo - INC KL Eco City",
+      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
+      "floor": "1",
+      "lot": "G-11",
+      "kind": "tenant",
+      "keywords": [],
+      "officialUrl": "https://spsetia.com/retails/inc-klec/level-1-the-hub/moomoo/",
+      "dataConfidence": "official-INC-directory"
+    },
+    {
+      "id": "inc-perfect-wellness-l1-17",
+      "name": "Perfect Wellness",
+      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
+      "floor": "1",
+      "lot": "L1-17",
+      "kind": "tenant",
+      "keywords": [
+        "health",
+        "clinic",
+        "wellness",
+        "farmasi",
+        "pharmacy",
+        "ubat"
+      ],
+      "officialUrl": "https://spsetia.com/retails/inc-klec/level-1/perfect-wellness/",
+      "dataConfidence": "official-INC-directory"
+    },
+    {
+      "id": "inc-ph-clinic-l1-15",
+      "name": "PH Clinic",
+      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
+      "floor": "1",
+      "lot": "L1-15",
+      "kind": "tenant",
+      "keywords": [
+        "health",
+        "clinic",
+        "wellness",
+        "farmasi",
+        "pharmacy",
+        "ubat"
+      ],
+      "officialUrl": "https://spsetia.com/retails/inc-klec/level-1/ph-clinic/",
+      "dataConfidence": "official-INC-directory"
+    },
+    {
+      "id": "inc-ph-dental-clinic-l1-19",
+      "name": "PH Dental Clinic",
+      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
+      "floor": "1",
+      "lot": "L1-19",
+      "kind": "tenant",
+      "keywords": [
+        "health",
+        "clinic",
+        "wellness",
+        "farmasi",
+        "pharmacy",
+        "ubat"
+      ],
+      "officialUrl": "https://spsetia.com/retails/inc-klec/level-1/ph-dental-clinic/",
+      "dataConfidence": "official-INC-directory"
+    },
+    {
+      "id": "inc-galeri-puteh-l3-01",
+      "name": "Galeri Puteh",
+      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
+      "floor": "3",
+      "lot": "L3-01",
+      "kind": "tenant",
+      "keywords": [],
+      "officialUrl": "https://spsetia.com/retails/inc-klec/level-3/galeri-puteh/",
+      "dataConfidence": "official-INC-directory"
+    },
+    {
+      "id": "inc-camp5-l4-07-08",
+      "name": "Camp5",
+      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
+      "floor": "4",
+      "lot": "L4-07 & 08",
+      "kind": "tenant",
+      "keywords": [],
+      "officialUrl": "https://spsetia.com/retails/inc-klec/level-4/camp5/",
+      "dataConfidence": "official-INC-directory"
+    },
+    {
+      "id": "inc-steps-pilates-l4-10",
+      "name": "Steps Pilates",
+      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
+      "floor": "4",
+      "lot": "L4-10",
+      "kind": "tenant",
+      "keywords": [],
+      "officialUrl": "https://spsetia.com/retails/inc-klec/level-4/steps-pilates/",
+      "dataConfidence": "official-INC-directory"
+    },
+    {
+      "id": "inc-being-juice-g-17",
+      "name": "Being Juice",
+      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
+      "floor": "G",
+      "lot": "G-17",
+      "kind": "tenant",
+      "keywords": [
+        "food",
+        "makan",
+        "makanan",
+        "selera",
+        "jamuan",
+        "air",
+        "minuman",
+        "restaurant",
+        "restoran",
+        "cafe",
+        "food court"
+      ],
+      "officialUrl": "https://spsetia.com/retails/inc-klec/level-g/being-juice/",
+      "dataConfidence": "official-INC-directory"
+    },
+    {
+      "id": "inc-degayo-coffee-g-11",
+      "name": "Degayo Coffee",
+      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
+      "floor": "G",
+      "lot": "G-11",
+      "kind": "tenant",
+      "keywords": [
+        "food",
+        "makan",
+        "makanan",
+        "selera",
+        "jamuan",
+        "air",
+        "minuman",
+        "restaurant",
+        "restoran",
+        "cafe",
+        "food court",
+        "coffee",
+        "kopi",
+        "latte"
+      ],
+      "officialUrl": "https://spsetia.com/retails/inc-klec/level-g/degayo-coffee/",
+      "dataConfidence": "official-INC-directory"
+    },
+    {
+      "id": "inc-kejap-food-g-09",
+      "name": "Kejap Food",
+      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
+      "floor": "G",
+      "lot": "G-09",
+      "kind": "tenant",
+      "keywords": [
+        "food",
+        "makan",
+        "makanan",
+        "selera",
+        "jamuan",
+        "air",
+        "minuman",
+        "restaurant",
+        "restoran",
+        "cafe",
+        "food court"
+      ],
+      "officialUrl": "https://spsetia.com/retails/inc-klec/level-g/kejap-food/",
+      "dataConfidence": "official-INC-directory"
+    },
+    {
+      "id": "inc-main-concourse-g",
+      "name": "Main Concourse - INC KL Eco City",
+      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
+      "floor": "G",
+      "kind": "landmark",
+      "keywords": [
+        "main concourse",
+        "concourse",
+        "INC",
+        "KLEC"
+      ],
+      "officialUrl": "https://spsetia.com/retails/inc-klec/contact-us/",
+      "dataConfidence": "official-INC-page"
+    },
+    {
+      "id": "inc-oat-story-bms-organics-inc-kl-eco-city-g-06",
+      "name": "Oat Story BMS Organics - INC KL Eco City",
+      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
+      "floor": "G",
+      "lot": "G-06",
+      "kind": "tenant",
+      "keywords": [
+        "food",
+        "makan",
+        "makanan",
+        "selera",
+        "jamuan",
+        "air",
+        "minuman",
+        "restaurant",
+        "restoran",
+        "cafe",
+        "food court"
+      ],
+      "officialUrl": "https://spsetia.com/retails/inc-klec/level-g/oat-story-bms-organics/",
+      "dataConfidence": "official-INC-directory"
+    },
+    {
+      "id": "inc-perfect-cuisine-g-18-19",
+      "name": "Perfect Cuisine",
+      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
+      "floor": "G",
+      "lot": "G-18 & 19",
+      "kind": "tenant",
+      "keywords": [
+        "food",
+        "makan",
+        "makanan",
+        "selera",
+        "jamuan",
+        "air",
+        "minuman",
+        "restaurant",
+        "restoran",
+        "cafe",
+        "food court"
+      ],
+      "officialUrl": "https://spsetia.com/retails/inc-klec/level-g/perfect-cuisine/",
+      "dataConfidence": "official-INC-directory"
+    },
+    {
+      "id": "inc-starbucks-g-25-26",
+      "name": "Starbucks",
+      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
+      "floor": "G",
+      "lot": "G-25 & 26",
+      "kind": "tenant",
+      "keywords": [
+        "food",
+        "makan",
+        "makanan",
+        "selera",
+        "jamuan",
+        "air",
+        "minuman",
+        "restaurant",
+        "restoran",
+        "cafe",
+        "food court",
+        "coffee",
+        "kopi",
+        "latte"
+      ],
+      "officialUrl": "https://spsetia.com/retails/inc-klec/level-g/starbucks/",
+      "dataConfidence": "official-INC-directory"
+    },
+    {
+      "id": "inc-superluna-inc-kl-eco-city-g-01",
+      "name": "Superluna - INC KL Eco City",
+      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
+      "floor": "G",
+      "lot": "G-01",
+      "kind": "tenant",
+      "keywords": [
+        "food",
+        "makan",
+        "makanan",
+        "selera",
+        "jamuan",
+        "air",
+        "minuman",
+        "restaurant",
+        "restoran",
+        "cafe",
+        "food court"
+      ],
+      "officialUrl": "https://spsetia.com/retails/inc-klec/level-g/superluna/",
+      "dataConfidence": "official-INC-directory"
+    },
+    {
+      "id": "inc-zus-coffee-g-12",
+      "name": "ZUS Coffee",
+      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
+      "floor": "G",
+      "lot": "G-12",
+      "kind": "tenant",
+      "keywords": [
+        "food",
+        "makan",
+        "makanan",
+        "selera",
+        "jamuan",
+        "air",
+        "minuman",
+        "restaurant",
+        "restoran",
+        "cafe",
+        "food court",
+        "coffee",
+        "kopi",
+        "latte"
+      ],
+      "officialUrl": "https://spsetia.com/retails/inc-klec/level-g/zus-coffee/",
+      "dataConfidence": "official-INC-directory"
+    },
+    {
+      "id": "inc-surau-mz",
+      "name": "Surau / Prayer Room - INC KL Eco City",
+      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
+      "floor": "MZ",
+      "area": "Mezzanine level below Ground; connected route toward LRT Abdullah Hukum",
+      "kind": "prayer",
+      "aliases": [
+        "KLEC surau",
+        "KL Eco City surau",
+        "INC surau",
+        "prayer room",
+        "musolla"
+      ],
+      "keywords": [
+        "surau",
+        "solat",
+        "sembahyang",
+        "prayer",
+        "musolla",
+        "KLEC",
+        "INC"
+      ],
+      "dataConfidence": "user-verified-location"
+    }
+  ]
+}

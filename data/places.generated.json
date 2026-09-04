@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-09-04T17:59:34.920Z",
+  "updatedAt": "2026-09-04T18:06:23.289Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -1723,25 +1723,6 @@
       "dataConfidence": "official-name-lot-category"
     },
     {
-      "id": "mvm-ace-hardware-sja3-b-s057-s058",
-      "name": "Ace Hardware",
-      "mall": "Mid Valley Megamall",
-      "floor": "2",
-      "lot": "SJA3(B), S057 & S058",
-      "kind": "tenant",
-      "category": "HOMES > Household Appliances LEISURE & ENTERTAINMENT > Sports & Outdoor SUNDRY & SERVICES > Car Accessories",
-      "keywords": [
-        "cinema",
-        "pawagam",
-        "wayang",
-        "filem",
-        "movie",
-        "tonton"
-      ],
-      "officialUrl": "https://www.midvalley.com.my/tenant/AceHardware/68b571de-b99d-4002-acc7-06ac68caf5ac/SHOP",
-      "dataConfidence": "official-name-lot-category"
-    },
-    {
       "id": "mvm-acer-s-095",
       "name": "Acer",
       "mall": "Mid Valley Megamall",
@@ -1751,6 +1732,18 @@
       "category": "IT & PHOTOGRAPHY GADGET > Computers & Gadget Accessories",
       "keywords": [],
       "officialUrl": "https://www.midvalley.com.my/tenant/Acer/491c2851-a35e-454d-84ea-3fad10c1a7c0/SHOP",
+      "dataConfidence": "official-name-lot-category"
+    },
+    {
+      "id": "mvm-all-it-xpress-s-091",
+      "name": "ALL IT Xpress",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "S-091",
+      "kind": "tenant",
+      "category": "IT & PHOTOGRAPHY GADGET > Computers & Gadget Accessories",
+      "keywords": [],
+      "officialUrl": "https://www.midvalley.com.my/tenant/ALLITXpress/0f883a7a-763a-46f5-9bc4-69af346918af/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {

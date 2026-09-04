@@ -1,11 +1,49 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "source": "https://www.midvalley.com.my/pdf/shop-mall-map.pdf",
-  "generatedAt": "2026-09-04T17:59:47.465688+00:00",
+  "generatedAt": "2026-09-04T18:06:54.582568+00:00",
   "image": {
-    "width": 1863,
-    "height": 3948
+    "width": 4657,
+    "height": 9868,
+    "dpi": 600
   },
+  "floorBands": [
+    {
+      "floor": "3",
+      "from": 0.01,
+      "to": 0.195
+    },
+    {
+      "floor": "2",
+      "from": 0.205,
+      "to": 0.3
+    },
+    {
+      "floor": "1",
+      "from": 0.31,
+      "to": 0.405
+    },
+    {
+      "floor": "G",
+      "from": 0.41,
+      "to": 0.52
+    },
+    {
+      "floor": "LG",
+      "from": 0.53,
+      "to": 0.625
+    },
+    {
+      "floor": "P1",
+      "from": 0.645,
+      "to": 0.725
+    },
+    {
+      "floor": "P2",
+      "from": 0.73,
+      "to": 0.81
+    }
+  ],
   "palette": [
     {
       "rgb": [
@@ -13,7 +51,7 @@
         195,
         66
       ],
-      "count": 880599
+      "count": 880645
     },
     {
       "rgb": [
@@ -21,7 +59,7 @@
         184,
         186
       ],
-      "count": 139145
+      "count": 140035
     },
     {
       "rgb": [
@@ -29,7 +67,7 @@
         162,
         215
       ],
-      "count": 128799
+      "count": 128933
     },
     {
       "rgb": [
@@ -37,15 +75,15 @@
         255,
         255
       ],
-      "count": 85487
+      "count": 85213
     },
     {
       "rgb": [
-        197,
+        198,
         201,
-        156
+        157
       ],
-      "count": 82416
+      "count": 81369
     },
     {
       "rgb": [
@@ -53,7 +91,7 @@
         131,
         136
       ],
-      "count": 77840
+      "count": 77793
     },
     {
       "rgb": [
@@ -61,7 +99,7 @@
         195,
         65
       ],
-      "count": 70983
+      "count": 70673
     },
     {
       "rgb": [
@@ -69,15 +107,15 @@
         94,
         66
       ],
-      "count": 68868
+      "count": 68185
     },
     {
       "rgb": [
         239,
         238,
-        179
+        177
       ],
-      "count": 29378
+      "count": 30558
     },
     {
       "rgb": [
@@ -85,7 +123,15 @@
         177,
         225
       ],
-      "count": 26012
+      "count": 26293
+    },
+    {
+      "rgb": [
+        117,
+        179,
+        85
+      ],
+      "count": 20177
     },
     {
       "rgb": [
@@ -93,23 +139,15 @@
         162,
         216
       ],
-      "count": 19148
+      "count": 19192
     },
     {
       "rgb": [
-        117,
-        179,
-        86
-      ],
-      "count": 18454
-    },
-    {
-      "rgb": [
-        105,
+        104,
         150,
-        133
+        134
       ],
-      "count": 15518
+      "count": 16601
     },
     {
       "rgb": [
@@ -117,23 +155,7 @@
         186,
         188
       ],
-      "count": 9337
-    },
-    {
-      "rgb": [
-        98,
-        162,
-        215
-      ],
-      "count": 9007
-    },
-    {
-      "rgb": [
-        140,
-        188,
-        112
-      ],
-      "count": 8779
+      "count": 9537
     },
     {
       "rgb": [
@@ -141,7 +163,23 @@
         162,
         216
       ],
-      "count": 8661
+      "count": 8652
+    },
+    {
+      "rgb": [
+        98,
+        162,
+        215
+      ],
+      "count": 8641
+    },
+    {
+      "rgb": [
+        140,
+        188,
+        110
+      ],
+      "count": 8339
     },
     {
       "rgb": [
@@ -149,7 +187,7 @@
         195,
         64
       ],
-      "count": 8062
+      "count": 7474
     },
     {
       "rgb": [
@@ -157,23 +195,7 @@
         184,
         187
       ],
-      "count": 7269
-    },
-    {
-      "rgb": [
-        128,
-        195,
-        89
-      ],
-      "count": 5090
-    },
-    {
-      "rgb": [
-        197,
-        187,
-        172
-      ],
-      "count": 5064
+      "count": 7222
     },
     {
       "rgb": [
@@ -181,279 +203,544 @@
         196,
         66
       ],
-      "count": 5013
+      "count": 4879
+    },
+    {
+      "rgb": [
+        196,
+        187,
+        172
+      ],
+      "count": 4445
+    },
+    {
+      "rgb": [
+        128,
+        195,
+        85
+      ],
+      "count": 4406
     },
     {
       "rgb": [
         182,
         186,
-        180
+        178
       ],
-      "count": 4076
+      "count": 4070
     },
     {
       "rgb": [
         182,
         180,
-        167
+        159
       ],
-      "count": 3295
+      "count": 2968
     }
   ],
-  "ocrCandidates": [
+  "matchedLotLabels": [],
+  "matchedCodeCount": 0,
+  "ocrAudit": [
     {
-      "text": "TO70",
-      "confidence": 55.385208,
-      "x": 633.5,
-      "y": 100.0,
-      "w": 39,
-      "h": 12,
-      "floor": "",
-      "xNorm": 0.340043,
-      "yNorm": 0.025329
-    },
-    {
-      "text": "T048",
-      "confidence": 50.869823,
-      "x": 796.5,
-      "y": 96.5,
-      "w": 39,
-      "h": 13,
-      "floor": "",
-      "xNorm": 0.427536,
-      "yNorm": 0.024443
-    },
-    {
-      "text": "2B",
-      "confidence": 41.128113,
-      "x": 1174.5,
-      "y": 465.0,
-      "w": 25,
-      "h": 24,
+      "text": "FITNESS",
+      "canonical": "F1TNESS",
+      "tokens": [
+        "F1T"
+      ],
       "floor": "3",
-      "xNorm": 0.630435,
-      "yNorm": 0.117781
+      "xNorm": 0.7914967,
+      "yNorm": 0.1605695
     },
     {
-      "text": "2",
-      "confidence": 29.856674,
-      "x": 1269.5,
-      "y": 525.0,
-      "w": 13,
-      "h": 8,
-      "floor": "3",
-      "xNorm": 0.681428,
-      "yNorm": 0.132979
-    },
-    {
-      "text": "S084",
-      "confidence": 45.493195,
-      "x": 927.5,
-      "y": 924.0,
-      "w": 49,
-      "h": 28,
-      "floor": "3",
-      "xNorm": 0.497853,
-      "yNorm": 0.234043
-    },
-    {
-      "text": "S068",
-      "confidence": 58.600346,
-      "x": 505.5,
-      "y": 952.5,
-      "w": 25,
-      "h": 13,
-      "floor": "3",
-      "xNorm": 0.271337,
-      "yNorm": 0.241261
-    },
-    {
-      "text": "S070",
-      "confidence": 40.337646,
-      "x": 631.0,
-      "y": 941.0,
-      "w": 30,
-      "h": 28,
-      "floor": "3",
-      "xNorm": 0.338701,
-      "yNorm": 0.238349
-    },
-    {
-      "text": "S052",
-      "confidence": 56.622116,
-      "x": 722.0,
-      "y": 1007.0,
-      "w": 22,
-      "h": 12,
+      "text": "S094",
+      "canonical": "S094",
+      "tokens": [
+        "S094"
+      ],
       "floor": "2",
-      "xNorm": 0.387547,
-      "yNorm": 0.255066
+      "xNorm": 0.5448787,
+      "yNorm": 0.2203081
     },
     {
-      "text": "S064",
-      "confidence": 91.385559,
-      "x": 522.5,
-      "y": 1019.5,
-      "w": 25,
-      "h": 13,
+      "text": "S091",
+      "canonical": "S091",
+      "tokens": [
+        "S091"
+      ],
       "floor": "2",
-      "xNorm": 0.280462,
-      "yNorm": 0.258232
+      "xNorm": 0.4923771,
+      "yNorm": 0.2227402
     },
     {
-      "text": "F008",
-      "confidence": 36.16954,
-      "x": 1152.5,
-      "y": 1316.0,
-      "w": 31,
-      "h": 28,
+      "text": "S005",
+      "canonical": "S005",
+      "tokens": [
+        "S005"
+      ],
       "floor": "2",
-      "xNorm": 0.618626,
-      "yNorm": 0.333333
+      "xNorm": 0.5632381,
+      "yNorm": 0.2324686
     },
     {
-      "text": "FO74",
-      "confidence": 52.238258,
-      "x": 370.0,
-      "y": 1416.0,
-      "w": 32,
-      "h": 10,
+      "text": "S05",
+      "canonical": "S05",
+      "tokens": [
+        "S05"
+      ],
       "floor": "2",
-      "xNorm": 0.198604,
-      "yNorm": 0.358663
+      "xNorm": 0.5301696,
+      "yNorm": 0.2352554
     },
     {
-      "text": "F072",
-      "confidence": 27.093948,
-      "x": 402.5,
-      "y": 1413.0,
-      "w": 25,
-      "h": 10,
+      "text": "SO63A",
+      "canonical": "S063A",
+      "tokens": [
+        "S063A"
+      ],
       "floor": "2",
-      "xNorm": 0.216049,
-      "yNorm": 0.357903
+      "xNorm": 0.3685849,
+      "yNorm": 0.2689501
     },
     {
-      "text": "F063",
-      "confidence": 55.856941,
-      "x": 919.0,
-      "y": 1407.0,
-      "w": 66,
-      "h": 12,
+      "text": "SoAd",
+      "canonical": "S0AD",
+      "tokens": [
+        "S0A"
+      ],
       "floor": "2",
-      "xNorm": 0.49329,
-      "yNorm": 0.356383
+      "xNorm": 0.5184668,
+      "yNorm": 0.2664167
     },
     {
-      "text": "F070",
-      "confidence": 23.006531,
-      "x": 521.0,
-      "y": 1434.0,
-      "w": 26,
-      "h": 10,
+      "text": "S0A2",
+      "canonical": "S0A2",
+      "tokens": [
+        "S0A"
+      ],
       "floor": "2",
-      "xNorm": 0.279656,
-      "yNorm": 0.363222
+      "xNorm": 0.5877174,
+      "yNorm": 0.2632752
     },
     {
-      "text": "00",
-      "confidence": 32.023216,
-      "x": 910.0,
-      "y": 1741.5,
-      "w": 28,
-      "h": 9,
-      "floor": "1",
-      "xNorm": 0.488459,
-      "yNorm": 0.441109
+      "text": "S043",
+      "canonical": "S043",
+      "tokens": [
+        "S043"
+      ],
+      "floor": "2",
+      "xNorm": 0.5970582,
+      "yNorm": 0.2725983
     },
     {
-      "text": "S021",
-      "confidence": 40.18404,
-      "x": 1372.0,
-      "y": 1729.0,
-      "w": 28,
-      "h": 10,
-      "floor": "1",
-      "xNorm": 0.736447,
-      "yNorm": 0.437943
+      "text": "SOAse",
+      "canonical": "S0ASE",
+      "tokens": [
+        "S0A"
+      ],
+      "floor": "2",
+      "xNorm": 0.6012454,
+      "yNorm": 0.2767025
     },
     {
-      "text": "GO1S",
-      "confidence": 32.082664,
-      "x": 1188.5,
-      "y": 1747.5,
-      "w": 25,
-      "h": 13,
-      "floor": "1",
-      "xNorm": 0.63795,
-      "yNorm": 0.442629
+      "text": "Soe",
+      "canonical": "S0E",
+      "tokens": [
+        "S0E"
+      ],
+      "floor": "2",
+      "xNorm": 0.5219025,
+      "yNorm": 0.2796413
     },
     {
-      "text": "R08",
-      "confidence": 45.475941,
-      "x": 1121.0,
-      "y": 1783.5,
-      "w": 22,
-      "h": 9,
+      "text": "FOI",
+      "canonical": "F01",
+      "tokens": [
+        "F01"
+      ],
       "floor": "1",
-      "xNorm": 0.601718,
-      "yNorm": 0.451748
+      "xNorm": 0.5024694,
+      "yNorm": 0.3322862
     },
     {
-      "text": "B04",
-      "confidence": 28.658989,
-      "x": 757.5,
-      "y": 1816.0,
-      "w": 21,
-      "h": 28,
+      "text": "FOOT",
+      "canonical": "F00T",
+      "tokens": [
+        "F00T"
+      ],
       "floor": "1",
-      "xNorm": 0.406602,
-      "yNorm": 0.45998
+      "xNorm": 0.5603393,
+      "yNorm": 0.3359343
     },
     {
-      "text": "06",
-      "confidence": 33.527161,
-      "x": 883.5,
-      "y": 1802.5,
-      "w": 13,
-      "h": 9,
+      "text": "FO69C",
+      "canonical": "F069C",
+      "tokens": [
+        "F069C"
+      ],
       "floor": "1",
-      "xNorm": 0.474235,
-      "yNorm": 0.45656
+      "xNorm": 0.3715912,
+      "yNorm": 0.3695784
     },
     {
-      "text": "LG048",
-      "confidence": 37.222843,
-      "x": 727.0,
-      "y": 2243.5,
-      "w": 42,
-      "h": 9,
+      "text": "FOAB",
+      "canonical": "F0AB",
+      "tokens": [
+        "F0A"
+      ],
       "floor": "1",
-      "xNorm": 0.390231,
-      "yNorm": 0.568262
+      "xNorm": 0.5928709,
+      "yNorm": 0.3666396
     },
     {
-      "text": "LG044",
-      "confidence": 38.422859,
-      "x": 855.0,
-      "y": 2234.0,
-      "w": 38,
-      "h": 14,
+      "text": "FO69G",
+      "canonical": "F069G",
+      "tokens": [
+        "F069G"
+      ],
       "floor": "1",
-      "xNorm": 0.458937,
-      "yNorm": 0.565856
+      "xNorm": 0.2807601,
+      "yNorm": 0.3724666
+    },
+    {
+      "text": "FOS4",
+      "canonical": "F0S4",
+      "tokens": [
+        "F0S"
+      ],
+      "floor": "1",
+      "xNorm": 0.5197552,
+      "yNorm": 0.3706931
+    },
+    {
+      "text": "FOSS",
+      "canonical": "F0SS",
+      "tokens": [
+        "F0S"
+      ],
+      "floor": "1",
+      "xNorm": 0.5221172,
+      "yNorm": 0.3735813
+    },
+    {
+      "text": "FO69E",
+      "canonical": "F069E",
+      "tokens": [
+        "F069E"
+      ],
+      "floor": "1",
+      "xNorm": 0.2818338,
+      "yNorm": 0.3763681
+    },
+    {
+      "text": "FOSO",
+      "canonical": "F0S0",
+      "tokens": [
+        "F0S"
+      ],
+      "floor": "1",
+      "xNorm": 0.6067211,
+      "yNorm": 0.3842724
+    },
+    {
+      "text": "tlt",
+      "canonical": "T1T",
+      "tokens": [
+        "T1T"
+      ],
+      "floor": "1",
+      "xNorm": 0.2814043,
+      "yNorm": 0.3864512
+    },
+    {
+      "text": "GOOr",
+      "canonical": "G00R",
+      "tokens": [
+        "G00R"
+      ],
+      "floor": "G",
+      "xNorm": 0.556152,
+      "yNorm": 0.4391974
+    },
+    {
+      "text": "Go76",
+      "canonical": "G076",
+      "tokens": [
+        "G076"
+      ],
+      "floor": "G",
+      "xNorm": 0.2686279,
+      "yNorm": 0.4419842
+    },
+    {
+      "text": "GooT",
+      "canonical": "G00T",
+      "tokens": [
+        "G00T"
+      ],
+      "floor": "G",
+      "xNorm": 0.5596951,
+      "yNorm": 0.4435549
+    },
+    {
+      "text": "GONGEPT",
+      "canonical": "G0NGEPT",
+      "tokens": [
+        "G0N"
+      ],
+      "floor": "G",
+      "xNorm": 0.8304703,
+      "yNorm": 0.4433522
+    },
+    {
+      "text": "Go79",
+      "canonical": "G079",
+      "tokens": [
+        "G079"
+      ],
+      "floor": "G",
+      "xNorm": 0.2695942,
+      "yNorm": 0.445227
+    },
+    {
+      "text": "STORE",
+      "canonical": "ST0RE",
+      "tokens": [
+        "T0R"
+      ],
+      "floor": "G",
+      "xNorm": 0.8340133,
+      "yNorm": 0.4460377
+    },
+    {
+      "text": "GO5S",
+      "canonical": "G05S",
+      "tokens": [
+        "G05S"
+      ],
+      "floor": "G",
+      "xNorm": 0.5007516,
+      "yNorm": 0.4626064
+    },
+    {
+      "text": "Gos4",
+      "canonical": "G0S4",
+      "tokens": [
+        "G0S"
+      ],
+      "floor": "G",
+      "xNorm": 0.5030062,
+      "yNorm": 0.4656972
+    },
+    {
+      "text": "G058",
+      "canonical": "G058",
+      "tokens": [
+        "G058"
+      ],
+      "floor": "G",
+      "xNorm": 0.4735881,
+      "yNorm": 0.468484
+    },
+    {
+      "text": "Goa",
+      "canonical": "G0A",
+      "tokens": [
+        "G0A"
+      ],
+      "floor": "G",
+      "xNorm": 0.5759072,
+      "yNorm": 0.4670653
+    },
+    {
+      "text": "Gi",
+      "canonical": "G1",
+      "tokens": [
+        "G1"
+      ],
+      "floor": "G",
+      "xNorm": 0.5733305,
+      "yNorm": 0.4702067
+    },
+    {
+      "text": "GOS3",
+      "canonical": "G0S3",
+      "tokens": [
+        "G0S"
+      ],
+      "floor": "G",
+      "xNorm": 0.4757355,
+      "yNorm": 0.4716255
+    },
+    {
+      "text": "Gost",
+      "canonical": "G0ST",
+      "tokens": [
+        "G0S"
+      ],
+      "floor": "G",
+      "xNorm": 0.5081598,
+      "yNorm": 0.475527
+    },
+    {
+      "text": "SON",
+      "canonical": "S0N",
+      "tokens": [
+        "S0N"
+      ],
+      "floor": "G",
+      "xNorm": 0.7224608,
+      "yNorm": 0.4729428
+    },
+    {
+      "text": "GO43A",
+      "canonical": "G043A",
+      "tokens": [
+        "G043A"
+      ],
+      "floor": "G",
+      "xNorm": 0.5834228,
+      "yNorm": 0.4822659
+    },
+    {
+      "text": "Go70",
+      "canonical": "G070",
+      "tokens": [
+        "G070"
+      ],
+      "floor": "G",
+      "xNorm": 0.2699163,
+      "yNorm": 0.483938
+    },
+    {
+      "text": "Go69A",
+      "canonical": "G069A",
+      "tokens": [
+        "G069A"
+      ],
+      "floor": "G",
+      "xNorm": 0.2714194,
+      "yNorm": 0.4878395
+    },
+    {
+      "text": "Goas",
+      "canonical": "G0AS",
+      "tokens": [
+        "G0A"
+      ],
+      "floor": "G",
+      "xNorm": 0.524694,
+      "yNorm": 0.4958452
+    },
+    {
+      "text": "GOAT",
+      "canonical": "G0AT",
+      "tokens": [
+        "G0A"
+      ],
+      "floor": "G",
+      "xNorm": 0.5923341,
+      "yNorm": 0.4945278
+    },
+    {
+      "text": "LGOOS",
+      "canonical": "LG00S",
+      "tokens": [
+        "LG00S"
+      ],
+      "floor": "LG",
+      "xNorm": 0.5579772,
+      "yNorm": 0.5440819
+    },
+    {
+      "text": "LGoTS",
+      "canonical": "LG0TS",
+      "tokens": [
+        "LG0T"
+      ],
+      "floor": "LG",
+      "xNorm": 0.5024694,
+      "yNorm": 0.5461593
+    },
+    {
+      "text": "LGO6GO",
+      "canonical": "LG06G0",
+      "tokens": [
+        "LG06G"
+      ],
+      "floor": "LG",
+      "xNorm": 0.2500537,
+      "yNorm": 0.5539623
+    },
+    {
+      "text": "LGO44",
+      "canonical": "LG044",
+      "tokens": [
+        "LG044"
+      ],
+      "floor": "LG",
+      "xNorm": 0.4578055,
+      "yNorm": 0.5654135
+    },
+    {
+      "text": "LGOo48",
+      "canonical": "LG0048",
+      "tokens": [
+        "LG004"
+      ],
+      "floor": "LG",
+      "xNorm": 0.3903801,
+      "yNorm": 0.5685043
+    },
+    {
+      "text": "GOS",
+      "canonical": "G0S",
+      "tokens": [
+        "G0S"
+      ],
+      "floor": "LG",
+      "xNorm": 0.6067211,
+      "yNorm": 0.5696696
+    },
+    {
+      "text": "LGOOS",
+      "canonical": "LG00S",
+      "tokens": [
+        "LG00S"
+      ],
+      "floor": "LG",
+      "xNorm": 0.4881898,
+      "yNorm": 0.5747872
+    },
+    {
+      "text": "Goss",
+      "canonical": "G0SS",
+      "tokens": [
+        "G0S"
+      ],
+      "floor": "LG",
+      "xNorm": 0.5280223,
+      "yNorm": 0.5761552
+    },
+    {
+      "text": "LGossA",
+      "canonical": "LG0SSA",
+      "tokens": [
+        "LG0S"
+      ],
+      "floor": "LG",
+      "xNorm": 0.4975306,
+      "yNorm": 0.5894305
     },
     {
       "text": "SP1-001",
-      "confidence": 61.895603,
-      "x": 698.0,
-      "y": 2709.0,
-      "w": 46,
-      "h": 12,
-      "floor": "G",
-      "xNorm": 0.374665,
-      "yNorm": 0.68617
+      "canonical": "SP1-001",
+      "tokens": [
+        "SP1-001"
+      ],
+      "floor": "P1",
+      "xNorm": 0.5418725,
+      "yNorm": 0.6818504
     }
   ],
-  "note": "OCR candidates are not route truth by themselves. They must match current official tenant lots before use."
+  "note": "Coordinates are accepted only when an OCR lot token matches a current official Mid Valley tenant lot on the same floor. Corridor/left-right routing requires separate walkable-path validation."
 }
