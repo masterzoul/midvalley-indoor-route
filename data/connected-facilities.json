@@ -1,7 +1,116 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "updatedAt": "2026-09-05",
   "places": [
+    {
+      "id": "mvm-dior-g-040",
+      "name": "Dior",
+      "mall": "Mid Valley Megamall",
+      "floor": "G",
+      "lot": "G-040",
+      "kind": "tenant",
+      "category": "BEAUTY & WELLNESS > Cosmetic",
+      "keywords": ["beauty", "cosmetic"],
+      "routeNode": "dior-g",
+      "officialUrl": "https://www.midvalley.com.my/tenant/Dior/6a6951aa-dc47-45ba-8613-eeef6fcbd08e/SHOP",
+      "dataConfidence": "official-tenant-plus-ground-map"
+    },
+    {
+      "id": "mvm-south-court-g",
+      "name": "South Court",
+      "mall": "Mid Valley Megamall",
+      "floor": "G",
+      "kind": "landmark",
+      "routeNode": "south-g",
+      "keywords": ["south court", "court", "escalator", "information counter", "south entrance"],
+      "dataConfidence": "official-ground-map"
+    },
+    {
+      "id": "mvm-north-court-g",
+      "name": "North Court",
+      "mall": "Mid Valley Megamall",
+      "floor": "G",
+      "kind": "landmark",
+      "routeNode": "north-g",
+      "keywords": ["north court", "court", "escalator", "information counter", "north entrance"],
+      "dataConfidence": "official-ground-map"
+    },
+    {
+      "id": "mvm-east-entrance-g",
+      "name": "East Entrance / East Atrium",
+      "mall": "Mid Valley Megamall",
+      "floor": "G",
+      "kind": "entrance",
+      "routeNode": "east-g",
+      "keywords": ["east entrance", "east atrium", "entrance", "pintu masuk", "escalator", "toilet", "lift"],
+      "dataConfidence": "official-ground-map"
+    },
+    {
+      "id": "mvm-escalator-centre-g",
+      "name": "Escalator - Centre Court Ground Floor",
+      "mall": "Mid Valley Megamall",
+      "floor": "G",
+      "area": "Centre Court",
+      "kind": "escalator",
+      "routeNode": "centre-g",
+      "keywords": ["escalator", "eskalator", "tangga bergerak", "centre court"],
+      "dataConfidence": "official-ground-map"
+    },
+    {
+      "id": "mvm-escalator-south-g",
+      "name": "Escalator - South Court Ground Floor",
+      "mall": "Mid Valley Megamall",
+      "floor": "G",
+      "area": "South Court",
+      "kind": "escalator",
+      "routeNode": "south-g",
+      "keywords": ["escalator", "eskalator", "tangga bergerak", "south court"],
+      "dataConfidence": "official-ground-map"
+    },
+    {
+      "id": "mvm-escalator-north-g",
+      "name": "Escalator - North Court Ground Floor",
+      "mall": "Mid Valley Megamall",
+      "floor": "G",
+      "area": "North Court",
+      "kind": "escalator",
+      "routeNode": "north-g",
+      "keywords": ["escalator", "eskalator", "tangga bergerak", "north court"],
+      "dataConfidence": "official-ground-map"
+    },
+    {
+      "id": "mvm-escalator-east-g",
+      "name": "Escalator - East Atrium Ground Floor",
+      "mall": "Mid Valley Megamall",
+      "floor": "G",
+      "area": "East Atrium",
+      "kind": "escalator",
+      "routeNode": "east-g",
+      "keywords": ["escalator", "eskalator", "tangga bergerak", "east atrium"],
+      "dataConfidence": "official-ground-map"
+    },
+    {
+      "id": "mvm-toilet-east-g",
+      "name": "Toilet - East Entrance Ground Floor",
+      "mall": "Mid Valley Megamall",
+      "floor": "G",
+      "area": "East Entrance",
+      "kind": "toilet",
+      "routeNode": "east-g",
+      "keywords": ["tandas", "toilet", "restroom", "washroom", "wc"],
+      "dataConfidence": "official-ground-map"
+    },
+    {
+      "id": "mvm-lift-east-g",
+      "name": "Lift - East Entrance Ground Floor",
+      "mall": "Mid Valley Megamall",
+      "floor": "G",
+      "area": "East Entrance",
+      "kind": "lift",
+      "routeNode": "east-g",
+      "keywords": ["lift", "elevator"],
+      "dataConfidence": "official-ground-map"
+    },
     {
       "id": "inc-surau-mz",
       "name": "Surau / Prayer Room - INC KL Eco City",
