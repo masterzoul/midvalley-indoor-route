@@ -47,6 +47,9 @@ jobs:
           sudo apt-get install -y -qq poppler-utils tesseract-ocr
           python3 -m pip install --quiet pillow
 
+      - name: Inspect Gardens official floor-map markup
+        run: node scripts/inspect-gardens.mjs
+
       - name: Sync official tenant directory
         run: node scripts/sync-places.mjs
 
