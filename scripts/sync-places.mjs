@@ -31,13 +31,13 @@ function slug(s){return decode(s).toLowerCase().normalize('NFKD').replace(/[\u03
 
 function inferFloor(lot){
   const x=String(lot||'').toUpperCase().replace(/\s+/g,'');
-  if(/^LG/.test(x))return 'LG';
-  if(/^P1/.test(x))return 'P1';
-  if(/^P2/.test(x))return 'P2';
-  if(/^G[-\d]/.test(x)||/^G\b/.test(x))return 'G';
-  if(/^F[-\d]/.test(x)||/^F\b/.test(x))return '1';
-  if(/^S[-\d]/.test(x)||/^S\b/.test(x))return '2';
-  if(/^T[-\d]/.test(x)||/^T\b/.test(x))return '3';
+  if(x.startsWith('LG'))return 'LG';
+  if(x.startsWith('P1'))return 'P1';
+  if(x.startsWith('P2'))return 'P2';
+  if(x.startsWith('G'))return 'G';
+  if(x.startsWith('F'))return '1';
+  if(x.startsWith('S'))return '2';
+  if(x.startsWith('T'))return '3';
   return '';
 }
 
