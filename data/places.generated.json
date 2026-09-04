@@ -1,33 +1,13 @@
 {
   "schemaVersion": 1,
   "sourceMode": "generated",
-  "updatedAt": "2026-09-04T13:59:47.279Z",
+  "updatedAt": "2026-09-04T14:01:28.004Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
   "source": "https://www.midvalley.com.my/shop/directory/",
   "tenantCount": 559,
   "places": [
-    {
-      "id": "mvm-3ce-stylenanda-gk-10-11",
-      "name": "3CE Stylenanda",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "GK-10 & 11",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/3CEStylenanda/dab3b7ed-4c61-4cd8-81e5-852fbba60713/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-ace-hardware-sja3-b-s057-s058",
-      "name": "Ace Hardware",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "SJA3(B), S057 & S058",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/AceHardware/68b571de-b99d-4002-acc7-06ac68caf5ac/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
     {
       "id": "mvm-aeon-homes-sports-outdoor-at-3",
       "name": "AEON (Homes, Sports & Outdoor)",
@@ -79,46 +59,6 @@
       "dataConfidence": "official-name-and-lot"
     },
     {
-      "id": "mvm-alphamax-fk-12",
-      "name": "Alphamax",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "FK-12",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/Alphamax/278196ae-75f8-46b8-9c28-cd5b58bd91f2/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-apollo-pick-a-licious-tk-07",
-      "name": "APOLLO Pick-A-LiCious",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "TK-07",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/APOLLOPickALiCious/7f1b99b0-578b-4fc2-a57c-a33a4a19ee10/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-baskin-robbins-fk-02",
-      "name": "Baskin-Robbins",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "FK-02",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/BaskinRobbins/b979cd2f-8fae-4f9a-997f-7fc826dc7114/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-borneo-pearls-fk-14-17",
-      "name": "Borneo Pearls",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "FK-14 & 17",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/BorneoPearls/fc4c277e-91f5-4d8d-8f01-07e7f0f4a610/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
       "id": "mvm-cars-international-p1-zone-a-c",
       "name": "CARs International (P1)",
       "mall": "Mid Valley Megamall",
@@ -126,36 +66,6 @@
       "lot": "Zone A & C",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/CARsInternationalP1/321cccea-7365-482b-a4ba-baaa7a6a59fe/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-chloe-beauty-gk-08-09",
-      "name": "Chloé Beauty",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "GK-08 & 09",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/ChloBeauty/9a338059-5ba9-4c18-9f7d-419d4a126ba0/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-clef-fk-18",
-      "name": "CLEF",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "FK-18",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/CLEF/0c496a67-d50f-4ffe-af6e-509d69a49275/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-creme-de-la-creme-tk-01",
-      "name": "Creme de la crème",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "TK-01",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/Cremedelacrme/97650252-2fcd-40ec-8ef2-f09a0f6861e4/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -176,46 +86,6 @@
       "lot": "Zone C, Level P2",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/ecoHUB/a1201e39-9bb7-44c6-8d60-009aff321032/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-elaira-pop-tk-11",
-      "name": "Elaira Pop",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "TK-11",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/ElairaPop/ede0fdf6-78b4-4239-ac71-084d182c2b1e/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-empire-sushi-tk-27",
-      "name": "Empire Sushi",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "TK-27",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/EmpireSushi/d2bf39d0-3088-4237-bad0-f029e8bfacd6/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-empro-sk-03",
-      "name": "Empro",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "SK-03",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/Empro/967ba445-12fc-4def-b4ab-8bfa85b75cb0/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-eubiq-sk-15",
-      "name": "eubiq",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "SK-15",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/eubiq/7de5feee-ab61-4b6a-a731-515bfe7e7339/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -246,86 +116,6 @@
       "lot": "Zone A & C",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/FixItAllAutoDetailing/adfc0544-7466-4d07-81bc-5fd5bb44f27b/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-garmin-tk-13",
-      "name": "Garmin",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "TK-13",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/Garmin/fa13b062-74d0-4cd1-a7b7-4bcd07cd4ee5/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-gigi-coffee-fk-06",
-      "name": "GIGI Coffee",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "FK-06",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/GIGICoffee/df2c55f6-017a-4472-9d71-720e32f93bd4/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-givenchy-gk-03-04",
-      "name": "Givenchy",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "GK-03 & 04",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/Givenchy/cbf12a66-46b3-4ad3-b49f-574cf76af928/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-grams28-tk-03",
-      "name": "Grams28",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "TK-03",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/Grams28/a2feb128-7bcb-493f-9046-b8ce1f32d37a/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-gucci-beauty-gk-05-06",
-      "name": "Gucci Beauty",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "GK-05 & 06",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/GucciBeauty/e7360609-9e8e-4dd3-bc3c-9d897015003f/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-haagen-dazs-sk-01",
-      "name": "Haagen-Dazs",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "SK-01",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/HaagenDazs/50d5b9d0-e36a-4846-a729-86b342dd6764/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-hairdepot-sp1-02",
-      "name": "HAIRDEPOT",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "SP1-02",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/HAIRDEPOT/3d6927e1-43b5-46d5-bd4e-b83513c71f99/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-hat-attack-fk-013",
-      "name": "Hat Attack",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "FK-013",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/HatAttack/2fb3d2e6-3e23-42e0-8f34-9060e282b373/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -369,16 +159,6 @@
       "dataConfidence": "official-name-and-lot"
     },
     {
-      "id": "mvm-itsu-sk-11",
-      "name": "ITSU 御手の物",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "SK-11",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/ITSU/85f06302-fd33-4497-92ce-451c548937dc/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
       "id": "mvm-kedai-bless-cp1-01",
       "name": "Kedai BLESS",
       "mall": "Mid Valley Megamall",
@@ -386,56 +166,6 @@
       "lot": "CP1-01",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/KedaiBLESS/622c9384-e5ae-4fcd-a3c9-027ef43df9b1/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-kerastase-paris-fk-07",
-      "name": "Kérastase Paris",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "FK-07",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/KrastaseParis/17cc8f27-3184-4f0f-94d4-5c2e2f31347c/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-krispy-kreme-sk-09",
-      "name": "Krispy Kreme",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "SK-09",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/KrispyKreme/cf17c041-540f-40f5-9fcd-702bc554a6df/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-kyo-ha-matcha-de-kimeru-fk-11",
-      "name": "Kyo ha Matcha de Kimeru",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "FK-11",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/KyohaMatchadeKimeru/474891c5-73d8-40ec-86c8-d7aed27459fe/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-listening-lab-hearing-centre-sp1-06",
-      "name": "Listening Lab Hearing Centre",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "SP1-06",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/ListeningLabHearingCentre/75508636-c13f-4d31-b3ed-e86d7c3d48ca/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-llaollao-tk-04",
-      "name": "llaollao",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "TK-04",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/llaollao/8800fc66-619c-4d22-a458-d2baede1c67f/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -459,116 +189,6 @@
       "dataConfidence": "official-name-and-lot"
     },
     {
-      "id": "mvm-monoloq-gk-01",
-      "name": "Monoloq",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "GK-01",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/Monoloq/eaa1e458-40c1-4aa2-ab87-bfa9cfeef7f2/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-montigo-sk-08",
-      "name": "Montigo",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "SK-08",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/Montigo/a588e020-4682-4499-bee8-b203e523bb05/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-my-gadgets-sk-07",
-      "name": "My Gadgets",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "SK-07",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/MyGadgets/2aecdf30-9a74-4476-b609-f95896de5db7/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-my-tie-shop-fk-08",
-      "name": "My Tie Shop",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "FK-08",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/MyTieShop/1e922489-6e66-4f4e-98ef-736b34c6090a/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-nononsense-coffee-fk-10",
-      "name": "Nononsense Coffee",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "FK-10",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/NononsenseCoffee/c604394c-debf-4563-a623-883037b90aae/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-oiyo-tk-15",
-      "name": "OiYO",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "TK-15",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/OiYO/bd9ef641-bd90-4d4e-99d3-e98428d876a5/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-oku-dobi-sdn-bhd-sp2-k-01",
-      "name": "OKU Dobi Sdn Bhd",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "SP2(K)-01",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/OKUDobiSdnBhd/59a125d3-bee1-4a45-9015-e3c6e07928c7/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-osim-sk-13",
-      "name": "Osim",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "SK-13",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/Osim/52808c8a-b5bd-4d91-b867-ca77c2ddaea4/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-over-tk-05",
-      "name": "OVER",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "TK-05",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/OVER/a14dd9f7-d68b-40f7-a915-a0146ef9f1fd/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-pandora-fk-01",
-      "name": "Pandora",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "FK-01",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/Pandora/70825150-9834-4a5c-b21b-82f055f056b5/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-pda-pro-sk-05",
-      "name": "PDA PRO",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "SK-05",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/PDAPRO/0900aab1-4cf1-401a-8605-8c39218da2b1/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
       "id": "mvm-premier-luggage-bag-services-centre-np1-001a",
       "name": "Premier Luggage & Bag Services Centre",
       "mall": "Mid Valley Megamall",
@@ -579,16 +199,6 @@
       "dataConfidence": "official-name-and-lot"
     },
     {
-      "id": "mvm-qq-cut-sp1-05",
-      "name": "QQ Cut",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "SP1-05",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/QQCut/bb957ea5-1043-49c9-8997-bea450255f45/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
       "id": "mvm-red-balloon-np1-004-006",
       "name": "Red Balloon",
       "mall": "Mid Valley Megamall",
@@ -596,26 +206,6 @@
       "lot": "NP1-004 & 006",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/RedBalloon/4a905deb-82ea-4683-abd6-d09ba3399a7f/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-segway-sk-14",
-      "name": "Segway",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "SK-14",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/Segway/e9492855-4cdd-4d61-8aaa-2c03134a5186/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-shantea-dessert-fk-05",
-      "name": "Shantea Dessert",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "FK-05",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/ShanteaDessert/98a28f54-06b8-405d-b829-5c7f3f1d0e0a/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -639,116 +229,6 @@
       "dataConfidence": "official-name-and-lot"
     },
     {
-      "id": "mvm-shiseido-ginza-tokyo-fk-04",
-      "name": "Shiseido Ginza Tokyo",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "FK-04",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/ShiseidoGinzaTokyo/3140b6d4-eb4a-4f75-baf1-2b3d15d0522d/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-shop-paloma-fk-15",
-      "name": "Shop Paloma",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "FK-15",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/ShopPaloma/ed74f9fe-4496-4d73-b97e-dcef9473341a/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-sonic-power-sk-02",
-      "name": "Sonic Power",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "SK-02",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/SonicPower/eab13636-5832-48f0-80ca-e7fab30ad7f0/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-sonny-box-breaks-tk-09-10",
-      "name": "Sonny Box Breaks",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "TK-09 & 10",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/SonnyBoxBreaks/1d748315-4d41-4bf5-b214-02bb17e192cf/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-soxworld-fk-09",
-      "name": "Soxworld",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "FK-09",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/Soxworld/b1eeb648-e426-44a8-8761-07140e027636/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-sp-premium-sk-06",
-      "name": "SP PREMIUM",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "SK-06",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/SPPREMIUM/051b9415-e615-4390-96b3-c142ac7033d7/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-stop-n-go-sp1-04",
-      "name": "Stop N Go",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "SP1-04",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/StopNGo/7ff8d812-5e78-4624-a756-df2aa9ed39c8/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-tealive-plus-tk-08",
-      "name": "tealive plus",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "TK-08",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/tealiveplus/152b3d77-5fc4-4ec9-8f94-1aef07bb5c08/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-the-paper-boutique-tk-12",
-      "name": "The Paper Boutique",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "TK-12",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/ThePaperBoutique/094d897b-cd37-4317-b0eb-3966352b6301/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-tns-skin-lab-sk-04",
-      "name": "TNS Skin Lab",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "SK-04",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/TNSSkinLab/43a480b5-8364-4c4f-b160-aa92f76891e9/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-trapo-sk-12",
-      "name": "Trapo",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "SK-12",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/Trapo/28c4957c-f785-417b-8bea-39156e0b7b5c/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
       "id": "mvm-x-cut-np1-002",
       "name": "X-Cut",
       "mall": "Mid Valley Megamall",
@@ -756,46 +236,6 @@
       "lot": "NP1-002",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/XCut/7a39bc47-49a9-48c8-a065-acb8879c451c/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-za-altera-sp1-03",
-      "name": "Za Altera",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "SP1-03",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/ZaAltera/12a8c155-cf04-4dbf-8185-ed565269f9c9/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-zus-coffee-sk-10",
-      "name": "Zus Coffee",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "SK-10",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/ZusCoffee/c04e8e8d-2b3c-4a1c-9b57-c06ae2bb52ac/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-jipinhe-scones-tk-06",
-      "name": "吉品合 Jipinhe Scones",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "TK-06",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/JipinheScones/300e564a-7ae1-41dc-94f5-358dbebe6429/SHOP",
-      "dataConfidence": "official-name-and-lot"
-    },
-    {
-      "id": "mvm-fix-it-all-sp1-07",
-      "name": "小管家 Fix It All",
-      "mall": "Mid Valley Megamall",
-      "floor": "",
-      "lot": "SP1-07",
-      "kind": "tenant",
-      "officialUrl": "https://www.midvalley.com.my/tenant/FixItAll/2966a8ff-1da6-4fdb-a22a-2fba9c0386a8/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -829,6 +269,16 @@
       "dataConfidence": "official-name-and-lot"
     },
     {
+      "id": "mvm-alphamax-fk-12",
+      "name": "Alphamax",
+      "mall": "Mid Valley Megamall",
+      "floor": "1",
+      "lot": "FK-12",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/Alphamax/278196ae-75f8-46b8-9c28-cd5b58bd91f2/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
       "id": "mvm-ayam-gepuk-hut-f-028b-028c",
       "name": "Ayam Gepuk Hut",
       "mall": "Mid Valley Megamall",
@@ -836,6 +286,16 @@
       "lot": "F-028B &028C",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/AyamGepukHut/faa4dd10-a22b-4c43-9e88-ddbc9cfda7c5/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-baskin-robbins-fk-02",
+      "name": "Baskin-Robbins",
+      "mall": "Mid Valley Megamall",
+      "floor": "1",
+      "lot": "FK-02",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/BaskinRobbins/b979cd2f-8fae-4f9a-997f-7fc826dc7114/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -886,6 +346,16 @@
       "lot": "F-044",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/BobbiBrown/d356ded8-5c9f-432f-b586-1e7ea9375a18/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-borneo-pearls-fk-14-17",
+      "name": "Borneo Pearls",
+      "mall": "Mid Valley Megamall",
+      "floor": "1",
+      "lot": "FK-14 & 17",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/BorneoPearls/fc4c277e-91f5-4d8d-8f01-07e7f0f4a610/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -977,6 +447,16 @@
       "lot": "F-040",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/Clarks/97783e9c-c468-4b74-bdd7-b2ce21005bfc/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-clef-fk-18",
+      "name": "CLEF",
+      "mall": "Mid Valley Megamall",
+      "floor": "1",
+      "lot": "FK-18",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/CLEF/0c496a67-d50f-4ffe-af6e-509d69a49275/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -1140,6 +620,16 @@
       "dataConfidence": "official-name-and-lot"
     },
     {
+      "id": "mvm-gigi-coffee-fk-06",
+      "name": "GIGI Coffee",
+      "mall": "Mid Valley Megamall",
+      "floor": "1",
+      "lot": "FK-06",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/GIGICoffee/df2c55f6-017a-4472-9d71-720e32f93bd4/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
       "id": "mvm-giordano-f-059",
       "name": "Giordano",
       "mall": "Mid Valley Megamall",
@@ -1157,6 +647,16 @@
       "lot": "F-029B",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/GOATLab/339243c4-296e-4b9b-9fde-8143346cdaea/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-hat-attack-fk-013",
+      "name": "Hat Attack",
+      "mall": "Mid Valley Megamall",
+      "floor": "1",
+      "lot": "FK-013",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/HatAttack/2fb3d2e6-3e23-42e0-8f34-9060e282b373/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -1247,6 +747,26 @@
       "lot": "F-027A & 027B",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/KenanganCoffee/3241f4f0-2add-42e1-8c06-5b32aff50253/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-kerastase-paris-fk-07",
+      "name": "Kérastase Paris",
+      "mall": "Mid Valley Megamall",
+      "floor": "1",
+      "lot": "FK-07",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/KrastaseParis/17cc8f27-3184-4f0f-94d4-5c2e2f31347c/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-kyo-ha-matcha-de-kimeru-fk-11",
+      "name": "Kyo ha Matcha de Kimeru",
+      "mall": "Mid Valley Megamall",
+      "floor": "1",
+      "lot": "FK-11",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/KyohaMatchadeKimeru/474891c5-73d8-40ec-86c8-d7aed27459fe/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -1360,6 +880,16 @@
       "dataConfidence": "official-name-and-lot"
     },
     {
+      "id": "mvm-my-tie-shop-fk-08",
+      "name": "My Tie Shop",
+      "mall": "Mid Valley Megamall",
+      "floor": "1",
+      "lot": "FK-08",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/MyTieShop/1e922489-6e66-4f4e-98ef-736b34c6090a/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
       "id": "mvm-naelofar-f-011",
       "name": "Naelofar",
       "mall": "Mid Valley Megamall",
@@ -1390,6 +920,16 @@
       "dataConfidence": "official-name-and-lot"
     },
     {
+      "id": "mvm-nononsense-coffee-fk-10",
+      "name": "Nononsense Coffee",
+      "mall": "Mid Valley Megamall",
+      "floor": "1",
+      "lot": "FK-10",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/NononsenseCoffee/c604394c-debf-4563-a623-883037b90aae/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
       "id": "mvm-optometris-anggun-f-007",
       "name": "OPTOMETRIS ANGGUN",
       "mall": "Mid Valley Megamall",
@@ -1397,6 +937,16 @@
       "lot": "F-007",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/OPTOMETRISANGGUN/6a67586d-2b87-4fd5-bb7e-0a63a2cbc626/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-pandora-fk-01",
+      "name": "Pandora",
+      "mall": "Mid Valley Megamall",
+      "floor": "1",
+      "lot": "FK-01",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/Pandora/70825150-9834-4a5c-b21b-82f055f056b5/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -1460,6 +1010,16 @@
       "dataConfidence": "official-name-and-lot"
     },
     {
+      "id": "mvm-shantea-dessert-fk-05",
+      "name": "Shantea Dessert",
+      "mall": "Mid Valley Megamall",
+      "floor": "1",
+      "lot": "FK-05",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/ShanteaDessert/98a28f54-06b8-405d-b829-5c7f3f1d0e0a/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
       "id": "mvm-sheshine-f-058a",
       "name": "Sheshine",
       "mall": "Mid Valley Megamall",
@@ -1477,6 +1037,26 @@
       "lot": "F-084",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/ShinjuPearls/e8f336a8-ca97-48ec-a4ca-bda76ae13abd/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-shiseido-ginza-tokyo-fk-04",
+      "name": "Shiseido Ginza Tokyo",
+      "mall": "Mid Valley Megamall",
+      "floor": "1",
+      "lot": "FK-04",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/ShiseidoGinzaTokyo/3140b6d4-eb4a-4f75-baf1-2b3d15d0522d/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-shop-paloma-fk-15",
+      "name": "Shop Paloma",
+      "mall": "Mid Valley Megamall",
+      "floor": "1",
+      "lot": "FK-15",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/ShopPaloma/ed74f9fe-4496-4d73-b97e-dcef9473341a/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -1547,6 +1127,16 @@
       "lot": "F-023",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/SouthChinaSea/121eb882-88fc-49fd-94c5-a77ab02f9997/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-soxworld-fk-09",
+      "name": "Soxworld",
+      "mall": "Mid Valley Megamall",
+      "floor": "1",
+      "lot": "FK-09",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/Soxworld/b1eeb648-e426-44a8-8761-07140e027636/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -1790,6 +1380,16 @@
       "dataConfidence": "official-name-and-lot"
     },
     {
+      "id": "mvm-ace-hardware-sja3-b-s057-s058",
+      "name": "Ace Hardware",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "SJA3(B), S057 & S058",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/AceHardware/68b571de-b99d-4002-acc7-06ac68caf5ac/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
       "id": "mvm-acer-s-095",
       "name": "Acer",
       "mall": "Mid Valley Megamall",
@@ -1961,6 +1561,26 @@
       "dataConfidence": "official-name-and-lot"
     },
     {
+      "id": "mvm-empro-sk-03",
+      "name": "Empro",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "SK-03",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/Empro/967ba445-12fc-4def-b4ab-8bfa85b75cb0/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-eubiq-sk-15",
+      "name": "eubiq",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "SK-15",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/eubiq/7de5feee-ab61-4b6a-a731-515bfe7e7339/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
       "id": "mvm-excelview-eye-specialist-centre-s-068-s-069",
       "name": "Excelview Eye Specialist Centre",
       "mall": "Mid Valley Megamall",
@@ -2008,6 +1628,26 @@
       "lot": "S-008",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/gloLASERCENTRES/5d6a6453-b32b-4ce8-b255-18417d1605e5/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-haagen-dazs-sk-01",
+      "name": "Haagen-Dazs",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "SK-01",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/HaagenDazs/50d5b9d0-e36a-4846-a729-86b342dd6764/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-hairdepot-sp1-02",
+      "name": "HAIRDEPOT",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "SP1-02",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/HAIRDEPOT/3d6927e1-43b5-46d5-bd4e-b83513c71f99/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -2091,6 +1731,16 @@
       "dataConfidence": "official-name-and-lot"
     },
     {
+      "id": "mvm-itsu-sk-11",
+      "name": "ITSU 御手の物",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "SK-11",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/ITSU/85f06302-fd33-4497-92ce-451c548937dc/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
       "id": "mvm-j-j-nail-studio-s-065a",
       "name": "J.J Nail Studio",
       "mall": "Mid Valley Megamall",
@@ -2151,6 +1801,16 @@
       "dataConfidence": "official-name-and-lot"
     },
     {
+      "id": "mvm-krispy-kreme-sk-09",
+      "name": "Krispy Kreme",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "SK-09",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/KrispyKreme/cf17c041-540f-40f5-9fcd-702bc554a6df/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
       "id": "mvm-la-mode-s-064",
       "name": "La' Mode",
       "mall": "Mid Valley Megamall",
@@ -2168,6 +1828,16 @@
       "lot": "S-097",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/Lenovo/6a311075-6707-4e09-9886-aef8ca95b2db/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-listening-lab-hearing-centre-sp1-06",
+      "name": "Listening Lab Hearing Centre",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "SP1-06",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/ListeningLabHearingCentre/75508636-c13f-4d31-b3ed-e86d7c3d48ca/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -2231,6 +1901,16 @@
       "dataConfidence": "official-name-and-lot"
     },
     {
+      "id": "mvm-montigo-sk-08",
+      "name": "Montigo",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "SK-08",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/Montigo/a588e020-4682-4499-bee8-b203e523bb05/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
       "id": "mvm-mothercare-the-entertainer-s-063a",
       "name": "mothercare & The Entertainer",
       "mall": "Mid Valley Megamall",
@@ -2238,6 +1918,16 @@
       "lot": "S-063A",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/mothercareTheEntertainer/312919e3-e200-48f0-9db2-0e2ebebc4071/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-my-gadgets-sk-07",
+      "name": "My Gadgets",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "SK-07",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/MyGadgets/2aecdf30-9a74-4476-b609-f95896de5db7/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -2261,6 +1951,16 @@
       "dataConfidence": "official-name-and-lot"
     },
     {
+      "id": "mvm-oku-dobi-sdn-bhd-sp2-k-01",
+      "name": "OKU Dobi Sdn Bhd",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "SP2(K)-01",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/OKUDobiSdnBhd/59a125d3-bee1-4a45-9015-e3c6e07928c7/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
       "id": "mvm-oppo-s-084a",
       "name": "OPPO",
       "mall": "Mid Valley Megamall",
@@ -2281,6 +1981,16 @@
       "dataConfidence": "official-name-and-lot"
     },
     {
+      "id": "mvm-osim-sk-13",
+      "name": "Osim",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "SK-13",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/Osim/52808c8a-b5bd-4d91-b867-ca77c2ddaea4/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
       "id": "mvm-osprey-s-055",
       "name": "Osprey",
       "mall": "Mid Valley Megamall",
@@ -2298,6 +2008,16 @@
       "lot": "S-015",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/PartyWonderland/79e09c2b-c081-4245-b6d7-e6549e4d95ba/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-pda-pro-sk-05",
+      "name": "PDA PRO",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "SK-05",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/PDAPRO/0900aab1-4cf1-401a-8605-8c39218da2b1/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -2328,6 +2048,16 @@
       "lot": "S-015A",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/Professor/759e6412-50e6-4f19-afbc-8e7daea723c5/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-qq-cut-sp1-05",
+      "name": "QQ Cut",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "SP1-05",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/QQCut/bb957ea5-1043-49c9-8997-bea450255f45/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -2391,6 +2121,16 @@
       "dataConfidence": "official-name-and-lot"
     },
     {
+      "id": "mvm-segway-sk-14",
+      "name": "Segway",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "SK-14",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/Segway/e9492855-4cdd-4d61-8aaa-2c03134a5186/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
       "id": "mvm-signature-kitchen-s-012",
       "name": "Signature Kitchen",
       "mall": "Mid Valley Megamall",
@@ -2398,6 +2138,26 @@
       "lot": "S-012",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/SignatureKitchen/f22c8ec6-ff0f-4fd5-9e00-f6ddf42bb743/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-sonic-power-sk-02",
+      "name": "Sonic Power",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "SK-02",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/SonicPower/eab13636-5832-48f0-80ca-e7fab30ad7f0/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-sp-premium-sk-06",
+      "name": "SP PREMIUM",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "SK-06",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/SPPREMIUM/051b9415-e615-4390-96b3-c142ac7033d7/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -2418,6 +2178,16 @@
       "lot": "S-063B",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/Squeezby/a47fd576-9557-436f-9daf-cad5662d3881/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-stop-n-go-sp1-04",
+      "name": "Stop N Go",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "SP1-04",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/StopNGo/7ff8d812-5e78-4624-a756-df2aa9ed39c8/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -2501,6 +2271,16 @@
       "dataConfidence": "official-name-and-lot"
     },
     {
+      "id": "mvm-tns-skin-lab-sk-04",
+      "name": "TNS Skin Lab",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "SK-04",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/TNSSkinLab/43a480b5-8364-4c4f-b160-aa92f76891e9/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
       "id": "mvm-toys-r-us-s-063c",
       "name": "Toys'R'Us",
       "mall": "Mid Valley Megamall",
@@ -2518,6 +2298,16 @@
       "lot": "S-090",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/TPLink/7d8dd02c-863d-458b-82b7-891f48975de5/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-trapo-sk-12",
+      "name": "Trapo",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "SK-12",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/Trapo/28c4957c-f785-417b-8bea-39156e0b7b5c/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -2571,6 +2361,36 @@
       "dataConfidence": "official-name-and-lot"
     },
     {
+      "id": "mvm-za-altera-sp1-03",
+      "name": "Za Altera",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "SP1-03",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/ZaAltera/12a8c155-cf04-4dbf-8185-ed565269f9c9/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-zus-coffee-sk-10",
+      "name": "Zus Coffee",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "SK-10",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/ZusCoffee/c04e8e8d-2b3c-4a1c-9b57-c06ae2bb52ac/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-fix-it-all-sp1-07",
+      "name": "小管家 Fix It All",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "SP1-07",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/FixItAll/2966a8ff-1da6-4fdb-a22a-2fba9c0386a8/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
       "id": "mvm-a-w-t-074",
       "name": "A&W",
       "mall": "Mid Valley Megamall",
@@ -2598,6 +2418,16 @@
       "lot": "T-026",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/ANTA/ae1e704e-bbda-44ba-b88b-923c0d3da695/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-apollo-pick-a-licious-tk-07",
+      "name": "APOLLO Pick-A-LiCious",
+      "mall": "Mid Valley Megamall",
+      "floor": "3",
+      "lot": "TK-07",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/APOLLOPickALiCious/7f1b99b0-578b-4fc2-a57c-a33a4a19ee10/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -2732,6 +2562,16 @@
       "dataConfidence": "official-name-and-lot"
     },
     {
+      "id": "mvm-creme-de-la-creme-tk-01",
+      "name": "Creme de la crème",
+      "mall": "Mid Valley Megamall",
+      "floor": "3",
+      "lot": "TK-01",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/Cremedelacrme/97650252-2fcd-40ec-8ef2-f09a0f6861e4/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
       "id": "mvm-crocs-t-013c",
       "name": "crocs",
       "mall": "Mid Valley Megamall",
@@ -2792,6 +2632,26 @@
       "dataConfidence": "official-name-and-lot"
     },
     {
+      "id": "mvm-elaira-pop-tk-11",
+      "name": "Elaira Pop",
+      "mall": "Mid Valley Megamall",
+      "floor": "3",
+      "lot": "TK-11",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/ElairaPop/ede0fdf6-78b4-4239-ac71-084d182c2b1e/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-empire-sushi-tk-27",
+      "name": "Empire Sushi",
+      "mall": "Mid Valley Megamall",
+      "floor": "3",
+      "lot": "TK-27",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/EmpireSushi/d2bf39d0-3088-4237-bad0-f029e8bfacd6/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
       "id": "mvm-family-mart-third-floor-t-030a",
       "name": "Family Mart (Third Floor)",
       "mall": "Mid Valley Megamall",
@@ -2799,6 +2659,16 @@
       "lot": "T-030A",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/FamilyMartThirdFloor/43908d7a-75e1-4aee-8827-fc3979337f7b/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-garmin-tk-13",
+      "name": "Garmin",
+      "mall": "Mid Valley Megamall",
+      "floor": "3",
+      "lot": "TK-13",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/Garmin/fa13b062-74d0-4cd1-a7b7-4bcd07cd4ee5/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -2819,6 +2689,16 @@
       "lot": "T-011B",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/Good2UConceptStore/b3e546c9-5ead-41f7-b9ac-c51cd9953f3f/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-grams28-tk-03",
+      "name": "Grams28",
+      "mall": "Mid Valley Megamall",
+      "floor": "3",
+      "lot": "TK-03",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/Grams28/a2feb128-7bcb-493f-9046-b8ce1f32d37a/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -2942,6 +2822,16 @@
       "dataConfidence": "official-name-and-lot"
     },
     {
+      "id": "mvm-llaollao-tk-04",
+      "name": "llaollao",
+      "mall": "Mid Valley Megamall",
+      "floor": "3",
+      "lot": "TK-04",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/llaollao/8800fc66-619c-4d22-a458-d2baede1c67f/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
       "id": "mvm-m4g-t-057",
       "name": "M4G",
       "mall": "Mid Valley Megamall",
@@ -3059,6 +2949,26 @@
       "lot": "T-017",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/Nike/cffeb5e8-dbc0-4fa9-b7f5-98f4c40dd013/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-oiyo-tk-15",
+      "name": "OiYO",
+      "mall": "Mid Valley Megamall",
+      "floor": "3",
+      "lot": "TK-15",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/OiYO/bd9ef641-bd90-4d4e-99d3-e98428d876a5/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-over-tk-05",
+      "name": "OVER",
+      "mall": "Mid Valley Megamall",
+      "floor": "3",
+      "lot": "TK-05",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/OVER/a14dd9f7-d68b-40f7-a915-a0146ef9f1fd/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -3192,6 +3102,16 @@
       "dataConfidence": "official-name-and-lot"
     },
     {
+      "id": "mvm-sonny-box-breaks-tk-09-10",
+      "name": "Sonny Box Breaks",
+      "mall": "Mid Valley Megamall",
+      "floor": "3",
+      "lot": "TK-09 & 10",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/SonnyBoxBreaks/1d748315-4d41-4bf5-b214-02bb17e192cf/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
       "id": "mvm-strip-ministry-of-waxing-t-062",
       "name": "Strip Ministry of Waxing",
       "mall": "Mid Valley Megamall",
@@ -3262,6 +3182,16 @@
       "dataConfidence": "official-name-and-lot"
     },
     {
+      "id": "mvm-tealive-plus-tk-08",
+      "name": "tealive plus",
+      "mall": "Mid Valley Megamall",
+      "floor": "3",
+      "lot": "TK-08",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/tealiveplus/152b3d77-5fc4-4ec9-8f94-1aef07bb5c08/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
       "id": "mvm-thai-odyssey-t-011a",
       "name": "Thai Odyssey",
       "mall": "Mid Valley Megamall",
@@ -3269,6 +3199,16 @@
       "lot": "T-011A",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/ThaiOdyssey/acd57ac8-8603-4616-aa15-09ef9b687421/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-the-paper-boutique-tk-12",
+      "name": "The Paper Boutique",
+      "mall": "Mid Valley Megamall",
+      "floor": "3",
+      "lot": "TK-12",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/ThePaperBoutique/094d897b-cd37-4317-b0eb-3966352b6301/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -3379,6 +3319,26 @@
       "lot": "T-006C,007 & TK-14 & 23",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/ZokNoodleHouse/8bef3760-c69a-4dae-9013-a95f706d1fcf/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-jipinhe-scones-tk-06",
+      "name": "吉品合 Jipinhe Scones",
+      "mall": "Mid Valley Megamall",
+      "floor": "3",
+      "lot": "TK-06",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/JipinheScones/300e564a-7ae1-41dc-94f5-358dbebe6429/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-3ce-stylenanda-gk-10-11",
+      "name": "3CE Stylenanda",
+      "mall": "Mid Valley Megamall",
+      "floor": "G",
+      "lot": "GK-10 & 11",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/3CEStylenanda/dab3b7ed-4c61-4cd8-81e5-852fbba60713/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -3553,6 +3513,16 @@
       "dataConfidence": "official-name-and-lot"
     },
     {
+      "id": "mvm-chloe-beauty-gk-08-09",
+      "name": "Chloé Beauty",
+      "mall": "Mid Valley Megamall",
+      "floor": "G",
+      "lot": "GK-08 & 09",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/ChloBeauty/9a338059-5ba9-4c18-9f7d-419d4a126ba0/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
       "id": "mvm-cimb-bank-g-e-001",
       "name": "CIMB Bank",
       "mall": "Mid Valley Megamall",
@@ -3703,6 +3673,16 @@
       "dataConfidence": "official-name-and-lot"
     },
     {
+      "id": "mvm-givenchy-gk-03-04",
+      "name": "Givenchy",
+      "mall": "Mid Valley Megamall",
+      "floor": "G",
+      "lot": "GK-03 & 04",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/Givenchy/cbf12a66-46b3-4ad3-b49f-574cf76af928/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
       "id": "mvm-goldheart-g-011",
       "name": "Goldheart",
       "mall": "Mid Valley Megamall",
@@ -3720,6 +3700,16 @@
       "lot": "G(E)-010 & TL(E)-09/02",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/GrandTaipei/dd70f6c2-db7f-4d69-a84f-62635856db60/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-gucci-beauty-gk-05-06",
+      "name": "Gucci Beauty",
+      "mall": "Mid Valley Megamall",
+      "floor": "G",
+      "lot": "GK-05 & 06",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/GucciBeauty/e7360609-9e8e-4dd3-bc3c-9d897015003f/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
@@ -3960,6 +3950,16 @@
       "lot": "G-055",
       "kind": "tenant",
       "officialUrl": "https://www.midvalley.com.my/tenant/MLB/f6ccdf6b-8053-4feb-99f5-a3b41523ed1f/SHOP",
+      "dataConfidence": "official-name-and-lot"
+    },
+    {
+      "id": "mvm-monoloq-gk-01",
+      "name": "Monoloq",
+      "mall": "Mid Valley Megamall",
+      "floor": "G",
+      "lot": "GK-01",
+      "kind": "tenant",
+      "officialUrl": "https://www.midvalley.com.my/tenant/Monoloq/eaa1e458-40c1-4aa2-ab87-bfa9cfeef7f2/SHOP",
       "dataConfidence": "official-name-and-lot"
     },
     {
