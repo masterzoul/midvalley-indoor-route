@@ -1,4 +1,4 @@
-name: Sync Mid Valley directory and deploy
+name: Sync connected Mid Valley malls and deploy
 
 on:
   workflow_dispatch:
@@ -47,13 +47,13 @@ jobs:
           sudo apt-get install -y -qq poppler-utils tesseract-ocr
           python3 -m pip install --quiet pillow
 
-      - name: Inspect Gardens official floor-map markup
-        run: node scripts/inspect-gardens.mjs
-
-      - name: Sync official tenant directory
+      - name: Sync Mid Valley Megamall official directory
         run: node scripts/sync-places.mjs
 
-      - name: Extract official floor-map geometry
+      - name: Sync The Gardens Mall official floor map
+        run: node scripts/sync-gardens.mjs
+
+      - name: Extract Mid Valley official floor-map geometry
         run: python3 scripts/build-midvalley-map.py
 
       - name: Build guarded topology
@@ -63,11 +63,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/places.generated.json data/topology.generated.json data/midvalley-map.generated.json
+          git add data/places.generated.json data/gardens.generated.json data/topology.generated.json data/midvalley-map.generated.json
           if git diff --cached --quiet; then
             echo "No generated-data changes to commit."
           else
-            git commit -m "Refresh Mid Valley official directory and map data"
+            git commit -m "Refresh connected mall directory and map data"
             if ! git push; then
               echo "Remote branch advanced while this run was active; skipping only the persistence push. Deployment will continue using freshly generated data from this run."
             fi
