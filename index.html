@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="ms">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#10131a">
+  <meta name="description" content="Text-based indoor navigation for Mid Valley Megamall Kuala Lumpur">
+  <title>Mid Valley Indoor Route</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="app-shell">
+    <header class="hero">
+      <div class="eyebrow">MID VALLEY MEGAMALL · LALUAN TEKS</div>
+      <h1>Laluan Indoor</h1>
+      <p>Tanpa map. Arahan langkah demi langkah menggunakan lokasi dan landmark yang disahkan.</p>
+    </header>
+
+    <section class="search-card" aria-label="Pilih lokasi">
+      <label for="fromInput">From</label>
+      <div class="input-wrap">
+        <input id="fromInput" autocomplete="off" enterkeyhint="search" placeholder="Contoh: Carlo Rino">
+        <div id="fromResults" class="results" hidden></div>
+      </div>
+
+      <button id="swapBtn" class="swap" type="button" aria-label="Tukar From dan To">⇅</button>
+
+      <label for="toInput">To</label>
+      <div class="input-wrap">
+        <input id="toInput" autocomplete="off" enterkeyhint="search" placeholder="Contoh: Surau">
+        <div id="toResults" class="results" hidden></div>
+      </div>
+
+      <button id="routeBtn" class="primary" type="button">Cari Laluan</button>
+    </section>
+
+    <section id="routeCard" class="route-card" hidden>
+      <div class="route-head">
+        <div>
+          <div class="eyebrow">LALUAN</div>
+          <h2 id="routeTitle"></h2>
+        </div>
+        <span id="confidenceBadge" class="badge"></span>
+      </div>
+      <ol id="routeSteps" class="steps"></ol>
+      <p id="routeNote" class="route-note"></p>
+    </section>
+
+    <section class="status-card">
+      <div>
+        <div class="eyebrow">DATA</div>
+        <strong id="dataStatus">Memuatkan direktori…</strong>
+      </div>
+      <div id="dataUpdated" class="muted"></div>
+    </section>
+
+    <footer>
+      Sumber tempat: direktori rasmi Mid Valley Megamall. Arahan kiri/kanan hanya dipaparkan apabila topologi laluan telah disahkan.
+    </footer>
+  </main>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
