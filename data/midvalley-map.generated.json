@@ -1,7 +1,7 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "source": "https://www.midvalley.com.my/pdf/shop-mall-map.pdf",
-  "generatedAt": "2026-09-04T18:06:54.582568+00:00",
+  "generatedAt": "2026-09-04T18:15:46.294800+00:00",
   "image": {
     "width": 4657,
     "height": 9868,
@@ -238,8 +238,257 @@
       "count": 2968
     }
   ],
-  "matchedLotLabels": [],
-  "matchedCodeCount": 0,
+  "matchedLotLabels": [
+    {
+      "code": "S094",
+      "ocrToken": "S094",
+      "ocrLine": "S094",
+      "floor": "2",
+      "x": 2537.5,
+      "y": 2174.0,
+      "xNorm": 0.5448787,
+      "yNorm": 0.2203081,
+      "confidence": 51.47,
+      "tenants": [
+        {
+          "id": "mvm-asus-s-094",
+          "name": "Asus",
+          "lot": "S-094",
+          "floor": "2"
+        }
+      ]
+    },
+    {
+      "code": "S005",
+      "ocrToken": "S005",
+      "ocrLine": "S005",
+      "floor": "2",
+      "x": 2623.0,
+      "y": 2294.0,
+      "xNorm": 0.5632381,
+      "yNorm": 0.2324686,
+      "confidence": 86.36,
+      "tenants": [
+        {
+          "id": "mvm-huawei-s-005",
+          "name": "Huawei",
+          "lot": "S-005",
+          "floor": "2"
+        }
+      ]
+    },
+    {
+      "code": "S063A",
+      "ocrToken": "S063A",
+      "ocrLine": "SO63A",
+      "floor": "2",
+      "x": 1716.5,
+      "y": 2654.0,
+      "xNorm": 0.3685849,
+      "yNorm": 0.2689501,
+      "confidence": 80.62,
+      "tenants": [
+        {
+          "id": "mvm-mothercare-the-entertainer-s-063a",
+          "name": "mothercare & The Entertainer",
+          "lot": "S-063A",
+          "floor": "2"
+        }
+      ]
+    },
+    {
+      "code": "S043",
+      "ocrToken": "S043",
+      "ocrLine": "S043",
+      "floor": "2",
+      "x": 2780.5,
+      "y": 2690.0,
+      "xNorm": 0.5970582,
+      "yNorm": 0.2725983,
+      "confidence": 35.0,
+      "tenants": [
+        {
+          "id": "mvm-mh-clinic-s-043-043a",
+          "name": "MH Clinic",
+          "lot": "S-043 & 043A",
+          "floor": "2"
+        }
+      ]
+    },
+    {
+      "code": "F069C",
+      "ocrToken": "F069C",
+      "ocrLine": "FO69C",
+      "floor": "1",
+      "x": 1730.5,
+      "y": 3647.0,
+      "xNorm": 0.3715912,
+      "yNorm": 0.3695784,
+      "confidence": 30.16,
+      "tenants": [
+        {
+          "id": "mvm-voir-elle-f-069c",
+          "name": "VOIR & ELLE",
+          "lot": "F-069C",
+          "floor": "1"
+        }
+      ]
+    },
+    {
+      "code": "F069G",
+      "ocrToken": "F069G",
+      "ocrLine": "FO69G",
+      "floor": "1",
+      "x": 1307.5,
+      "y": 3675.5,
+      "xNorm": 0.2807601,
+      "yNorm": 0.3724666,
+      "confidence": 41.09,
+      "tenants": [
+        {
+          "id": "mvm-nichii-f-069g",
+          "name": "NICHII",
+          "lot": "F-069G",
+          "floor": "1"
+        }
+      ]
+    },
+    {
+      "code": "F069E",
+      "ocrToken": "F069E",
+      "ocrLine": "FO69E",
+      "floor": "1",
+      "x": 1312.5,
+      "y": 3714.0,
+      "xNorm": 0.2818338,
+      "yNorm": 0.3763681,
+      "confidence": 49.48,
+      "tenants": [
+        {
+          "id": "mvm-emerald-brilliant-f-069e",
+          "name": "Emerald Brilliant",
+          "lot": "F-069E",
+          "floor": "1"
+        }
+      ]
+    },
+    {
+      "code": "G076",
+      "ocrToken": "G076",
+      "ocrLine": "Go76",
+      "floor": "G",
+      "x": 1251.0,
+      "y": 4361.5,
+      "xNorm": 0.2686279,
+      "yNorm": 0.4419842,
+      "confidence": 69.83,
+      "tenants": [
+        {
+          "id": "mvm-starbucks-reserve-g-076-079",
+          "name": "Starbucks Reserve",
+          "lot": "G-076-079",
+          "floor": "G"
+        }
+      ]
+    },
+    {
+      "code": "G058",
+      "ocrToken": "G058",
+      "ocrLine": "G058",
+      "floor": "G",
+      "x": 2205.5,
+      "y": 4623.0,
+      "xNorm": 0.4735881,
+      "yNorm": 0.468484,
+      "confidence": 29.04,
+      "tenants": [
+        {
+          "id": "mvm-m-a-c-g-058",
+          "name": "M.A.C",
+          "lot": "G-058",
+          "floor": "G"
+        }
+      ]
+    },
+    {
+      "code": "G043A",
+      "ocrToken": "G043A",
+      "ocrLine": "GO43A",
+      "floor": "G",
+      "x": 2717.0,
+      "y": 4759.0,
+      "xNorm": 0.5834228,
+      "yNorm": 0.4822659,
+      "confidence": 62.02,
+      "tenants": [
+        {
+          "id": "mvm-aape-g-043a",
+          "name": "Aape",
+          "lot": "G-043A",
+          "floor": "G"
+        }
+      ]
+    },
+    {
+      "code": "G070",
+      "ocrToken": "G070",
+      "ocrLine": "Go70",
+      "floor": "G",
+      "x": 1257.0,
+      "y": 4775.5,
+      "xNorm": 0.2699163,
+      "yNorm": 0.483938,
+      "confidence": 71.97,
+      "tenants": [
+        {
+          "id": "mvm-urban-revivo-mens-g-070",
+          "name": "Urban Revivo Mens",
+          "lot": "G-070",
+          "floor": "G"
+        }
+      ]
+    },
+    {
+      "code": "G069A",
+      "ocrToken": "G069A",
+      "ocrLine": "Go69A",
+      "floor": "G",
+      "x": 1264.0,
+      "y": 4814.0,
+      "xNorm": 0.2714194,
+      "yNorm": 0.4878395,
+      "confidence": 50.16,
+      "tenants": [
+        {
+          "id": "mvm-urban-revivo-g-069a",
+          "name": "Urban Revivo",
+          "lot": "G-069A",
+          "floor": "G"
+        }
+      ]
+    },
+    {
+      "code": "LG004",
+      "ocrToken": "LG004",
+      "ocrLine": "LGOo48",
+      "floor": "LG",
+      "x": 1818.0,
+      "y": 5610.0,
+      "xNorm": 0.3903801,
+      "yNorm": 0.5685043,
+      "confidence": 25.06,
+      "tenants": [
+        {
+          "id": "mvm-lo-hong-ka-lg-004-005",
+          "name": "Lo Hong Ka",
+          "lot": "LG-004 & 005",
+          "floor": "LG"
+        }
+      ]
+    }
+  ],
+  "matchedCodeCount": 13,
+  "officialCodeCount": 454,
   "ocrAudit": [
     {
       "text": "FITNESS",
@@ -735,12 +984,12 @@
       "text": "SP1-001",
       "canonical": "SP1-001",
       "tokens": [
-        "SP1-001"
+        "SP1001"
       ],
       "floor": "P1",
       "xNorm": 0.5418725,
       "yNorm": 0.6818504
     }
   ],
-  "note": "Coordinates are accepted only when an OCR lot token matches a current official Mid Valley tenant lot on the same floor. Corridor/left-right routing requires separate walkable-path validation."
+  "note": "Coordinates are accepted only when normalized OCR lot codes match current official Mid Valley tenant lots on the same floor. Corridor/left-right routing still requires walkable-path validation."
 }
