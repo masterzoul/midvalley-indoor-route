@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-05",
+  "places": [
+    {
+      "id": "inc-surau-mz",
+      "name": "Surau / Prayer Room - INC KL Eco City",
+      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
+      "floor": "MZ",
+      "area": "Mezzanine level below Ground; on the connected route toward LRT Abdullah Hukum",
+      "kind": "prayer",
+      "aliases": ["KLEC surau", "KL Eco City surau", "INC surau", "prayer room", "musolla"],
+      "keywords": ["surau", "solat", "sembahyang", "prayer", "musolla", "KLEC", "INC", "KL Eco City"],
+      "dataConfidence": "user-verified-location"
+    },
+    {
+      "id": "inc-main-concourse-g",
+      "name": "Main Concourse - INC KL Eco City",
+      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
+      "floor": "G",
+      "kind": "landmark",
+      "keywords": ["main concourse", "concourse", "INC", "KLEC"],
+      "officialUrl": "https://spsetia.com/retails/inc-klec/",
+      "dataConfidence": "official-current-mall-page"
+    },
+    {
+      "id": "inc-familymart-g21-22",
+      "name": "FamilyMart - INC KL Eco City",
+      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
+      "floor": "G",
+      "lot": "G-21 & 22",
+      "kind": "tenant",
+      "category": "Convenience / Food",
+      "keywords": ["food", "makan", "makanan", "minuman", "convenience", "FamilyMart"],
+      "officialUrl": "https://www.familymart.com.my/",
+      "dataConfidence": "official-tenant-site"
+    },
+    {
+      "id": "inc-starbucks-g25-26",
+      "name": "Starbucks - INC KL Eco City",
+      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
+      "floor": "G",
+      "lot": "G-25 & 26",
+      "kind": "tenant",
+      "category": "Food & Beverage / Coffee",
+      "keywords": ["food", "makan", "minuman", "coffee", "kopi", "latte", "cafe"],
+      "officialUrl": "https://spsetia.com/retails/inc-klec/level-g/starbucks/",
+      "dataConfidence": "official-mall-directory"
+    },
+    {
+      "id": "inc-zus-g12",
+      "name": "ZUS Coffee - INC KL Eco City",
+      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
+      "floor": "G",
+      "lot": "G-12",
+      "kind": "tenant",
+      "category": "Food & Beverage / Coffee",
+      "keywords": ["food", "makan", "minuman", "coffee", "kopi", "latte", "cafe"],
+      "officialUrl": "https://spsetia.com/retails/inc-klec/",
+      "dataConfidence": "official-current-mall-page"
+    },
+    {
+      "id": "inc-degayo-g11",
+      "name": "Degayo Coffee - INC KL Eco City",
+      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
+      "floor": "G",
+      "lot": "G-11",
+      "kind": "tenant",
+      "category": "Food & Beverage / Coffee",
+      "keywords": ["food", "makan", "minuman", "coffee", "kopi", "latte", "cafe"],
+      "officialUrl": "https://spsetia.com/retails/inc-klec/",
+      "dataConfidence": "official-current-mall-page"
+    },
+    {
+      "id": "inc-superluna-g01",
+      "name": "Superluna - INC KL Eco City",
+      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
+      "floor": "G",
+      "lot": "G-01",
+      "kind": "tenant",
+      "category": "Food & Beverage / Cafe",
+      "keywords": ["food", "makan", "makanan", "minuman", "coffee", "cafe", "cake"],
+      "officialUrl": "https://spsetia.com/retails/inc-klec/",
+      "dataConfidence": "official-current-mall-page"
+    },
+    {
+      "id": "inc-skg-l1-02",
+      "name": "SKG - INC KL Eco City",
+      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
+      "floor": "1",
+      "lot": "L1-02",
+      "kind": "tenant",
+      "officialUrl": "https://my.skg.com/pages/where-to-buy",
+      "dataConfidence": "official-tenant-site"
+    },
+    {
+      "id": "inc-eastel-l1-10",
+      "name": "EASTEL - INC KL Eco City",
+      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
+      "floor": "1",
+      "lot": "L1-10",
+      "kind": "tenant",
+      "officialUrl": "https://eastel.com.my/contact-us/",
+      "dataConfidence": "official-tenant-site"
+    },
+    {
+      "id": "masjid-abdullah-hukum",
+      "name": "Masjid Jamek Abdullah Hukum Eco City",
+      "mall": "KL Eco City",
+      "floor": "G",
+      "kind": "prayer",
+      "aliases": ["masjid Abdullah Hukum", "mosque", "masjid", "surau"],
+      "keywords": ["solat", "sembahyang", "prayer", "masjid", "mosque", "Abdullah Hukum"],
+      "officialUrl": "https://masjid.islam.gov.my/index.php/maklumatDetailMS/1/1406017",
+      "dataConfidence": "official-JAKIM-mosque-registry"
+    },
+    {
+      "id": "lrt-abdullah-hukum",
+      "name": "LRT Abdullah Hukum",
+      "mall": "KL Eco City",
+      "floor": "1",
+      "kind": "transport",
+      "keywords": ["lrt", "train", "tren", "station", "stesen", "Abdullah Hukum", "rapidKL"],
+      "dataConfidence": "official-connected-transport-landmark"
+    }
+  ]
+}
