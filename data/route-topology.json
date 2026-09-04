@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "verificationPolicy": "Only verified corridor and vertical links are encoded. Do not infer left/right from lot numbering.",
+  "nodes": [
+    {"id":"centre-g","name":"Centre Court","floor":"G"},
+    {"id":"centre-1","name":"Centre Court","floor":"1"},
+    {"id":"centre-2","name":"Centre Court","floor":"2"},
+    {"id":"centre-3","name":"Centre Court","floor":"3"}
+  ],
+  "edges": [
+    {"from":"centre-g","to":"centre-1","weight":1,"mode":"escalator/lif","instruction":"Di Centre Court, gunakan escalator atau lif utama untuk naik dari Ground Floor ke First Floor."},
+    {"from":"centre-1","to":"centre-2","weight":1,"mode":"escalator/lif","instruction":"Di Centre Court, gunakan escalator atau lif utama untuk naik dari First Floor ke Second Floor."},
+    {"from":"centre-2","to":"centre-3","weight":1,"mode":"escalator/lif","instruction":"Di Centre Court, gunakan escalator atau lif utama untuk naik dari Second Floor ke Third Floor."}
+  ]
+}
