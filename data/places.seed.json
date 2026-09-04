@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "sourceMode": "seed",
+  "updatedAt": "2026-09-04T00:00:00Z",
+  "mallScope": ["Mid Valley Megamall"],
+  "places": [
+    {"id":"mvm-centre-court-g","name":"Centre Court","mall":"Mid Valley Megamall","floor":"G","lot":"","kind":"facility","routeNode":"centre-g","officialUrl":"https://www.midvalley.com.my/shop/mall-map/","dataConfidence":"official-floor-plan"},
+    {"id":"mvm-centre-court-1","name":"Centre Court","mall":"Mid Valley Megamall","floor":"1","lot":"","kind":"facility","routeNode":"centre-1","officialUrl":"https://www.midvalley.com.my/shop/mall-map/","dataConfidence":"official-floor-plan"},
+    {"id":"mvm-centre-court-2","name":"Centre Court","mall":"Mid Valley Megamall","floor":"2","lot":"","kind":"facility","routeNode":"centre-2","officialUrl":"https://www.midvalley.com.my/shop/mall-map/","dataConfidence":"official-floor-plan"},
+    {"id":"mvm-centre-court-3","name":"Centre Court","mall":"Mid Valley Megamall","floor":"3","lot":"","kind":"facility","routeNode":"centre-3","officialUrl":"https://www.midvalley.com.my/shop/mall-map/","dataConfidence":"official-floor-plan"},
+    {"id":"mvm-info-centre-1","name":"Information Counter - Centre Court","mall":"Mid Valley Megamall","floor":"1","lot":"","kind":"facility","officialUrl":"https://www.midvalley.com.my/about/services-facilities/","dataConfidence":"official-facilities-page"},
+    {"id":"mvm-info-north-g","name":"Information Counter - North Court","mall":"Mid Valley Megamall","floor":"G","lot":"","kind":"facility","officialUrl":"https://www.midvalley.com.my/about/services-facilities/","dataConfidence":"official-facilities-page"},
+    {"id":"mvm-info-south-g","name":"Information Counter - South Court","mall":"Mid Valley Megamall","floor":"G","lot":"","kind":"facility","officialUrl":"https://www.midvalley.com.my/about/services-facilities/","dataConfidence":"official-facilities-page"},
+    {"id":"mvm-surau-3","name":"Surau / Prayer Room","mall":"Mid Valley Megamall","floor":"3","lot":"","kind":"facility","officialUrl":"https://www.midvalley.com.my/about/services-facilities/","dataConfidence":"official-facilities-page"},
+    {"id":"mvm-nursing-2","name":"Nursing Room","mall":"Mid Valley Megamall","floor":"2","lot":"","kind":"facility","officialUrl":"https://www.midvalley.com.my/about/services-facilities/","dataConfidence":"official-facilities-page"}
+  ]
+}
