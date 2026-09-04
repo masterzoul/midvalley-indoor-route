@@ -1,0 +1,9 @@
+{
+  "name": "Mid Valley Indoor Route",
+  "short_name": "MV Route",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b0e14",
+  "theme_color": "#10131a",
+  "description": "Text-based indoor navigation for Mid Valley Megamall"
+}
