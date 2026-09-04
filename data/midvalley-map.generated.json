@@ -1,12 +1,15 @@
 {
-  "schemaVersion": 3,
+  "schemaVersion": 4,
+  "extractorVersion": 4,
   "source": "https://www.midvalley.com.my/pdf/shop-mall-map.pdf",
-  "generatedAt": "2026-09-04T18:15:46.294800+00:00",
+  "sourceSha256": "d675d7c745aa94bd82974d7c18756521e96c09ffdefffa1d946705e3573e5637",
+  "generatedAt": "2026-09-04T23:40:41.832587+00:00",
   "image": {
     "width": 4657,
     "height": 9868,
     "dpi": 600
   },
+  "ocrStrategy": "single-pass-composite-enlarged-floor-crops",
   "floorBands": [
     {
       "floor": "3",
@@ -15,33 +18,33 @@
     },
     {
       "floor": "2",
-      "from": 0.205,
-      "to": 0.3
+      "from": 0.195,
+      "to": 0.31
     },
     {
       "floor": "1",
-      "from": 0.31,
-      "to": 0.405
+      "from": 0.305,
+      "to": 0.42
     },
     {
       "floor": "G",
-      "from": 0.41,
-      "to": 0.52
+      "from": 0.415,
+      "to": 0.545
     },
     {
       "floor": "LG",
-      "from": 0.53,
-      "to": 0.625
+      "from": 0.535,
+      "to": 0.655
     },
     {
       "floor": "P1",
-      "from": 0.645,
-      "to": 0.725
+      "from": 0.65,
+      "to": 0.76
     },
     {
       "floor": "P2",
-      "from": 0.73,
-      "to": 0.81
+      "from": 0.75,
+      "to": 0.875
     }
   ],
   "palette": [
@@ -240,756 +243,329 @@
   ],
   "matchedLotLabels": [
     {
-      "code": "S094",
-      "ocrToken": "S094",
-      "ocrLine": "S094",
-      "floor": "2",
-      "x": 2537.5,
-      "y": 2174.0,
-      "xNorm": 0.5448787,
-      "yNorm": 0.2203081,
-      "confidence": 51.47,
+      "code": "T1",
+      "ocrToken": "TI",
+      "ocrLine": "ti",
+      "floor": "3",
+      "x": 2692.8,
+      "y": 1226.5,
+      "xNorm": 0.5782156,
+      "yNorm": 0.1242906,
+      "confidence": 13.93,
       "tenants": [
         {
-          "id": "mvm-asus-s-094",
-          "name": "Asus",
-          "lot": "S-094",
-          "floor": "2"
+          "id": "mvm-aeon-big-at-1",
+          "name": "AEON BiG",
+          "lot": "AT-1",
+          "floor": ""
         }
       ]
     },
     {
-      "code": "S005",
-      "ocrToken": "S005",
-      "ocrLine": "S005",
-      "floor": "2",
-      "x": 2623.0,
-      "y": 2294.0,
-      "xNorm": 0.5632381,
-      "yNorm": 0.2324686,
-      "confidence": 86.36,
+      "code": "T1",
+      "ocrToken": "TI",
+      "ocrLine": "ti",
+      "floor": "3",
+      "x": 1342.8,
+      "y": 1256.5,
+      "xNorm": 0.2883294,
+      "yNorm": 0.1273308,
+      "confidence": 13.93,
       "tenants": [
         {
-          "id": "mvm-huawei-s-005",
-          "name": "Huawei",
-          "lot": "S-005",
-          "floor": "2"
+          "id": "mvm-aeon-big-at-1",
+          "name": "AEON BiG",
+          "lot": "AT-1",
+          "floor": ""
         }
       ]
     },
     {
-      "code": "S063A",
-      "ocrToken": "S063A",
-      "ocrLine": "SO63A",
-      "floor": "2",
-      "x": 1716.5,
-      "y": 2654.0,
-      "xNorm": 0.3685849,
-      "yNorm": 0.2689501,
-      "confidence": 80.62,
+      "code": "T1",
+      "ocrToken": "TL",
+      "ocrLine": "tL)",
+      "floor": "3",
+      "x": 2079.5,
+      "y": 1592.2,
+      "xNorm": 0.4465321,
+      "yNorm": 0.1613549,
+      "confidence": 12.94,
       "tenants": [
         {
-          "id": "mvm-mothercare-the-entertainer-s-063a",
-          "name": "mothercare & The Entertainer",
-          "lot": "S-063A",
-          "floor": "2"
+          "id": "mvm-aeon-big-at-1",
+          "name": "AEON BiG",
+          "lot": "AT-1",
+          "floor": ""
         }
       ]
     },
     {
-      "code": "S043",
-      "ocrToken": "S043",
-      "ocrLine": "S043",
-      "floor": "2",
-      "x": 2780.5,
-      "y": 2690.0,
-      "xNorm": 0.5970582,
-      "yNorm": 0.2725983,
-      "confidence": 35.0,
+      "code": "T1",
+      "ocrToken": "TL",
+      "ocrLine": "PPTL",
+      "floor": "P1",
+      "x": 3747.5,
+      "y": 6511.0,
+      "xNorm": 0.8047026,
+      "yNorm": 0.6598095,
+      "confidence": 12.36,
       "tenants": [
         {
-          "id": "mvm-mh-clinic-s-043-043a",
-          "name": "MH Clinic",
-          "lot": "S-043 & 043A",
-          "floor": "2"
-        }
-      ]
-    },
-    {
-      "code": "F069C",
-      "ocrToken": "F069C",
-      "ocrLine": "FO69C",
-      "floor": "1",
-      "x": 1730.5,
-      "y": 3647.0,
-      "xNorm": 0.3715912,
-      "yNorm": 0.3695784,
-      "confidence": 30.16,
-      "tenants": [
-        {
-          "id": "mvm-voir-elle-f-069c",
-          "name": "VOIR & ELLE",
-          "lot": "F-069C",
-          "floor": "1"
-        }
-      ]
-    },
-    {
-      "code": "F069G",
-      "ocrToken": "F069G",
-      "ocrLine": "FO69G",
-      "floor": "1",
-      "x": 1307.5,
-      "y": 3675.5,
-      "xNorm": 0.2807601,
-      "yNorm": 0.3724666,
-      "confidence": 41.09,
-      "tenants": [
-        {
-          "id": "mvm-nichii-f-069g",
-          "name": "NICHII",
-          "lot": "F-069G",
-          "floor": "1"
-        }
-      ]
-    },
-    {
-      "code": "F069E",
-      "ocrToken": "F069E",
-      "ocrLine": "FO69E",
-      "floor": "1",
-      "x": 1312.5,
-      "y": 3714.0,
-      "xNorm": 0.2818338,
-      "yNorm": 0.3763681,
-      "confidence": 49.48,
-      "tenants": [
-        {
-          "id": "mvm-emerald-brilliant-f-069e",
-          "name": "Emerald Brilliant",
-          "lot": "F-069E",
-          "floor": "1"
-        }
-      ]
-    },
-    {
-      "code": "G076",
-      "ocrToken": "G076",
-      "ocrLine": "Go76",
-      "floor": "G",
-      "x": 1251.0,
-      "y": 4361.5,
-      "xNorm": 0.2686279,
-      "yNorm": 0.4419842,
-      "confidence": 69.83,
-      "tenants": [
-        {
-          "id": "mvm-starbucks-reserve-g-076-079",
-          "name": "Starbucks Reserve",
-          "lot": "G-076-079",
-          "floor": "G"
-        }
-      ]
-    },
-    {
-      "code": "G058",
-      "ocrToken": "G058",
-      "ocrLine": "G058",
-      "floor": "G",
-      "x": 2205.5,
-      "y": 4623.0,
-      "xNorm": 0.4735881,
-      "yNorm": 0.468484,
-      "confidence": 29.04,
-      "tenants": [
-        {
-          "id": "mvm-m-a-c-g-058",
-          "name": "M.A.C",
-          "lot": "G-058",
-          "floor": "G"
-        }
-      ]
-    },
-    {
-      "code": "G043A",
-      "ocrToken": "G043A",
-      "ocrLine": "GO43A",
-      "floor": "G",
-      "x": 2717.0,
-      "y": 4759.0,
-      "xNorm": 0.5834228,
-      "yNorm": 0.4822659,
-      "confidence": 62.02,
-      "tenants": [
-        {
-          "id": "mvm-aape-g-043a",
-          "name": "Aape",
-          "lot": "G-043A",
-          "floor": "G"
-        }
-      ]
-    },
-    {
-      "code": "G070",
-      "ocrToken": "G070",
-      "ocrLine": "Go70",
-      "floor": "G",
-      "x": 1257.0,
-      "y": 4775.5,
-      "xNorm": 0.2699163,
-      "yNorm": 0.483938,
-      "confidence": 71.97,
-      "tenants": [
-        {
-          "id": "mvm-urban-revivo-mens-g-070",
-          "name": "Urban Revivo Mens",
-          "lot": "G-070",
-          "floor": "G"
-        }
-      ]
-    },
-    {
-      "code": "G069A",
-      "ocrToken": "G069A",
-      "ocrLine": "Go69A",
-      "floor": "G",
-      "x": 1264.0,
-      "y": 4814.0,
-      "xNorm": 0.2714194,
-      "yNorm": 0.4878395,
-      "confidence": 50.16,
-      "tenants": [
-        {
-          "id": "mvm-urban-revivo-g-069a",
-          "name": "Urban Revivo",
-          "lot": "G-069A",
-          "floor": "G"
-        }
-      ]
-    },
-    {
-      "code": "LG004",
-      "ocrToken": "LG004",
-      "ocrLine": "LGOo48",
-      "floor": "LG",
-      "x": 1818.0,
-      "y": 5610.0,
-      "xNorm": 0.3903801,
-      "yNorm": 0.5685043,
-      "confidence": 25.06,
-      "tenants": [
-        {
-          "id": "mvm-lo-hong-ka-lg-004-005",
-          "name": "Lo Hong Ka",
-          "lot": "LG-004 & 005",
-          "floor": "LG"
+          "id": "mvm-aeon-big-at-1",
+          "name": "AEON BiG",
+          "lot": "AT-1",
+          "floor": ""
         }
       ]
     }
   ],
-  "matchedCodeCount": 13,
-  "officialCodeCount": 454,
+  "matchedCodeCount": 1,
+  "officialCodeCount": 522,
+  "coveragePercent": 0.19,
   "ocrAudit": [
     {
-      "text": "FITNESS",
-      "canonical": "F1TNESS",
+      "text": "Golden",
+      "tokens": [
+        "G01D"
+      ],
+      "floor": "3",
+      "xNorm": 0.2248228,
+      "yNorm": 0.0384576
+    },
+    {
+      "text": "ti",
+      "tokens": [
+        "T1"
+      ],
+      "floor": "3",
+      "xNorm": 0.5782156,
+      "yNorm": 0.1242906
+    },
+    {
+      "text": "ti",
+      "tokens": [
+        "T1"
+      ],
+      "floor": "3",
+      "xNorm": 0.2883294,
+      "yNorm": 0.1273308
+    },
+    {
+      "text": "SoS)",
+      "tokens": [
+        "S0S"
+      ],
+      "floor": "3",
+      "xNorm": 0.6786021,
+      "yNorm": 0.1475983
+    },
+    {
+      "text": "tL)",
+      "tokens": [
+        "T1"
+      ],
+      "floor": "3",
+      "xNorm": 0.4465321,
+      "yNorm": 0.1613549
+    },
+    {
+      "text": "FIT",
       "tokens": [
         "F1T"
       ],
       "floor": "3",
-      "xNorm": 0.7914967,
-      "yNorm": 0.1605695
+      "xNorm": 0.7827464,
+      "yNorm": 0.1609749
     },
     {
-      "text": "S094",
-      "canonical": "S094",
+      "text": "tone",
       "tokens": [
-        "S094"
+        "T0N"
+      ],
+      "floor": "3",
+      "xNorm": 0.3433004,
+      "yNorm": 0.1707793
+    },
+    {
+      "text": "Sys3)",
+      "tokens": [
+        "S3"
       ],
       "floor": "2",
-      "xNorm": 0.5448787,
-      "yNorm": 0.2203081
+      "xNorm": 0.6515461,
+      "yNorm": 0.2475172
     },
     {
-      "text": "S091",
-      "canonical": "S091",
+      "text": "Fo",
       "tokens": [
-        "S091"
+        "F0"
       ],
       "floor": "2",
-      "xNorm": 0.4923771,
-      "yNorm": 0.2227402
+      "xNorm": 0.2634207,
+      "yNorm": 0.2590697
     },
     {
-      "text": "S005",
-      "canonical": "S005",
+      "text": "Flares",
       "tokens": [
-        "S005"
+        "F1A"
       ],
       "floor": "2",
-      "xNorm": 0.5632381,
-      "yNorm": 0.2324686
+      "xNorm": 0.4038544,
+      "yNorm": 0.2597791
     },
     {
-      "text": "S05",
-      "canonical": "S05",
+      "text": "To The Gardehs",
       "tokens": [
-        "S05"
-      ],
-      "floor": "2",
-      "xNorm": 0.5301696,
-      "yNorm": 0.2352554
-    },
-    {
-      "text": "SO63A",
-      "canonical": "S063A",
-      "tokens": [
-        "S063A"
-      ],
-      "floor": "2",
-      "xNorm": 0.3685849,
-      "yNorm": 0.2689501
-    },
-    {
-      "text": "SoAd",
-      "canonical": "S0AD",
-      "tokens": [
-        "S0A"
-      ],
-      "floor": "2",
-      "xNorm": 0.5184668,
-      "yNorm": 0.2664167
-    },
-    {
-      "text": "S0A2",
-      "canonical": "S0A2",
-      "tokens": [
-        "S0A"
-      ],
-      "floor": "2",
-      "xNorm": 0.5877174,
-      "yNorm": 0.2632752
-    },
-    {
-      "text": "S043",
-      "canonical": "S043",
-      "tokens": [
-        "S043"
-      ],
-      "floor": "2",
-      "xNorm": 0.5970582,
-      "yNorm": 0.2725983
-    },
-    {
-      "text": "SOAse",
-      "canonical": "S0ASE",
-      "tokens": [
-        "S0A"
-      ],
-      "floor": "2",
-      "xNorm": 0.6012454,
-      "yNorm": 0.2767025
-    },
-    {
-      "text": "Soe",
-      "canonical": "S0E",
-      "tokens": [
-        "S0E"
-      ],
-      "floor": "2",
-      "xNorm": 0.5219025,
-      "yNorm": 0.2796413
-    },
-    {
-      "text": "FOI",
-      "canonical": "F01",
-      "tokens": [
-        "F01"
+        "T0T"
       ],
       "floor": "1",
-      "xNorm": 0.5024694,
-      "yNorm": 0.3322862
+      "xNorm": 0.5049925,
+      "yNorm": 0.3126773
     },
     {
-      "text": "FOOT",
-      "canonical": "F00T",
+      "text": "to",
       "tokens": [
-        "F00T"
+        "T0"
       ],
       "floor": "1",
-      "xNorm": 0.5603393,
-      "yNorm": 0.3359343
+      "xNorm": 0.2738888,
+      "yNorm": 0.3468028
     },
     {
-      "text": "FO69C",
-      "canonical": "F069C",
+      "text": "fo",
       "tokens": [
-        "F069C"
+        "F0"
       ],
       "floor": "1",
-      "xNorm": 0.3715912,
-      "yNorm": 0.3695784
+      "xNorm": 0.4172751,
+      "yNorm": 0.3580259
     },
     {
-      "text": "FOAB",
-      "canonical": "F0AB",
+      "text": "SOUTH",
       "tokens": [
-        "F0A"
-      ],
-      "floor": "1",
-      "xNorm": 0.5928709,
-      "yNorm": 0.3666396
-    },
-    {
-      "text": "FO69G",
-      "canonical": "F069G",
-      "tokens": [
-        "F069G"
-      ],
-      "floor": "1",
-      "xNorm": 0.2807601,
-      "yNorm": 0.3724666
-    },
-    {
-      "text": "FOS4",
-      "canonical": "F0S4",
-      "tokens": [
-        "F0S"
-      ],
-      "floor": "1",
-      "xNorm": 0.5197552,
-      "yNorm": 0.3706931
-    },
-    {
-      "text": "FOSS",
-      "canonical": "F0SS",
-      "tokens": [
-        "F0S"
-      ],
-      "floor": "1",
-      "xNorm": 0.5221172,
-      "yNorm": 0.3735813
-    },
-    {
-      "text": "FO69E",
-      "canonical": "F069E",
-      "tokens": [
-        "F069E"
-      ],
-      "floor": "1",
-      "xNorm": 0.2818338,
-      "yNorm": 0.3763681
-    },
-    {
-      "text": "FOSO",
-      "canonical": "F0S0",
-      "tokens": [
-        "F0S"
-      ],
-      "floor": "1",
-      "xNorm": 0.6067211,
-      "yNorm": 0.3842724
-    },
-    {
-      "text": "tlt",
-      "canonical": "T1T",
-      "tokens": [
-        "T1T"
-      ],
-      "floor": "1",
-      "xNorm": 0.2814043,
-      "yNorm": 0.3864512
-    },
-    {
-      "text": "GOOr",
-      "canonical": "G00R",
-      "tokens": [
-        "G00R"
+        "S0U"
       ],
       "floor": "G",
-      "xNorm": 0.556152,
-      "yNorm": 0.4391974
+      "xNorm": 0.203994,
+      "yNorm": 0.4408948
     },
     {
-      "text": "Go76",
-      "canonical": "G076",
+      "text": "GKOSIROS",
       "tokens": [
-        "G076"
+        "S1R"
       ],
       "floor": "G",
-      "xNorm": 0.2686279,
-      "yNorm": 0.4419842
+      "xNorm": 0.5933004,
+      "yNorm": 0.4520673
     },
     {
-      "text": "GooT",
-      "canonical": "G00T",
+      "text": "Si",
       "tokens": [
-        "G00T"
+        "S1"
       ],
       "floor": "G",
-      "xNorm": 0.5596951,
-      "yNorm": 0.4435549
+      "xNorm": 0.5712368,
+      "yNorm": 0.4666346
     },
     {
-      "text": "GONGEPT",
-      "canonical": "G0NGEPT",
+      "text": "SOM",
       "tokens": [
-        "G0N"
-      ],
-      "floor": "G",
-      "xNorm": 0.8304703,
-      "yNorm": 0.4433522
-    },
-    {
-      "text": "Go79",
-      "canonical": "G079",
-      "tokens": [
-        "G079"
-      ],
-      "floor": "G",
-      "xNorm": 0.2695942,
-      "yNorm": 0.445227
-    },
-    {
-      "text": "STORE",
-      "canonical": "ST0RE",
-      "tokens": [
-        "T0R"
-      ],
-      "floor": "G",
-      "xNorm": 0.8340133,
-      "yNorm": 0.4460377
-    },
-    {
-      "text": "GO5S",
-      "canonical": "G05S",
-      "tokens": [
-        "G05S"
-      ],
-      "floor": "G",
-      "xNorm": 0.5007516,
-      "yNorm": 0.4626064
-    },
-    {
-      "text": "Gos4",
-      "canonical": "G0S4",
-      "tokens": [
-        "G0S"
-      ],
-      "floor": "G",
-      "xNorm": 0.5030062,
-      "yNorm": 0.4656972
-    },
-    {
-      "text": "G058",
-      "canonical": "G058",
-      "tokens": [
-        "G058"
-      ],
-      "floor": "G",
-      "xNorm": 0.4735881,
-      "yNorm": 0.468484
-    },
-    {
-      "text": "Goa",
-      "canonical": "G0A",
-      "tokens": [
-        "G0A"
-      ],
-      "floor": "G",
-      "xNorm": 0.5759072,
-      "yNorm": 0.4670653
-    },
-    {
-      "text": "Gi",
-      "canonical": "G1",
-      "tokens": [
-        "G1"
-      ],
-      "floor": "G",
-      "xNorm": 0.5733305,
-      "yNorm": 0.4702067
-    },
-    {
-      "text": "GOS3",
-      "canonical": "G0S3",
-      "tokens": [
-        "G0S"
-      ],
-      "floor": "G",
-      "xNorm": 0.4757355,
-      "yNorm": 0.4716255
-    },
-    {
-      "text": "Gost",
-      "canonical": "G0ST",
-      "tokens": [
-        "G0S"
-      ],
-      "floor": "G",
-      "xNorm": 0.5081598,
-      "yNorm": 0.475527
-    },
-    {
-      "text": "SON",
-      "canonical": "S0N",
-      "tokens": [
-        "S0N"
+        "S0M"
       ],
       "floor": "G",
       "xNorm": 0.7224608,
       "yNorm": 0.4729428
     },
     {
-      "text": "GO43A",
-      "canonical": "G043A",
+      "text": "FLOOR",
       "tokens": [
-        "G043A"
+        "F100R"
       ],
       "floor": "G",
-      "xNorm": 0.5834228,
-      "yNorm": 0.4822659
+      "xNorm": 0.1560554,
+      "yNorm": 0.5415991
     },
     {
-      "text": "Go70",
-      "canonical": "G070",
+      "text": "FLOOR",
       "tokens": [
-        "G070"
-      ],
-      "floor": "G",
-      "xNorm": 0.2699163,
-      "yNorm": 0.483938
-    },
-    {
-      "text": "Go69A",
-      "canonical": "G069A",
-      "tokens": [
-        "G069A"
-      ],
-      "floor": "G",
-      "xNorm": 0.2714194,
-      "yNorm": 0.4878395
-    },
-    {
-      "text": "Goas",
-      "canonical": "G0AS",
-      "tokens": [
-        "G0A"
-      ],
-      "floor": "G",
-      "xNorm": 0.524694,
-      "yNorm": 0.4958452
-    },
-    {
-      "text": "GOAT",
-      "canonical": "G0AT",
-      "tokens": [
-        "G0A"
-      ],
-      "floor": "G",
-      "xNorm": 0.5923341,
-      "yNorm": 0.4945278
-    },
-    {
-      "text": "LGOOS",
-      "canonical": "LG00S",
-      "tokens": [
-        "LG00S"
+        "F100R"
       ],
       "floor": "LG",
-      "xNorm": 0.5579772,
-      "yNorm": 0.5440819
+      "xNorm": 0.1561091,
+      "yNorm": 0.5415991
     },
     {
-      "text": "LGoTS",
-      "canonical": "LG0TS",
+      "text": "Tretitt",
       "tokens": [
-        "LG0T"
+        "T1T"
       ],
       "floor": "LG",
-      "xNorm": 0.5024694,
-      "yNorm": 0.5461593
+      "xNorm": 0.8162444,
+      "yNorm": 0.6594041
     },
     {
-      "text": "LGO6GO",
-      "canonical": "LG06G0",
+      "text": "PPTL",
       "tokens": [
-        "LG06G"
-      ],
-      "floor": "LG",
-      "xNorm": 0.2500537,
-      "yNorm": 0.5539623
-    },
-    {
-      "text": "LGO44",
-      "canonical": "LG044",
-      "tokens": [
-        "LG044"
-      ],
-      "floor": "LG",
-      "xNorm": 0.4578055,
-      "yNorm": 0.5654135
-    },
-    {
-      "text": "LGOo48",
-      "canonical": "LG0048",
-      "tokens": [
-        "LG004"
-      ],
-      "floor": "LG",
-      "xNorm": 0.3903801,
-      "yNorm": 0.5685043
-    },
-    {
-      "text": "GOS",
-      "canonical": "G0S",
-      "tokens": [
-        "G0S"
-      ],
-      "floor": "LG",
-      "xNorm": 0.6067211,
-      "yNorm": 0.5696696
-    },
-    {
-      "text": "LGOOS",
-      "canonical": "LG00S",
-      "tokens": [
-        "LG00S"
-      ],
-      "floor": "LG",
-      "xNorm": 0.4881898,
-      "yNorm": 0.5747872
-    },
-    {
-      "text": "Goss",
-      "canonical": "G0SS",
-      "tokens": [
-        "G0S"
-      ],
-      "floor": "LG",
-      "xNorm": 0.5280223,
-      "yNorm": 0.5761552
-    },
-    {
-      "text": "LGossA",
-      "canonical": "LG0SSA",
-      "tokens": [
-        "LG0S"
-      ],
-      "floor": "LG",
-      "xNorm": 0.4975306,
-      "yNorm": 0.5894305
-    },
-    {
-      "text": "SP1-001",
-      "canonical": "SP1-001",
-      "tokens": [
-        "SP1001"
+        "T1"
       ],
       "floor": "P1",
-      "xNorm": 0.5418725,
-      "yNorm": 0.6818504
+      "xNorm": 0.8047026,
+      "yNorm": 0.6598095
+    },
+    {
+      "text": "Toth TELL",
+      "tokens": [
+        "T0T"
+      ],
+      "floor": "P1",
+      "xNorm": 0.7035108,
+      "yNorm": 0.6628496
+    },
+    {
+      "text": "Titty",
+      "tokens": [
+        "T1T"
+      ],
+      "floor": "P2",
+      "xNorm": 0.7499463,
+      "yNorm": 0.7574483
+    },
+    {
+      "text": "Tithe",
+      "tokens": [
+        "T1T"
+      ],
+      "floor": "P2",
+      "xNorm": 0.5746725,
+      "yNorm": 0.7625659
+    },
+    {
+      "text": "tii",
+      "tokens": [
+        "T11"
+      ],
+      "floor": "P2",
+      "xNorm": 0.5216341,
+      "yNorm": 0.7637819
+    },
+    {
+      "text": "au Escalator",
+      "tokens": [
+        "T0R"
+      ],
+      "floor": "P2",
+      "xNorm": 0.5006979,
+      "yNorm": 0.8407985
+    },
+    {
+      "text": "Ya Travelator",
+      "tokens": [
+        "T0R"
+      ],
+      "floor": "P2",
+      "xNorm": 0.5020936,
+      "yNorm": 0.8616234
     }
   ],
-  "note": "Coordinates are accepted only when normalized OCR lot codes match current official Mid Valley tenant lots on the same floor. Corridor/left-right routing still requires walkable-path validation."
+  "note": "Lot coordinates are accepted only when a normalized OCR lot code matches a current official Mid Valley tenant lot on the same floor. This extractor performs one OCR pass only and reuses cached output when the official PDF is unchanged."
 }
