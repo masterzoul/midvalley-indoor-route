@@ -53,6 +53,9 @@ jobs:
       - name: Sync The Gardens Mall official floor map
         run: node scripts/sync-gardens.mjs
 
+      - name: Sync INC KL Eco City official directory
+        run: node scripts/sync-inc.mjs
+
       - name: Extract Mid Valley official floor-map geometry
         run: python3 scripts/build-midvalley-map.py
 
@@ -63,7 +66,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/places.generated.json data/gardens.generated.json data/topology.generated.json data/midvalley-map.generated.json
+          git add data/places.generated.json data/gardens.generated.json data/inc.generated.json data/topology.generated.json data/midvalley-map.generated.json
           if git diff --cached --quiet; then
             echo "No generated-data changes to commit."
           else
