@@ -23,7 +23,7 @@ permissions:
 
 concurrency:
   group: pages
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   sync-and-deploy:
@@ -41,12 +41,6 @@ jobs:
         with:
           node-version: '22'
 
-      - name: Install floor-map tools
-        run: |
-          sudo apt-get update -qq
-          sudo apt-get install -y -qq poppler-utils tesseract-ocr
-          python3 -m pip install --quiet pillow
-
       - name: Sync Mid Valley Megamall official directory
         run: node scripts/sync-places.mjs
 
@@ -56,21 +50,18 @@ jobs:
       - name: Sync INC KL Eco City official directory
         run: node scripts/sync-inc.mjs
 
-      - name: Extract Mid Valley official floor-map geometry
-        run: python3 scripts/build-midvalley-map.py
-
-      - name: Build guarded topology
+      - name: Build verified topology
         run: python3 scripts/build-topology.py
 
       - name: Commit refreshed generated data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/places.generated.json data/gardens.generated.json data/inc.generated.json data/topology.generated.json data/midvalley-map.generated.json
+          git add data/places.generated.json data/gardens.generated.json data/inc.generated.json data/topology.generated.json
           if git diff --cached --quiet; then
             echo "No generated-data changes to commit."
           else
-            git commit -m "Refresh connected mall directory and map data"
+            git commit -m "Refresh connected mall directory and verified route data"
             if ! git push; then
               echo "Remote branch advanced while this run was active; skipping only the persistence push. Deployment will continue using freshly generated data from this run."
             fi
