@@ -1,236 +1,75 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "updatedAt": "2026-09-05",
   "places": [
     {
-      "id": "mvm-dior-g-040",
-      "name": "Dior",
-      "mall": "Mid Valley Megamall",
-      "floor": "G",
-      "lot": "G-040",
-      "kind": "tenant",
-      "category": "BEAUTY & WELLNESS > Cosmetic",
-      "keywords": ["beauty", "cosmetic"],
-      "routeNode": "dior-g",
-      "officialUrl": "https://www.midvalley.com.my/tenant/Dior/6a6951aa-dc47-45ba-8613-eeef6fcbd08e/SHOP",
-      "dataConfidence": "official-tenant-plus-ground-map"
+      "id":"mvm-starbucks-reserve-g-076-079","name":"Starbucks Reserve","mall":"Mid Valley Megamall","floor":"G","lot":"G-076-079","kind":"tenant","category":"FOOD & BEVERAGES > Coffee / Specialty Beverages","keywords":["food","makan","minuman","coffee","kopi","cafe"],"routeNode":"starbucks-g","officialUrl":"https://www.midvalley.com.my/tenant/StarbucksReserve/6779f54f-6b98-4f63-be59-19b3c697703c/EAT","dataConfidence":"official-current-tenant-plus-ground-map"
     },
     {
-      "id": "mvm-south-court-g",
-      "name": "South Court",
-      "mall": "Mid Valley Megamall",
-      "floor": "G",
-      "kind": "landmark",
-      "routeNode": "south-g",
-      "keywords": ["south court", "court", "escalator", "information counter", "south entrance"],
-      "dataConfidence": "official-ground-map"
+      "id":"mvm-ben-s-g-080-081","name":"Ben's","mall":"Mid Valley Megamall","floor":"G","lot":"G-080 & 081","kind":"tenant","category":"FOOD & BEVERAGES > Cafe / Restaurant","keywords":["food","makan","makanan","restaurant","restoran","cafe"],"routeNode":"bens-g","officialUrl":"https://www.midvalley.com.my/tenant/Bens/9b7db1d4-8d73-4da5-9dc5-d1f5510019df/EAT","dataConfidence":"official-current-tenant-plus-ground-map"
     },
     {
-      "id": "mvm-north-court-g",
-      "name": "North Court",
-      "mall": "Mid Valley Megamall",
-      "floor": "G",
-      "kind": "landmark",
-      "routeNode": "north-g",
-      "keywords": ["north court", "court", "escalator", "information counter", "north entrance"],
-      "dataConfidence": "official-ground-map"
+      "id":"mvm-fresh-g-054","name":"Fresh","mall":"Mid Valley Megamall","floor":"G","lot":"G-054","kind":"tenant","category":"BEAUTY & WELLNESS > Cosmetic","keywords":["beauty","cosmetic"],"routeNode":"fresh-g","dataConfidence":"official-current-lot-plus-ground-map"
     },
     {
-      "id": "mvm-east-entrance-g",
-      "name": "East Entrance / East Atrium",
-      "mall": "Mid Valley Megamall",
-      "floor": "G",
-      "kind": "entrance",
-      "routeNode": "east-g",
-      "keywords": ["east entrance", "east atrium", "entrance", "pintu masuk", "escalator", "toilet", "lift"],
-      "dataConfidence": "official-ground-map"
+      "id":"mvm-bell-ross-g-100","name":"Bell & Ross","mall":"Mid Valley Megamall","floor":"G","lot":"G-100","kind":"tenant","category":"FASHION > Timepieces & Writing Instruments","keywords":["watch","timepiece","jam"],"routeNode":"bellross-g","officialUrl":"https://www.midvalley.com.my/tenant/BellRoss/9fa11f33-d6a3-4df6-9685-e5bfac6c5bfc/SHOP","dataConfidence":"official-current-tenant-plus-ground-map"
     },
     {
-      "id": "mvm-escalator-centre-g",
-      "name": "Escalator - Centre Court Ground Floor",
-      "mall": "Mid Valley Megamall",
-      "floor": "G",
-      "area": "Centre Court",
-      "kind": "escalator",
-      "routeNode": "centre-g",
-      "keywords": ["escalator", "eskalator", "tangga bergerak", "centre court"],
-      "dataConfidence": "official-ground-map"
+      "id":"mvm-chanel-g-096","name":"Chanel","mall":"Mid Valley Megamall","floor":"G","lot":"G-096","kind":"tenant","category":"BEAUTY & WELLNESS > Cosmetic","keywords":["beauty","cosmetic"],"routeNode":"chanel-g","officialUrl":"https://www.midvalley.com.my/tenant/CHANEL/c6879645-0213-4676-9ba2-5c08c9bcc8bf/SHOP","dataConfidence":"official-current-tenant-plus-ground-map"
     },
     {
-      "id": "mvm-escalator-south-g",
-      "name": "Escalator - South Court Ground Floor",
-      "mall": "Mid Valley Megamall",
-      "floor": "G",
-      "area": "South Court",
-      "kind": "escalator",
-      "routeNode": "south-g",
-      "keywords": ["escalator", "eskalator", "tangga bergerak", "south court"],
-      "dataConfidence": "official-ground-map"
+      "id":"mvm-yves-saint-laurent-g-006","name":"Yves Saint Laurent","mall":"Mid Valley Megamall","floor":"G","lot":"G-006","kind":"tenant","category":"BEAUTY & WELLNESS > Cosmetic","keywords":["ysl","beauty","cosmetic"],"routeNode":"ysl-g","officialUrl":"https://www.midvalley.com.my/tenant/YvesSaintLaurent/579d689d-84c9-4559-afe0-d158d2ada503/SHOP","dataConfidence":"official-current-tenant-plus-ground-map"
     },
     {
-      "id": "mvm-escalator-north-g",
-      "name": "Escalator - North Court Ground Floor",
-      "mall": "Mid Valley Megamall",
-      "floor": "G",
-      "area": "North Court",
-      "kind": "escalator",
-      "routeNode": "north-g",
-      "keywords": ["escalator", "eskalator", "tangga bergerak", "north court"],
-      "dataConfidence": "official-ground-map"
+      "id":"mvm-dior-g-040","name":"Dior","mall":"Mid Valley Megamall","floor":"G","lot":"G-040","kind":"tenant","category":"BEAUTY & WELLNESS > Cosmetic","keywords":["beauty","cosmetic"],"routeNode":"dior-g","officialUrl":"https://www.midvalley.com.my/tenant/Dior/6a6951aa-dc47-45ba-8613-eeef6fcbd08e/SHOP","dataConfidence":"official-current-tenant-plus-ground-map"
     },
     {
-      "id": "mvm-escalator-east-g",
-      "name": "Escalator - East Atrium Ground Floor",
-      "mall": "Mid Valley Megamall",
-      "floor": "G",
-      "area": "East Atrium",
-      "kind": "escalator",
-      "routeNode": "east-g",
-      "keywords": ["escalator", "eskalator", "tangga bergerak", "east atrium"],
-      "dataConfidence": "official-ground-map"
+      "id":"mvm-cu-g-022-023","name":"CU","mall":"Mid Valley Megamall","floor":"G","lot":"G-022 & 023","kind":"tenant","category":"SUNDRY & SERVICES > Convenience Store","keywords":["convenience","food","makan","minuman"],"routeNode":"cu-g","officialUrl":"https://www.midvalley.com.my/tenant/CU/14a9d6a2-ca14-4fc3-a4c3-b8ddb7ab2f0c/SHOP","dataConfidence":"official-current-tenant-plus-ground-map"
     },
     {
-      "id": "mvm-toilet-east-g",
-      "name": "Toilet - East Entrance Ground Floor",
-      "mall": "Mid Valley Megamall",
-      "floor": "G",
-      "area": "East Entrance",
-      "kind": "toilet",
-      "routeNode": "east-g",
-      "keywords": ["tandas", "toilet", "restroom", "washroom", "wc"],
-      "dataConfidence": "official-ground-map"
+      "id":"mvm-secret-recipe-g-048","name":"Secret Recipe","mall":"Mid Valley Megamall","floor":"G","lot":"G-048","kind":"tenant","category":"FOOD & BEVERAGES > Cafe","keywords":["food","makan","makanan","cake","cafe","restaurant","minuman"],"routeNode":"secret-g","officialUrl":"https://www.midvalley.com.my/tenant/SecretRecipe/15519ce9-74c4-4779-8b5a-bc7f421836d4/SHOP","dataConfidence":"official-current-tenant-plus-ground-map"
     },
     {
-      "id": "mvm-lift-east-g",
-      "name": "Lift - East Entrance Ground Floor",
-      "mall": "Mid Valley Megamall",
-      "floor": "G",
-      "area": "East Entrance",
-      "kind": "lift",
-      "routeNode": "east-g",
-      "keywords": ["lift", "elevator"],
-      "dataConfidence": "official-ground-map"
+      "id":"mvm-the-coffee-bean-tea-leaf-g-047","name":"The Coffee Bean & Tea Leaf","mall":"Mid Valley Megamall","floor":"G","lot":"G-047","kind":"tenant","category":"FOOD & BEVERAGES > Coffee / Specialty Beverages","keywords":["food","makan","minuman","coffee","kopi","cafe","latte"],"routeNode":"coffeebean-g","officialUrl":"https://www.midvalley.com.my/tenant/TheCoffeeBeanTeaLeaf/f591239f-01ac-4092-9908-d7c0529ae6e1/EAT","dataConfidence":"official-current-tenant-plus-ground-map"
     },
     {
-      "id": "inc-surau-mz",
-      "name": "Surau / Prayer Room - INC KL Eco City",
-      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
-      "floor": "MZ",
-      "area": "Mezzanine level below Ground; on the connected route toward LRT Abdullah Hukum",
-      "kind": "prayer",
-      "aliases": ["KLEC surau", "KL Eco City surau", "INC surau", "prayer room", "musolla"],
-      "keywords": ["surau", "solat", "sembahyang", "prayer", "musolla", "KLEC", "INC", "KL Eco City"],
-      "dataConfidence": "user-verified-location"
+      "id":"mvm-south-court-g","name":"South Court","mall":"Mid Valley Megamall","floor":"G","kind":"landmark","routeNode":"south-g","keywords":["south court","court","escalator","information counter","south entrance"],"dataConfidence":"official-ground-map"
     },
     {
-      "id": "inc-main-concourse-g",
-      "name": "Main Concourse - INC KL Eco City",
-      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
-      "floor": "G",
-      "kind": "landmark",
-      "keywords": ["main concourse", "concourse", "INC", "KLEC"],
-      "officialUrl": "https://spsetia.com/retails/inc-klec/",
-      "dataConfidence": "official-current-mall-page"
+      "id":"mvm-north-court-g","name":"North Court","mall":"Mid Valley Megamall","floor":"G","kind":"landmark","routeNode":"north-g","keywords":["north court","court","escalator","information counter","north entrance"],"dataConfidence":"official-ground-map"
     },
     {
-      "id": "inc-familymart-g21-22",
-      "name": "FamilyMart - INC KL Eco City",
-      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
-      "floor": "G",
-      "lot": "G-21 & 22",
-      "kind": "tenant",
-      "category": "Convenience / Food",
-      "keywords": ["food", "makan", "makanan", "minuman", "convenience", "FamilyMart"],
-      "officialUrl": "https://www.familymart.com.my/",
-      "dataConfidence": "official-tenant-site"
+      "id":"mvm-east-entrance-g","name":"East Entrance / East Atrium","mall":"Mid Valley Megamall","floor":"G","kind":"entrance","routeNode":"east-g","keywords":["east entrance","east atrium","entrance","pintu masuk","escalator","toilet","lift"],"dataConfidence":"official-ground-map"
     },
     {
-      "id": "inc-starbucks-g25-26",
-      "name": "Starbucks - INC KL Eco City",
-      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
-      "floor": "G",
-      "lot": "G-25 & 26",
-      "kind": "tenant",
-      "category": "Food & Beverage / Coffee",
-      "keywords": ["food", "makan", "minuman", "coffee", "kopi", "latte", "cafe"],
-      "officialUrl": "https://spsetia.com/retails/inc-klec/level-g/starbucks/",
-      "dataConfidence": "official-mall-directory"
+      "id":"mvm-escalator-centre-g","name":"Escalator - Centre Court Ground Floor","mall":"Mid Valley Megamall","floor":"G","area":"Centre Court","kind":"escalator","routeNode":"centre-g","keywords":["escalator","eskalator","tangga bergerak","centre court"],"dataConfidence":"official-ground-map"
     },
     {
-      "id": "inc-zus-g12",
-      "name": "ZUS Coffee - INC KL Eco City",
-      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
-      "floor": "G",
-      "lot": "G-12",
-      "kind": "tenant",
-      "category": "Food & Beverage / Coffee",
-      "keywords": ["food", "makan", "minuman", "coffee", "kopi", "latte", "cafe"],
-      "officialUrl": "https://spsetia.com/retails/inc-klec/",
-      "dataConfidence": "official-current-mall-page"
+      "id":"mvm-escalator-south-g","name":"Escalator - South Court Ground Floor","mall":"Mid Valley Megamall","floor":"G","area":"South Court","kind":"escalator","routeNode":"south-g","keywords":["escalator","eskalator","tangga bergerak","south court"],"dataConfidence":"official-ground-map"
     },
     {
-      "id": "inc-degayo-g11",
-      "name": "Degayo Coffee - INC KL Eco City",
-      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
-      "floor": "G",
-      "lot": "G-11",
-      "kind": "tenant",
-      "category": "Food & Beverage / Coffee",
-      "keywords": ["food", "makan", "minuman", "coffee", "kopi", "latte", "cafe"],
-      "officialUrl": "https://spsetia.com/retails/inc-klec/",
-      "dataConfidence": "official-current-mall-page"
+      "id":"mvm-escalator-north-g","name":"Escalator - North Court Ground Floor","mall":"Mid Valley Megamall","floor":"G","area":"North Court","kind":"escalator","routeNode":"north-g","keywords":["escalator","eskalator","tangga bergerak","north court"],"dataConfidence":"official-ground-map"
     },
     {
-      "id": "inc-superluna-g01",
-      "name": "Superluna - INC KL Eco City",
-      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
-      "floor": "G",
-      "lot": "G-01",
-      "kind": "tenant",
-      "category": "Food & Beverage / Cafe",
-      "keywords": ["food", "makan", "makanan", "minuman", "coffee", "cafe", "cake"],
-      "officialUrl": "https://spsetia.com/retails/inc-klec/",
-      "dataConfidence": "official-current-mall-page"
+      "id":"mvm-escalator-east-g","name":"Escalator - East Atrium Ground Floor","mall":"Mid Valley Megamall","floor":"G","area":"East Atrium","kind":"escalator","routeNode":"east-g","keywords":["escalator","eskalator","tangga bergerak","east atrium"],"dataConfidence":"official-ground-map"
     },
     {
-      "id": "inc-skg-l1-02",
-      "name": "SKG - INC KL Eco City",
-      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
-      "floor": "1",
-      "lot": "L1-02",
-      "kind": "tenant",
-      "officialUrl": "https://my.skg.com/pages/where-to-buy",
-      "dataConfidence": "official-tenant-site"
+      "id":"mvm-toilet-east-g","name":"Toilet - East Entrance Ground Floor","mall":"Mid Valley Megamall","floor":"G","area":"East Entrance","kind":"toilet","routeNode":"east-g","keywords":["tandas","toilet","restroom","washroom","wc"],"dataConfidence":"official-ground-map"
     },
     {
-      "id": "inc-eastel-l1-10",
-      "name": "EASTEL - INC KL Eco City",
-      "mall": "INC KL Eco City (formerly KL Eco City Mall)",
-      "floor": "1",
-      "lot": "L1-10",
-      "kind": "tenant",
-      "officialUrl": "https://eastel.com.my/contact-us/",
-      "dataConfidence": "official-tenant-site"
+      "id":"mvm-lift-east-g","name":"Lift - East Entrance Ground Floor","mall":"Mid Valley Megamall","floor":"G","area":"East Entrance","kind":"lift","routeNode":"east-g","keywords":["lift","elevator"],"dataConfidence":"official-ground-map"
     },
     {
-      "id": "masjid-abdullah-hukum",
-      "name": "Masjid Jamek Abdullah Hukum Eco City",
-      "mall": "KL Eco City",
-      "floor": "G",
-      "kind": "prayer",
-      "aliases": ["masjid Abdullah Hukum", "mosque", "masjid", "surau"],
-      "keywords": ["solat", "sembahyang", "prayer", "masjid", "mosque", "Abdullah Hukum"],
-      "officialUrl": "https://masjid.islam.gov.my/index.php/maklumatDetailMS/1/1406017",
-      "dataConfidence": "official-JAKIM-mosque-registry"
+      "id":"inc-surau-mz","name":"Surau / Prayer Room - INC KL Eco City","mall":"INC KL Eco City (formerly KL Eco City Mall)","floor":"MZ","area":"Mezzanine level below Ground; on the connected route toward LRT Abdullah Hukum","kind":"prayer","aliases":["KLEC surau","KL Eco City surau","INC surau","prayer room","musolla"],"keywords":["surau","solat","sembahyang","prayer","musolla","KLEC","INC","KL Eco City"],"dataConfidence":"user-verified-location"
     },
     {
-      "id": "lrt-abdullah-hukum",
-      "name": "LRT Abdullah Hukum",
-      "mall": "KL Eco City",
-      "floor": "1",
-      "kind": "transport",
-      "keywords": ["lrt", "train", "tren", "station", "stesen", "Abdullah Hukum", "rapidKL"],
-      "dataConfidence": "official-connected-transport-landmark"
+      "id":"inc-main-concourse-g","name":"Main Concourse - INC KL Eco City","mall":"INC KL Eco City (formerly KL Eco City Mall)","floor":"G","kind":"landmark","keywords":["main concourse","concourse","INC","KLEC"],"officialUrl":"https://spsetia.com/retails/inc-klec/","dataConfidence":"official-current-mall-page"
+    },
+    {
+      "id":"masjid-abdullah-hukum","name":"Masjid Jamek Abdullah Hukum Eco City","mall":"KL Eco City","floor":"G","kind":"prayer","aliases":["masjid Abdullah Hukum","mosque","masjid","surau"],"keywords":["solat","sembahyang","prayer","masjid","mosque","Abdullah Hukum"],"officialUrl":"https://masjid.islam.gov.my/index.php/maklumatDetailMS/1/1406017","dataConfidence":"official-JAKIM-mosque-registry"
+    },
+    {
+      "id":"lrt-abdullah-hukum","name":"LRT Abdullah Hukum","mall":"KL Eco City","floor":"1","kind":"transport","keywords":["lrt","train","tren","station","stesen","Abdullah Hukum","rapidKL"],"dataConfidence":"official-connected-transport-landmark"
     }
   ]
 }
