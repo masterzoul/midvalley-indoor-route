@@ -1,78 +1,172 @@
 {
-  "schemaVersion": 2,
-  "verificationPolicy": "Only directions visible on official Mid Valley City / mall floor maps are encoded. Left/right is used only where the walking orientation and landmark side are clear. No route is inferred from lot numbering alone.",
+  "schemaVersion": 3,
+  "verificationPolicy": "Ground Floor directions are encoded only from the official Mid Valley City Ground Floor map and current official tenant pages. Left/right is used only when walking orientation and landmark side are clear. No route is inferred from lot numbering alone.",
   "nodes": [
     {"id":"south-g","name":"South Court","floor":"G"},
+    {"id":"starbucks-g","name":"Starbucks Reserve","floor":"G","lot":"G-076-079"},
+    {"id":"bens-g","name":"Ben's","floor":"G","lot":"G-080 & 081"},
+    {"id":"fresh-g","name":"Fresh","floor":"G","lot":"G-054"},
     {"id":"centre-g","name":"Centre Court","floor":"G"},
+    {"id":"bellross-g","name":"Bell & Ross","floor":"G","lot":"G-100"},
+    {"id":"chanel-g","name":"Chanel","floor":"G","lot":"G-096"},
+    {"id":"ysl-g","name":"Yves Saint Laurent","floor":"G","lot":"G-006"},
     {"id":"dior-g","name":"Dior","floor":"G","lot":"G-040"},
     {"id":"north-g","name":"North Court","floor":"G"},
+    {"id":"cu-g","name":"CU","floor":"G","lot":"G-022 & 023"},
     {"id":"east-g","name":"East Atrium / East Entrance","floor":"G"},
+    {"id":"secret-g","name":"Secret Recipe","floor":"G","lot":"G-048"},
+    {"id":"coffeebean-g","name":"The Coffee Bean & Tea Leaf","floor":"G","lot":"G-047"},
     {"id":"centre-1","name":"Centre Court","floor":"1"},
     {"id":"centre-2","name":"Centre Court","floor":"2"},
     {"id":"centre-3","name":"Centre Court","floor":"3"}
   ],
   "edges": [
     {
-      "from":"dior-g","to":"centre-g","weight":1,
+      "from":"starbucks-g","to":"south-g","weight":0.4,
       "detail":{
-        "move":"Keluar dari Dior ke koridor utama dan belok kiri, bergerak ke arah Centre Court.",
-        "left":["deretan kedai pada sisi Dior", "Fresh apabila menghampiri Centre Court"],
-        "right":["Yves Saint Laurent", "Chanel apabila menghampiri Centre Court"],
+        "move":"Keluar dari Starbucks Reserve dan bergerak masuk ke ruang South Court.",
+        "right":["Menara IGB"],
+        "ahead":["South Court"],
+        "facilities":["South Entrance", "escalator di South Court", "Information Counter di South Court"],
+        "turn":"Masuk ke ruang bulat South Court."
+      },
+      "source":"Official Mid Valley City Ground Floor Map + current tenant page"
+    },
+    {
+      "from":"bens-g","to":"south-g","weight":0.35,
+      "detail":{
+        "move":"Dari Ben's, ikut koridor pendek terus ke South Court.",
+        "ahead":["South Court"],
+        "facilities":["escalator dan Information Counter di South Court"],
+        "turn":"Sampai di ruang bulat South Court."
+      },
+      "source":"Official Mid Valley City Ground Floor Map + current tenant page"
+    },
+    {
+      "from":"south-g","to":"centre-g","weight":1,
+      "detail":{
+        "move":"Dari South Court, ambil koridor utama ke kanan menuju Centre Court.",
+        "left":["Ben's", "Bell & Ross", "Chanel"],
+        "right":["Fresh"],
+        "ahead":["Centre Court"],
+        "facilities":["toilet di bahagian koridor atas antara South Court dan Centre Court", "escalator di Centre Court"],
+        "turn":"Terus sehingga masuk ke ruang Centre Court."
+      },
+      "source":"Official Mid Valley City Ground Floor Map"
+    },
+    {
+      "from":"fresh-g","to":"centre-g","weight":0.25,
+      "detail":{
+        "move":"Keluar dari Fresh ke koridor utama; Centre Court berada sangat hampir di sebelah kanan sepanjang koridor.",
+        "left":["Chanel di seberang koridor"],
         "ahead":["Centre Court"],
         "facilities":["escalator di Centre Court"],
-        "turn":"Berhenti di ruang terbuka Centre Court; jangan masuk ke cabang lain sebelum arahan seterusnya."
+        "turn":"Masuk ke Centre Court."
       },
-      "source":"Official Mid Valley City Ground Floor Map"
+      "source":"Official Mid Valley City Ground Floor Map + current Fresh lot reference"
     },
     {
-      "from":"dior-g","to":"north-g","weight":1,
+      "from":"bellross-g","to":"centre-g","weight":0.3,
       "detail":{
-        "move":"Keluar dari Dior ke koridor utama dan belok kanan, terus menuju North Court.",
-        "left":["deretan kedai arah North Entrance", "CU berhampiran bahagian North Court"],
-        "right":["AEON"],
-        "ahead":["North Court", "Padini Concept Store di hujung sebelah timur"],
-        "facilities":["escalator di North Court", "Information Counter di North Court", "North Entrance"],
-        "turn":"Apabila sampai ruang bulat North Court, ikut arahan seterusnya dari North Court."
+        "move":"Keluar dari Bell & Ross dan bergerak ke kanan sepanjang koridor menuju Centre Court.",
+        "right":["Chanel"],
+        "ahead":["Centre Court"],
+        "facilities":["escalator di Centre Court"],
+        "turn":"Terus beberapa langkah sehingga ruang Centre Court."
       },
-      "source":"Official Mid Valley City Ground Floor Map"
+      "source":"Official Mid Valley City Ground Floor Map + current tenant page"
     },
     {
-      "from":"dior-g","to":"east-g","weight":1.2,
+      "from":"chanel-g","to":"centre-g","weight":0.2,
       "detail":{
-        "move":"Dari Dior, bergerak ke arah bahagian bawah koridor menuju East Atrium, di sisi AEON.",
-        "right":["AEON"],
-        "ahead":["East Atrium", "East Entrance"],
-        "facilities":["escalator di East Atrium", "toilet dan lift berhampiran East Entrance"],
-        "turn":"Di East Atrium, terus ke East Entrance; Secret Recipe dan Coffee Bean berada berhampiran laluan keluar."
+        "move":"Keluar dari Chanel ke koridor utama; Centre Court berada betul-betul berhampiran di sebelah kanan.",
+        "right":["Centre Court"],
+        "left":["Fresh di seberang koridor"],
+        "facilities":["escalator di Centre Court"],
+        "turn":"Masuk ke Centre Court."
       },
-      "source":"Official Mid Valley City Ground Floor Map"
+      "source":"Official Mid Valley City Ground Floor Map + current tenant page"
     },
     {
-      "from":"centre-g","to":"south-g","weight":1,
+      "from":"centre-g","to":"ysl-g","weight":0.25,
       "detail":{
-        "move":"Dari Centre Court, ikut koridor utama ke arah South Court.",
-        "left":["Fresh"],
-        "right":["Chanel", "Ben's apabila menghampiri South Court"],
-        "ahead":["South Court"],
-        "facilities":["escalator di South Court", "Information Counter di South Court", "South Entrance"],
-        "turn":"Masuk ke ruang South Court dan ikut arahan seterusnya dari situ."
+        "move":"Dari Centre Court, ambil koridor utama ke arah North Court; Yves Saint Laurent berada di sebelah kiri tidak jauh selepas keluar dari Centre Court.",
+        "right":["Dior di seberang koridor"],
+        "ahead":["Yves Saint Laurent"],
+        "turn":"Berhenti di Yves Saint Laurent."
       },
-      "source":"Official Mid Valley City Ground Floor Map"
+      "source":"Official Mid Valley City Ground Floor Map + current tenant page"
     },
     {
-      "from":"centre-g","to":"north-g","weight":2,
+      "from":"centre-g","to":"dior-g","weight":0.3,
       "detail":{
-        "move":"Dari Centre Court, ikut koridor utama ke arah North Court.",
-        "left":["Yves Saint Laurent", "deretan kedai arah North Entrance"],
+        "move":"Dari Centre Court, ambil koridor utama ke arah North Court; Dior berada di sebelah kanan selepas keluar dari Centre Court.",
+        "left":["Yves Saint Laurent"],
+        "right":["Dior"],
+        "ahead":["arah North Court"],
+        "turn":"Berhenti di Dior, Lot G-040."
+      },
+      "source":"Official Mid Valley City Ground Floor Map + current tenant page"
+    },
+    {
+      "from":"centre-g","to":"north-g","weight":1,
+      "detail":{
+        "move":"Dari Centre Court, terus sepanjang koridor utama ke arah North Court.",
+        "left":["Yves Saint Laurent", "deretan kedai menuju North Entrance"],
         "right":["Dior", "AEON"],
         "ahead":["North Court"],
-        "facilities":["escalator dan Information Counter di North Court"],
-        "turn":"Terus sehingga ruang North Court."
+        "facilities":["toilet di bahagian koridor atas sebelum North Court", "escalator dan Information Counter di North Court"],
+        "turn":"Terus sehingga masuk ke ruang bulat North Court."
       },
       "source":"Official Mid Valley City Ground Floor Map"
     },
-    {"from":"centre-g","to":"centre-1","weight":1,"mode":"escalator/lift","instruction":"Di Centre Court, gunakan escalator atau lift yang berada di Centre Court untuk naik dari Ground Floor ke First Floor."},
-    {"from":"centre-1","to":"centre-2","weight":1,"mode":"escalator/lift","instruction":"Kekal di Centre Court dan gunakan escalator atau lift di situ untuk naik dari First Floor ke Second Floor."},
-    {"from":"centre-2","to":"centre-3","weight":1,"mode":"escalator/lift","instruction":"Kekal di Centre Court dan gunakan escalator atau lift di situ untuk naik dari Second Floor ke Third Floor."}
+    {
+      "from":"north-g","to":"cu-g","weight":0.25,
+      "detail":{
+        "move":"Dari North Court, bergerak ke arah North Entrance; CU berada di bahagian atas koridor berhampiran pintu masuk itu.",
+        "ahead":["CU", "North Entrance"],
+        "facilities":["Information Counter dan escalator di North Court"],
+        "turn":"Berhenti di CU."
+      },
+      "source":"Official Mid Valley City Ground Floor Map + current tenant page"
+    },
+    {
+      "from":"north-g","to":"east-g","weight":0.7,
+      "detail":{
+        "move":"Dari North Court, ambil laluan turun ke arah East Atrium di tepi AEON.",
+        "right":["AEON"],
+        "ahead":["East Atrium"],
+        "facilities":["escalator di East Atrium", "toilet dan lift berhampiran East Entrance"],
+        "turn":"Apabila sampai East Atrium, teruskan ke arah East Entrance jika destinasi berada di bahagian bawah."
+      },
+      "source":"Official Mid Valley City Ground Floor Map"
+    },
+    {
+      "from":"east-g","to":"secret-g","weight":0.2,
+      "detail":{
+        "move":"Dari East Atrium, berjalan ke arah East Entrance; Secret Recipe berada di sebelah kanan sebelum pintu keluar.",
+        "left":["The Coffee Bean & Tea Leaf"],
+        "right":["Secret Recipe"],
+        "ahead":["East Entrance"],
+        "facilities":["toilet dan lift berhampiran East Entrance"],
+        "turn":"Berhenti di Secret Recipe."
+      },
+      "source":"Official Mid Valley City Ground Floor Map + current tenant page"
+    },
+    {
+      "from":"east-g","to":"coffeebean-g","weight":0.2,
+      "detail":{
+        "move":"Dari East Atrium, berjalan ke arah East Entrance; The Coffee Bean & Tea Leaf berada di sebelah kiri sebelum pintu keluar.",
+        "left":["The Coffee Bean & Tea Leaf"],
+        "right":["Secret Recipe"],
+        "ahead":["East Entrance"],
+        "facilities":["toilet dan lift berhampiran East Entrance"],
+        "turn":"Berhenti di The Coffee Bean & Tea Leaf."
+      },
+      "source":"Official Mid Valley City Ground Floor Map + current tenant page"
+    },
+    {"from":"centre-g","to":"centre-1","weight":1,"mode":"escalator/lift","instruction":"Di Centre Court, gunakan escalator yang berada di Centre Court untuk naik dari Ground Floor ke First Floor. Lift juga ditanda pada pelan mall sebagai pilihan akses menegak."},
+    {"from":"centre-1","to":"centre-2","weight":1,"mode":"escalator/lift","instruction":"Di Centre Court, gunakan escalator atau lift untuk naik dari First Floor ke Second Floor."},
+    {"from":"centre-2","to":"centre-3","weight":1,"mode":"escalator/lift","instruction":"Di Centre Court, gunakan escalator atau lift untuk naik dari Second Floor ke Third Floor."}
   ]
 }
