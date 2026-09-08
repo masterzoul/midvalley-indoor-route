@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceMode": "generated",
-  "updatedAt": "2026-09-06T23:52:26.314Z",
+  "updatedAt": "2026-09-08T00:24:20.507Z",
   "mallScope": [
     "The Gardens Mall"
   ],
@@ -2051,21 +2051,6 @@
       "dataConfidence": "official-floor-map-coordinate"
     },
     {
-      "id": "tgm-t-205b-t-205b",
-      "name": "Crumpler",
-      "mall": "The Gardens Mall",
-      "floor": "3",
-      "lot": "T-205B",
-      "kind": "tenant",
-      "categoryId": "17",
-      "keywords": [],
-      "x": 0.5883,
-      "y": 0.4328,
-      "mapSvg": "https://www.thegardensmall.com.my/data/editor/layer-maps/tgm-third-floor-2025.svg",
-      "officialUrl": "https://www.thegardensmall.com.my/floor-map",
-      "dataConfidence": "official-floor-map-coordinate"
-    },
-    {
       "id": "tgm-t-238-t-238",
       "name": "Flash Gadgets",
       "mall": "The Gardens Mall",
@@ -2301,6 +2286,21 @@
       "keywords": [],
       "x": 0.5532,
       "y": 0.4384,
+      "mapSvg": "https://www.thegardensmall.com.my/data/editor/layer-maps/tgm-third-floor-2025.svg",
+      "officialUrl": "https://www.thegardensmall.com.my/floor-map",
+      "dataConfidence": "official-floor-map-coordinate"
+    },
+    {
+      "id": "tgm-t-205b-t-205b",
+      "name": "Oppo (Coming Soon)",
+      "mall": "The Gardens Mall",
+      "floor": "3",
+      "lot": "T-205B",
+      "kind": "tenant",
+      "categoryId": "4",
+      "keywords": [],
+      "x": 0.5883,
+      "y": 0.434,
       "mapSvg": "https://www.thegardensmall.com.my/data/editor/layer-maps/tgm-third-floor-2025.svg",
       "officialUrl": "https://www.thegardensmall.com.my/floor-map",
       "dataConfidence": "official-floor-map-coordinate"
