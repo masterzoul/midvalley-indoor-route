@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-09-09T00:12:42.337Z",
+  "updatedAt": "2026-09-10T00:13:19.785Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -10,7 +10,7 @@
     "https://www.midvalley.com.my/about/services-facilities/",
     "https://www.midvalley.com.my/locate/parking/index.aspx"
   ],
-  "tenantCount": 559,
+  "tenantCount": 558,
   "places": [
     {
       "id": "mvm-aeon-homes-sports-outdoor-at-3",
@@ -4816,18 +4816,6 @@
       "category": "BEAUTY & WELLNESS > Cosmetic",
       "keywords": [],
       "officialUrl": "https://www.midvalley.com.my/tenant/GiorgioArmaniBeauty/100f3c80-b880-48d9-8728-5bbbd0322a29/SHOP",
-      "dataConfidence": "official-name-lot-category"
-    },
-    {
-      "id": "mvm-givenchy-gk-03-04",
-      "name": "Givenchy",
-      "mall": "Mid Valley Megamall",
-      "floor": "G",
-      "lot": "GK-03 & 04",
-      "kind": "tenant",
-      "category": "BEAUTY & WELLNESS > Cosmetic",
-      "keywords": [],
-      "officialUrl": "https://www.midvalley.com.my/tenant/Givenchy/cbf12a66-46b3-4ad3-b49f-574cf76af928/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
