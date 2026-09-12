@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "sourceMode": "generated",
-  "updatedAt": "2026-09-11T00:09:10.275Z",
+  "updatedAt": "2026-09-12T00:17:06.446Z",
   "mallScope": [
     "The Gardens Mall"
   ],
   "source": "https://www.thegardensmall.com.my/floor-map",
-  "tenantCount": 282,
+  "tenantCount": 283,
   "places": [
     {
       "id": "tgm-baby-room",
@@ -141,6 +141,21 @@
       "keywords": [],
       "x": 0.4233,
       "y": 0.5022,
+      "mapSvg": "https://www.thegardensmall.com.my/data/editor/layer-maps/tgm-first-floor-nov-2025-2.svg",
+      "officialUrl": "https://www.thegardensmall.com.my/floor-map",
+      "dataConfidence": "official-floor-map-coordinate"
+    },
+    {
+      "id": "tgm-f-205a-f-205a",
+      "name": "By Invite Only",
+      "mall": "The Gardens Mall",
+      "floor": "1",
+      "lot": "F-205A",
+      "kind": "tenant",
+      "categoryId": "9",
+      "keywords": [],
+      "x": 0.5743,
+      "y": 0.4106,
       "mapSvg": "https://www.thegardensmall.com.my/data/editor/layer-maps/tgm-first-floor-nov-2025-2.svg",
       "officialUrl": "https://www.thegardensmall.com.my/floor-map",
       "dataConfidence": "official-floor-map-coordinate"
@@ -952,8 +967,8 @@
       "kind": "tenant",
       "categoryId": "20",
       "keywords": [],
-      "x": 0.5804,
-      "y": 0.4075,
+      "x": 0.5931,
+      "y": 0.4088,
       "mapSvg": "https://www.thegardensmall.com.my/data/editor/layer-maps/tgm-first-floor-nov-2025-2.svg",
       "officialUrl": "https://www.thegardensmall.com.my/floor-map",
       "dataConfidence": "official-floor-map-coordinate"

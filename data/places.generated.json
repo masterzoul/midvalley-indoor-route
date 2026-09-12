@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-09-11T00:09:06.161Z",
+  "updatedAt": "2026-09-12T00:17:02.518Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -10,7 +10,7 @@
     "https://www.midvalley.com.my/about/services-facilities/",
     "https://www.midvalley.com.my/locate/parking/index.aspx"
   ],
-  "tenantCount": 558,
+  "tenantCount": 557,
   "places": [
     {
       "id": "mvm-aeon-homes-sports-outdoor-at-3",
@@ -5556,18 +5556,6 @@
       "category": "",
       "keywords": [],
       "officialUrl": "https://www.midvalley.com.my/tenant/StarbucksReserve/6779f54f-6b98-4f63-be59-19b3c697703c/SHOP",
-      "dataConfidence": "official-name-lot-category"
-    },
-    {
-      "id": "mvm-steve-madden-g-013a",
-      "name": "Steve Madden",
-      "mall": "Mid Valley Megamall",
-      "floor": "G",
-      "lot": "G-013A",
-      "kind": "tenant",
-      "category": "FASHION > Accessories, Bags & Shoes",
-      "keywords": [],
-      "officialUrl": "https://www.midvalley.com.my/tenant/SteveMadden/5e9d3bec-d525-4b07-8b54-07cdd521a1b4/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
