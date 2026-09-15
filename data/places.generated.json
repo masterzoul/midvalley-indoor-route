@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-09-14T00:10:11.029Z",
+  "updatedAt": "2026-09-15T00:37:01.988Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -10,7 +10,7 @@
     "https://www.midvalley.com.my/about/services-facilities/",
     "https://www.midvalley.com.my/locate/parking/index.aspx"
   ],
-  "tenantCount": 557,
+  "tenantCount": 556,
   "places": [
     {
       "id": "mvm-aeon-homes-sports-outdoor-at-3",
@@ -260,18 +260,6 @@
       "category": "FASHION > Accessories, Bags & Shoes FASHION > Women Fashion",
       "keywords": [],
       "officialUrl": "https://www.midvalley.com.my/tenant/AirSpace/4aa723b4-7514-489e-956f-b7bb6cbdbf34/SHOP",
-      "dataConfidence": "official-name-lot-category"
-    },
-    {
-      "id": "mvm-alphamax-fk-12",
-      "name": "Alphamax",
-      "mall": "Mid Valley Megamall",
-      "floor": "1",
-      "lot": "FK-12",
-      "kind": "tenant",
-      "category": "HOMES > Household Appliances",
-      "keywords": [],
-      "officialUrl": "https://www.midvalley.com.my/tenant/Alphamax/278196ae-75f8-46b8-9c28-cd5b58bd91f2/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
@@ -1754,6 +1742,18 @@
       "dataConfidence": "official-name-lot-category"
     },
     {
+      "id": "mvm-all-it-xpress-s-091",
+      "name": "ALL IT Xpress",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "S-091",
+      "kind": "tenant",
+      "category": "IT & PHOTOGRAPHY GADGET > Computers & Gadget Accessories",
+      "keywords": [],
+      "officialUrl": "https://www.midvalley.com.my/tenant/ALLITXpress/0f883a7a-763a-46f5-9bc4-69af346918af/SHOP",
+      "dataConfidence": "official-name-lot-category"
+    },
+    {
       "id": "mvm-amarin-heavenly-thai-s-045",
       "name": "Amarin Heavenly Thai",
       "mall": "Mid Valley Megamall",
@@ -3110,18 +3110,6 @@
       "category": "",
       "keywords": [],
       "officialUrl": "https://www.midvalley.com.my/tenant/Bananabro/3ee8a78d-4701-485c-b109-9f5e026b3ac6/SHOP",
-      "dataConfidence": "official-name-lot-category"
-    },
-    {
-      "id": "mvm-bean-factory-t-072-tk-17",
-      "name": "Bean Factory 怡保祖传豆花",
-      "mall": "Mid Valley Megamall",
-      "floor": "3",
-      "lot": "T-072 & TK-17",
-      "kind": "tenant",
-      "category": "",
-      "keywords": [],
-      "officialUrl": "https://www.midvalley.com.my/tenant/BeanFactory/aeab024f-7aec-43bf-96d6-f50d9353a0bd/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
