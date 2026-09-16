@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-09-15T00:37:01.988Z",
+  "updatedAt": "2026-09-16T00:17:47.197Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -10,7 +10,7 @@
     "https://www.midvalley.com.my/about/services-facilities/",
     "https://www.midvalley.com.my/locate/parking/index.aspx"
   ],
-  "tenantCount": 556,
+  "tenantCount": 555,
   "places": [
     {
       "id": "mvm-aeon-homes-sports-outdoor-at-3",
@@ -4780,18 +4780,6 @@
       "category": "FASHION > Timepieces & Writing Instruments",
       "keywords": [],
       "officialUrl": "https://www.midvalley.com.my/tenant/FrederiqueConstant/c11d05eb-a7dc-4538-aac0-df01acd7a419/SHOP",
-      "dataConfidence": "official-name-lot-category"
-    },
-    {
-      "id": "mvm-g2000-g-098",
-      "name": "G2000",
-      "mall": "Mid Valley Megamall",
-      "floor": "G",
-      "lot": "G-098",
-      "kind": "tenant",
-      "category": "FASHION > Accessories, Bags & Shoes FASHION > Men Fashion FASHION > Women Fashion",
-      "keywords": [],
-      "officialUrl": "https://www.midvalley.com.my/tenant/G2000/273ad6b9-7d4b-4b64-9247-cb8ad5168d38/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
