@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-09-18T00:15:45.457Z",
+  "updatedAt": "2026-09-19T00:19:30.054Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -10,7 +10,7 @@
     "https://www.midvalley.com.my/about/services-facilities/",
     "https://www.midvalley.com.my/locate/parking/index.aspx"
   ],
-  "tenantCount": 555,
+  "tenantCount": 554,
   "places": [
     {
       "id": "mvm-aeon-homes-sports-outdoor-at-3",
@@ -994,18 +994,6 @@
       "category": "",
       "keywords": [],
       "officialUrl": "https://www.midvalley.com.my/tenant/MadamKwans/f437f62f-cfe5-4946-9b55-32708a2e09a5/SHOP",
-      "dataConfidence": "official-name-lot-category"
-    },
-    {
-      "id": "mvm-mamaway-f-032",
-      "name": "Mamaway",
-      "mall": "Mid Valley Megamall",
-      "floor": "1",
-      "lot": "F-032",
-      "kind": "tenant",
-      "category": "FASHION > Accessories, Bags & Shoes FASHION > Women Fashion",
-      "keywords": [],
-      "officialUrl": "https://www.midvalley.com.my/tenant/Mamaway/2d4667ca-73e4-47c5-96f8-dc1c9510565f/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
@@ -6110,6 +6098,18 @@
       "dataConfidence": "official-name-lot-category"
     },
     {
+      "id": "mvm-crystal-treasures-lg-002-003",
+      "name": "Crystal Treasures",
+      "mall": "Mid Valley Megamall",
+      "floor": "LG",
+      "lot": "LG-002 & 003",
+      "kind": "tenant",
+      "category": "FASHION > Jewellery HOMES > Interior Decoration & Accessories",
+      "keywords": [],
+      "officialUrl": "https://www.midvalley.com.my/tenant/CrystalTreasures/7a3a1816-e8d4-47f0-99da-0d80ebcf0dcb/SHOP",
+      "dataConfidence": "official-name-lot-category"
+    },
+    {
       "id": "mvm-cuckoo-lgc-28",
       "name": "Cuckoo",
       "mall": "Mid Valley Megamall",
@@ -6790,18 +6790,6 @@
       "category": "",
       "keywords": [],
       "officialUrl": "https://www.midvalley.com.my/tenant/LoHongKa/a1ca9f16-ad43-4896-93d7-5966abf74967/SHOP",
-      "dataConfidence": "official-name-lot-category"
-    },
-    {
-      "id": "mvm-lucky-gems-lg-002-003",
-      "name": "Lucky Gems",
-      "mall": "Mid Valley Megamall",
-      "floor": "LG",
-      "lot": "LG-002 & 003",
-      "kind": "tenant",
-      "category": "FASHION > Jewellery HOMES > Interior Decoration & Accessories",
-      "keywords": [],
-      "officialUrl": "https://www.midvalley.com.my/tenant/LuckyGems/7a3a1816-e8d4-47f0-99da-0d80ebcf0dcb/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
