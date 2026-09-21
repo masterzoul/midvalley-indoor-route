@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-09-20T00:08:51.468Z",
+  "updatedAt": "2026-09-21T00:15:21.669Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -10,7 +10,7 @@
     "https://www.midvalley.com.my/about/services-facilities/",
     "https://www.midvalley.com.my/locate/parking/index.aspx"
   ],
-  "tenantCount": 554,
+  "tenantCount": 553,
   "places": [
     {
       "id": "mvm-aeon-homes-sports-outdoor-at-3",
@@ -260,6 +260,18 @@
       "category": "FASHION > Accessories, Bags & Shoes FASHION > Women Fashion",
       "keywords": [],
       "officialUrl": "https://www.midvalley.com.my/tenant/AirSpace/4aa723b4-7514-489e-956f-b7bb6cbdbf34/SHOP",
+      "dataConfidence": "official-name-lot-category"
+    },
+    {
+      "id": "mvm-alphamax-fk-12",
+      "name": "Alphamax",
+      "mall": "Mid Valley Megamall",
+      "floor": "1",
+      "lot": "FK-12",
+      "kind": "tenant",
+      "category": "HOMES > Household Appliances",
+      "keywords": [],
+      "officialUrl": "https://www.midvalley.com.my/tenant/Alphamax/278196ae-75f8-46b8-9c28-cd5b58bd91f2/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
@@ -1739,18 +1751,6 @@
       "category": "IT & PHOTOGRAPHY GADGET > Computers & Gadget Accessories",
       "keywords": [],
       "officialUrl": "https://www.midvalley.com.my/tenant/ALLITXpress/0f883a7a-763a-46f5-9bc4-69af346918af/SHOP",
-      "dataConfidence": "official-name-lot-category"
-    },
-    {
-      "id": "mvm-amarin-heavenly-thai-s-045",
-      "name": "Amarin Heavenly Thai",
-      "mall": "Mid Valley Megamall",
-      "floor": "2",
-      "lot": "S-045",
-      "kind": "tenant",
-      "category": "",
-      "keywords": [],
-      "officialUrl": "https://www.midvalley.com.my/tenant/AmarinHeavenlyThai/3a03ef38-114d-4991-bd70-0e8f0fccd1b1/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
@@ -3291,25 +3291,6 @@
       "category": "SUNDRY & SERVICES",
       "keywords": [],
       "officialUrl": "https://www.midvalley.com.my/tenant/DrStretch/021976fa-6301-4b32-a5d2-013cb352c667/SHOP",
-      "dataConfidence": "official-name-lot-category"
-    },
-    {
-      "id": "mvm-dragonfly-t-071",
-      "name": "Dragonfly",
-      "mall": "Mid Valley Megamall",
-      "floor": "3",
-      "lot": "T-071",
-      "kind": "tenant",
-      "category": "LEISURE & ENTERTAINMENT > Tattoo Service",
-      "keywords": [
-        "cinema",
-        "pawagam",
-        "wayang",
-        "filem",
-        "movie",
-        "tonton"
-      ],
-      "officialUrl": "https://www.midvalley.com.my/tenant/Dragonfly/7c89b877-e62c-49b5-85d4-f561c83b0946/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
