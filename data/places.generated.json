@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-09-21T00:15:21.669Z",
+  "updatedAt": "2026-09-22T00:49:17.248Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -5528,15 +5528,15 @@
       "dataConfidence": "official-name-lot-category"
     },
     {
-      "id": "mvm-tesla-g-e-011-g001",
-      "name": "Tesla",
+      "id": "mvm-tesla-g-001-g-e-011",
+      "name": "TESLA",
       "mall": "Mid Valley Megamall",
       "floor": "G",
-      "lot": "G(E)-011 & G001",
+      "lot": "G-001 & G(E)-011",
       "kind": "tenant",
       "category": "SUNDRY & SERVICES > Other Services",
       "keywords": [],
-      "officialUrl": "https://www.midvalley.com.my/tenant/Tesla/a1a1f6dc-5d2d-4009-a847-993c5a2f643e/SHOP",
+      "officialUrl": "https://www.midvalley.com.my/tenant/TESLA/a1a1f6dc-5d2d-4009-a847-993c5a2f643e/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
