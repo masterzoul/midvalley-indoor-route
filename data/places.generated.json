@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-09-25T00:33:28.496Z",
+  "updatedAt": "2026-09-26T00:37:49.619Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -10,7 +10,7 @@
     "https://www.midvalley.com.my/about/services-facilities/",
     "https://www.midvalley.com.my/locate/parking/index.aspx"
   ],
-  "tenantCount": 553,
+  "tenantCount": 554,
   "places": [
     {
       "id": "mvm-aeon-homes-sports-outdoor-at-3",
@@ -694,6 +694,18 @@
       "category": "FASHION > Accessories, Bags & Shoes",
       "keywords": [],
       "officialUrl": "https://www.midvalley.com.my/tenant/FITFLOP/4a8b7f4e-fbca-4812-8891-5be510a755c2/SHOP",
+      "dataConfidence": "official-name-lot-category"
+    },
+    {
+      "id": "mvm-g2000-f-067-068",
+      "name": "G2000",
+      "mall": "Mid Valley Megamall",
+      "floor": "1",
+      "lot": "F-067 & 068",
+      "kind": "tenant",
+      "category": "FASHION > Men Fashion FASHION > Women Fashion",
+      "keywords": [],
+      "officialUrl": "https://www.midvalley.com.my/tenant/G2000/d769a530-d077-45cb-b9a4-a1dd868d6071/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
