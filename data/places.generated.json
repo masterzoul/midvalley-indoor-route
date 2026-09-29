@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-09-28T00:43:49.686Z",
+  "updatedAt": "2026-09-29T01:55:43.116Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -10,7 +10,7 @@
     "https://www.midvalley.com.my/about/services-facilities/",
     "https://www.midvalley.com.my/locate/parking/index.aspx"
   ],
-  "tenantCount": 554,
+  "tenantCount": 555,
   "places": [
     {
       "id": "mvm-aeon-homes-sports-outdoor-at-3",
@@ -926,6 +926,22 @@
       "dataConfidence": "official-name-lot-category"
     },
     {
+      "id": "mvm-l-occitane-en-provence-f-058",
+      "name": "L'Occitane En Provence",
+      "mall": "Mid Valley Megamall",
+      "floor": "1",
+      "lot": "F-058",
+      "kind": "tenant",
+      "category": "BEAUTY & WELLNESS > Personal Care / Pharmacy",
+      "keywords": [
+        "pharmacy",
+        "farmasi",
+        "ubat"
+      ],
+      "officialUrl": "https://www.midvalley.com.my/tenant/LOccitaneEnProvence/1c188e7a-f1b2-4e11-83cc-8df2ef513683/SHOP",
+      "dataConfidence": "official-name-lot-category"
+    },
+    {
       "id": "mvm-la-senza-lingerie-f-066",
       "name": "La Senza Lingerie",
       "mall": "Mid Valley Megamall",
@@ -1766,15 +1782,15 @@
       "dataConfidence": "official-name-lot-category"
     },
     {
-      "id": "mvm-artzy-nails-s-013",
-      "name": "Artzy Nails",
+      "id": "mvm-amarin-heavenly-thai-s-045",
+      "name": "Amarin Heavenly Thai",
       "mall": "Mid Valley Megamall",
       "floor": "2",
-      "lot": "S-013",
+      "lot": "S-045",
       "kind": "tenant",
-      "category": "BEAUTY & WELLNESS > Beauty & Hair Salon BEAUTY & WELLNESS > Cosmetic",
+      "category": "",
       "keywords": [],
-      "officialUrl": "https://www.midvalley.com.my/tenant/ArtzyNails/8135c541-4463-47cc-b6a8-b3ddae0db74e/SHOP",
+      "officialUrl": "https://www.midvalley.com.my/tenant/AmarinHeavenlyThai/3a03ef38-114d-4991-bd70-0e8f0fccd1b1/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
