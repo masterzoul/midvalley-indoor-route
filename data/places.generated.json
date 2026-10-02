@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-10-01T01:17:33.409Z",
+  "updatedAt": "2026-10-02T01:41:38.677Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -10,7 +10,7 @@
     "https://www.midvalley.com.my/about/services-facilities/",
     "https://www.midvalley.com.my/locate/parking/index.aspx"
   ],
-  "tenantCount": 556,
+  "tenantCount": 555,
   "places": [
     {
       "id": "mvm-aeon-homes-sports-outdoor-at-3",
@@ -2391,25 +2391,6 @@
       "dataConfidence": "official-name-lot-category"
     },
     {
-      "id": "mvm-montigo-sk-08",
-      "name": "Montigo",
-      "mall": "Mid Valley Megamall",
-      "floor": "2",
-      "lot": "SK-08",
-      "kind": "tenant",
-      "category": "LEISURE & ENTERTAINMENT > Entertainment",
-      "keywords": [
-        "cinema",
-        "pawagam",
-        "wayang",
-        "filem",
-        "movie",
-        "tonton"
-      ],
-      "officialUrl": "https://www.midvalley.com.my/tenant/Montigo/a588e020-4682-4499-bee8-b203e523bb05/SHOP",
-      "dataConfidence": "official-name-lot-category"
-    },
-    {
       "id": "mvm-mothercare-the-entertainer-s-063a",
       "name": "mothercare & The Entertainer",
       "mall": "Mid Valley Megamall",
@@ -4160,15 +4141,15 @@
       "dataConfidence": "official-name-lot-category"
     },
     {
-      "id": "mvm-tealive-plus-tk-08",
-      "name": "tealive plus",
+      "id": "mvm-tealive-tk-08",
+      "name": "Tealive",
       "mall": "Mid Valley Megamall",
       "floor": "3",
       "lot": "TK-08",
       "kind": "tenant",
       "category": "",
       "keywords": [],
-      "officialUrl": "https://www.midvalley.com.my/tenant/tealiveplus/152b3d77-5fc4-4ec9-8f94-1aef07bb5c08/SHOP",
+      "officialUrl": "https://www.midvalley.com.my/tenant/Tealive/152b3d77-5fc4-4ec9-8f94-1aef07bb5c08/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
