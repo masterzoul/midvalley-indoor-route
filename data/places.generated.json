@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-10-02T01:41:38.677Z",
+  "updatedAt": "2026-10-03T01:11:41.334Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -1782,6 +1782,18 @@
       "dataConfidence": "official-name-lot-category"
     },
     {
+      "id": "mvm-amarin-heavenly-thai-s-045",
+      "name": "Amarin Heavenly Thai",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "S-045",
+      "kind": "tenant",
+      "category": "",
+      "keywords": [],
+      "officialUrl": "https://www.midvalley.com.my/tenant/AmarinHeavenlyThai/3a03ef38-114d-4991-bd70-0e8f0fccd1b1/SHOP",
+      "dataConfidence": "official-name-lot-category"
+    },
+    {
       "id": "mvm-artzy-nails-s-013",
       "name": "Artzy Nails",
       "mall": "Mid Valley Megamall",
@@ -1791,18 +1803,6 @@
       "category": "BEAUTY & WELLNESS > Beauty & Hair Salon BEAUTY & WELLNESS > Cosmetic",
       "keywords": [],
       "officialUrl": "https://www.midvalley.com.my/tenant/ArtzyNails/8135c541-4463-47cc-b6a8-b3ddae0db74e/SHOP",
-      "dataConfidence": "official-name-lot-category"
-    },
-    {
-      "id": "mvm-asterspring-s-031",
-      "name": "AsterSpring",
-      "mall": "Mid Valley Megamall",
-      "floor": "2",
-      "lot": "S-031",
-      "kind": "tenant",
-      "category": "BEAUTY & WELLNESS > Beauty & Hair Salon",
-      "keywords": [],
-      "officialUrl": "https://www.midvalley.com.my/tenant/AsterSpring/1f63dba8-64ab-4a76-8932-bf5a325612bf/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
