@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-10-03T01:11:41.334Z",
+  "updatedAt": "2026-10-04T00:36:26.819Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -1794,15 +1794,15 @@
       "dataConfidence": "official-name-lot-category"
     },
     {
-      "id": "mvm-artzy-nails-s-013",
-      "name": "Artzy Nails",
+      "id": "mvm-asterspring-s-031",
+      "name": "AsterSpring",
       "mall": "Mid Valley Megamall",
       "floor": "2",
-      "lot": "S-013",
+      "lot": "S-031",
       "kind": "tenant",
-      "category": "BEAUTY & WELLNESS > Beauty & Hair Salon BEAUTY & WELLNESS > Cosmetic",
+      "category": "BEAUTY & WELLNESS > Beauty & Hair Salon",
       "keywords": [],
-      "officialUrl": "https://www.midvalley.com.my/tenant/ArtzyNails/8135c541-4463-47cc-b6a8-b3ddae0db74e/SHOP",
+      "officialUrl": "https://www.midvalley.com.my/tenant/AsterSpring/1f63dba8-64ab-4a76-8932-bf5a325612bf/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
