@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-10-04T00:36:26.819Z",
+  "updatedAt": "2026-10-05T00:54:50.108Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -1782,15 +1782,15 @@
       "dataConfidence": "official-name-lot-category"
     },
     {
-      "id": "mvm-amarin-heavenly-thai-s-045",
-      "name": "Amarin Heavenly Thai",
+      "id": "mvm-artzy-nails-s-013",
+      "name": "Artzy Nails",
       "mall": "Mid Valley Megamall",
       "floor": "2",
-      "lot": "S-045",
+      "lot": "S-013",
       "kind": "tenant",
-      "category": "",
+      "category": "BEAUTY & WELLNESS > Beauty & Hair Salon BEAUTY & WELLNESS > Cosmetic",
       "keywords": [],
-      "officialUrl": "https://www.midvalley.com.my/tenant/AmarinHeavenlyThai/3a03ef38-114d-4991-bd70-0e8f0fccd1b1/SHOP",
+      "officialUrl": "https://www.midvalley.com.my/tenant/ArtzyNails/8135c541-4463-47cc-b6a8-b3ddae0db74e/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
