@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-10-09T02:08:09.170Z",
+  "updatedAt": "2026-10-10T01:45:37.974Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -10,7 +10,7 @@
     "https://www.midvalley.com.my/about/services-facilities/",
     "https://www.midvalley.com.my/locate/parking/index.aspx"
   ],
-  "tenantCount": 556,
+  "tenantCount": 558,
   "places": [
     {
       "id": "mvm-aeon-homes-sports-outdoor-at-3",
@@ -1921,6 +1921,18 @@
         "senaman"
       ],
       "officialUrl": "https://www.midvalley.com.my/tenant/Clarisound/16dbb94b-5605-4673-9354-82219c4a3bce/SHOP",
+      "dataConfidence": "official-name-lot-category"
+    },
+    {
+      "id": "mvm-derucci-s-082-083",
+      "name": "DeRUCCI",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "S-082 & 083",
+      "kind": "tenant",
+      "category": "HOMES > Furniture & Furnishing",
+      "keywords": [],
+      "officialUrl": "https://www.midvalley.com.my/tenant/DeRUCCI/eeece89f-be9b-406d-9407-e4c65170248b/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
@@ -7022,6 +7034,18 @@
       "category": "",
       "keywords": [],
       "officialUrl": "https://www.midvalley.com.my/tenant/OmegaPorkNoodle/faecdf38-e677-4175-bc68-dc0f0af0948b/SHOP",
+      "dataConfidence": "official-name-lot-category"
+    },
+    {
+      "id": "mvm-omiyage-lgk-13",
+      "name": "Omiyage",
+      "mall": "Mid Valley Megamall",
+      "floor": "LG",
+      "lot": "LGK-13",
+      "kind": "tenant",
+      "category": "",
+      "keywords": [],
+      "officialUrl": "https://www.midvalley.com.my/tenant/Omiyage/f1e24d65-36da-46aa-a3c6-f8dae99af70f/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
