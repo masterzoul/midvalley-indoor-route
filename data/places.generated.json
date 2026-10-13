@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-10-12T01:19:45.265Z",
+  "updatedAt": "2026-10-13T03:03:07.509Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -260,6 +260,18 @@
       "category": "FASHION > Accessories, Bags & Shoes FASHION > Women Fashion",
       "keywords": [],
       "officialUrl": "https://www.midvalley.com.my/tenant/AirSpace/4aa723b4-7514-489e-956f-b7bb6cbdbf34/SHOP",
+      "dataConfidence": "official-name-lot-category"
+    },
+    {
+      "id": "mvm-alphamax-fk-12",
+      "name": "Alphamax",
+      "mall": "Mid Valley Megamall",
+      "floor": "1",
+      "lot": "FK-12",
+      "kind": "tenant",
+      "category": "HOMES > Household Appliances",
+      "keywords": [],
+      "officialUrl": "https://www.midvalley.com.my/tenant/Alphamax/278196ae-75f8-46b8-9c28-cd5b58bd91f2/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
@@ -1648,6 +1660,25 @@
       "dataConfidence": "official-name-lot-category"
     },
     {
+      "id": "mvm-x11-one-one-f-029c",
+      "name": "X11 One One",
+      "mall": "Mid Valley Megamall",
+      "floor": "1",
+      "lot": "F-029C",
+      "kind": "tenant",
+      "category": "LEISURE & ENTERTAINMENT > Entertainment LEISURE & ENTERTAINMENT > Toys & Hobbies",
+      "keywords": [
+        "cinema",
+        "pawagam",
+        "wayang",
+        "filem",
+        "movie",
+        "tonton"
+      ],
+      "officialUrl": "https://www.midvalley.com.my/tenant/X11OneOne/cd42c46c-510b-49fd-80ca-bf2add3a0820/SHOP",
+      "dataConfidence": "official-name-lot-category"
+    },
+    {
       "id": "mvm-xixili-f-091",
       "name": "Xixili",
       "mall": "Mid Valley Megamall",
@@ -1767,18 +1798,6 @@
       "category": "IT & PHOTOGRAPHY GADGET > Computers & Gadget Accessories",
       "keywords": [],
       "officialUrl": "https://www.midvalley.com.my/tenant/ALLITXpress/0f883a7a-763a-46f5-9bc4-69af346918af/SHOP",
-      "dataConfidence": "official-name-lot-category"
-    },
-    {
-      "id": "mvm-amarin-heavenly-thai-s-045",
-      "name": "Amarin Heavenly Thai",
-      "mall": "Mid Valley Megamall",
-      "floor": "2",
-      "lot": "S-045",
-      "kind": "tenant",
-      "category": "",
-      "keywords": [],
-      "officialUrl": "https://www.midvalley.com.my/tenant/AmarinHeavenlyThai/3a03ef38-114d-4991-bd70-0e8f0fccd1b1/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
@@ -3795,25 +3814,6 @@
         "tonton"
       ],
       "officialUrl": "https://www.midvalley.com.my/tenant/Nike/cffeb5e8-dbc0-4fa9-b7f5-98f4c40dd013/SHOP",
-      "dataConfidence": "official-name-lot-category"
-    },
-    {
-      "id": "mvm-oiyo-tk-15",
-      "name": "OiYO",
-      "mall": "Mid Valley Megamall",
-      "floor": "3",
-      "lot": "TK-15",
-      "kind": "tenant",
-      "category": "LEISURE & ENTERTAINMENT",
-      "keywords": [
-        "cinema",
-        "pawagam",
-        "wayang",
-        "filem",
-        "movie",
-        "tonton"
-      ],
-      "officialUrl": "https://www.midvalley.com.my/tenant/OiYO/bd9ef641-bd90-4d4e-99d3-e98428d876a5/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {

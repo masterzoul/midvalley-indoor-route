@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "sourceMode": "generated",
-  "updatedAt": "2026-10-12T01:19:49.392Z",
+  "updatedAt": "2026-10-13T03:03:11.678Z",
   "mallScope": [
     "The Gardens Mall"
   ],
   "source": "https://www.thegardensmall.com.my/floor-map",
-  "tenantCount": 283,
+  "tenantCount": 282,
   "places": [
     {
       "id": "tgm-baby-room",
@@ -341,38 +341,8 @@
       "dataConfidence": "official-floor-map-coordinate"
     },
     {
-      "id": "tgm-f-k06-f-k06",
-      "name": "Eight Ounce Coffee",
-      "mall": "The Gardens Mall",
-      "floor": "1",
-      "lot": "F-K06",
-      "kind": "tenant",
-      "categoryId": "38",
-      "keywords": [
-        "food",
-        "makan",
-        "makanan",
-        "selera",
-        "jamuan",
-        "air",
-        "minuman",
-        "drink",
-        "restaurant",
-        "restoran",
-        "cafe",
-        "kafe",
-        "food court",
-        "dining"
-      ],
-      "x": 0.4456,
-      "y": 0.5983,
-      "mapSvg": "https://www.thegardensmall.com.my/data/editor/layer-maps/tgm-first-floor-2026-01.svg",
-      "officialUrl": "https://www.thegardensmall.com.my/floor-map",
-      "dataConfidence": "official-floor-map-coordinate"
-    },
-    {
       "id": "tgm-f-226c-f-226c",
-      "name": "Eight Ounce Coffee (Coming Soon)",
+      "name": "Eight Ounce Coffee",
       "mall": "The Gardens Mall",
       "floor": "1",
       "lot": "F-226C",
