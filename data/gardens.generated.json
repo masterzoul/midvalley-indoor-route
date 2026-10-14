@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "sourceMode": "generated",
-  "updatedAt": "2026-10-13T03:03:11.678Z",
+  "updatedAt": "2026-10-14T01:13:18.211Z",
   "mallScope": [
     "The Gardens Mall"
   ],
   "source": "https://www.thegardensmall.com.my/floor-map",
-  "tenantCount": 282,
+  "tenantCount": 283,
   "places": [
     {
       "id": "tgm-baby-room",
@@ -201,6 +201,21 @@
       "keywords": [],
       "x": 0.3127,
       "y": 0.554,
+      "mapSvg": "https://www.thegardensmall.com.my/data/editor/layer-maps/tgm-first-floor-2026-01.svg",
+      "officialUrl": "https://www.thegardensmall.com.my/floor-map",
+      "dataConfidence": "official-floor-map-coordinate"
+    },
+    {
+      "id": "tgm-f-k03-f-k06",
+      "name": "Chonky Cookies",
+      "mall": "The Gardens Mall",
+      "floor": "1",
+      "lot": "F-K06",
+      "kind": "tenant",
+      "categoryId": "25",
+      "keywords": [],
+      "x": 0.4446,
+      "y": 0.5983,
       "mapSvg": "https://www.thegardensmall.com.my/data/editor/layer-maps/tgm-first-floor-2026-01.svg",
       "officialUrl": "https://www.thegardensmall.com.my/floor-map",
       "dataConfidence": "official-floor-map-coordinate"
@@ -3923,21 +3938,6 @@
       "dataConfidence": "official-floor-map-coordinate"
     },
     {
-      "id": "tgm-lg-k03-lg-k03",
-      "name": "Chonky Cookies",
-      "mall": "The Gardens Mall",
-      "floor": "LG",
-      "lot": "LG-K03",
-      "kind": "tenant",
-      "categoryId": "25",
-      "keywords": [],
-      "x": 0.589,
-      "y": 0.3634,
-      "mapSvg": "https://www.thegardensmall.com.my/data/editor/layer-maps/tgm-lower-ground-floor-2025-nov.svg",
-      "officialUrl": "https://www.thegardensmall.com.my/floor-map",
-      "dataConfidence": "official-floor-map-coordinate"
-    },
-    {
       "id": "tgm-lg-c11-lg-c11-lower-ground",
       "name": "Claire Organics",
       "mall": "The Gardens Mall",
@@ -5307,6 +5307,21 @@
       "keywords": [],
       "x": 0.5521,
       "y": 0.5975,
+      "mapSvg": "https://www.thegardensmall.com.my/data/editor/layer-maps/tgm-lower-ground-floor-2025-nov.svg",
+      "officialUrl": "https://www.thegardensmall.com.my/floor-map",
+      "dataConfidence": "official-floor-map-coordinate"
+    },
+    {
+      "id": "tgm-lg-k03-lg-k03-lower-ground",
+      "name": "Yoursnackies Desserts",
+      "mall": "The Gardens Mall",
+      "floor": "LG",
+      "lot": "LG-K03, Lower Ground",
+      "kind": "tenant",
+      "categoryId": "25",
+      "keywords": [],
+      "x": 0.5884,
+      "y": 0.362,
       "mapSvg": "https://www.thegardensmall.com.my/data/editor/layer-maps/tgm-lower-ground-floor-2025-nov.svg",
       "officialUrl": "https://www.thegardensmall.com.my/floor-map",
       "dataConfidence": "official-floor-map-coordinate"
