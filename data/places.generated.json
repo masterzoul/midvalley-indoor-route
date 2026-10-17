@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-10-16T00:23:07.967Z",
+  "updatedAt": "2026-10-17T00:27:44.243Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -899,7 +899,7 @@
     },
     {
       "id": "mvm-kerastase-paris-fk-07",
-      "name": "Kérastase Paris",
+      "name": "Kerastase Paris",
       "mall": "Mid Valley Megamall",
       "floor": "1",
       "lot": "FK-07",
@@ -910,7 +910,7 @@
         "farmasi",
         "ubat"
       ],
-      "officialUrl": "https://www.midvalley.com.my/tenant/KrastaseParis/17cc8f27-3184-4f0f-94d4-5c2e2f31347c/SHOP",
+      "officialUrl": "https://www.midvalley.com.my/tenant/KerastaseParis/17cc8f27-3184-4f0f-94d4-5c2e2f31347c/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {

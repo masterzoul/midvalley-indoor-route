@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceMode": "generated",
-  "updatedAt": "2026-10-16T00:23:12.660Z",
+  "updatedAt": "2026-10-17T00:27:48.460Z",
   "mallScope": [
     "The Gardens Mall"
   ],
@@ -206,7 +206,7 @@
       "dataConfidence": "official-floor-map-coordinate"
     },
     {
-      "id": "tgm-f-k03-f-k06",
+      "id": "tgm-f-k06-f-k06",
       "name": "Chonky Cookies",
       "mall": "The Gardens Mall",
       "floor": "1",
