@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-10-19T00:12:44.114Z",
+  "updatedAt": "2026-10-20T01:05:41.036Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -10,7 +10,7 @@
     "https://www.midvalley.com.my/about/services-facilities/",
     "https://www.midvalley.com.my/locate/parking/index.aspx"
   ],
-  "tenantCount": 558,
+  "tenantCount": 559,
   "places": [
     {
       "id": "mvm-aeon-homes-sports-outdoor-at-3",
@@ -1801,15 +1801,15 @@
       "dataConfidence": "official-name-lot-category"
     },
     {
-      "id": "mvm-artzy-nails-s-013",
-      "name": "Artzy Nails",
+      "id": "mvm-amarin-heavenly-thai-s-045",
+      "name": "Amarin Heavenly Thai",
       "mall": "Mid Valley Megamall",
       "floor": "2",
-      "lot": "S-013",
+      "lot": "S-045",
       "kind": "tenant",
-      "category": "BEAUTY & WELLNESS > Beauty & Hair Salon BEAUTY & WELLNESS > Cosmetic",
+      "category": "",
       "keywords": [],
-      "officialUrl": "https://www.midvalley.com.my/tenant/ArtzyNails/8135c541-4463-47cc-b6a8-b3ddae0db74e/SHOP",
+      "officialUrl": "https://www.midvalley.com.my/tenant/AmarinHeavenlyThai/3a03ef38-114d-4991-bd70-0e8f0fccd1b1/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
@@ -4540,6 +4540,18 @@
       "category": "FASHION > Accessories, Bags & Shoes FASHION > Men Fashion FASHION > Women Fashion",
       "keywords": [],
       "officialUrl": "https://www.midvalley.com.my/tenant/Bonia/63fc4acb-bca9-461d-8d8b-da2b45b640f6/SHOP",
+      "dataConfidence": "official-name-lot-category"
+    },
+    {
+      "id": "mvm-carolina-herrera-gk-03-04",
+      "name": "Carolina Herrera",
+      "mall": "Mid Valley Megamall",
+      "floor": "G",
+      "lot": "GK-03 & 04",
+      "kind": "tenant",
+      "category": "BEAUTY & WELLNESS > Cosmetic",
+      "keywords": [],
+      "officialUrl": "https://www.midvalley.com.my/tenant/CarolinaHerrera/cbf12a66-46b3-4ad3-b49f-574cf76af928/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
