@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-10-20T01:05:41.036Z",
+  "updatedAt": "2026-10-21T00:36:57.018Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -10,7 +10,7 @@
     "https://www.midvalley.com.my/about/services-facilities/",
     "https://www.midvalley.com.my/locate/parking/index.aspx"
   ],
-  "tenantCount": 559,
+  "tenantCount": 558,
   "places": [
     {
       "id": "mvm-aeon-homes-sports-outdoor-at-3",
@@ -2634,18 +2634,6 @@
       "category": "HOMES > Household Appliances",
       "keywords": [],
       "officialUrl": "https://www.midvalley.com.my/tenant/Roborock/33179083-624d-45be-b399-0453635adb51/SHOP",
-      "dataConfidence": "official-name-lot-category"
-    },
-    {
-      "id": "mvm-russell-taylors-s-011",
-      "name": "Russell Taylors",
-      "mall": "Mid Valley Megamall",
-      "floor": "2",
-      "lot": "S-011",
-      "kind": "tenant",
-      "category": "HOMES > Household Appliances",
-      "keywords": [],
-      "officialUrl": "https://www.midvalley.com.my/tenant/RussellTaylors/49560a13-00cc-4b3a-abc5-3c9c8d954e7d/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
