@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-10-21T00:36:57.018Z",
+  "updatedAt": "2026-10-22T00:40:59.880Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -10,7 +10,7 @@
     "https://www.midvalley.com.my/about/services-facilities/",
     "https://www.midvalley.com.my/locate/parking/index.aspx"
   ],
-  "tenantCount": 558,
+  "tenantCount": 557,
   "places": [
     {
       "id": "mvm-aeon-homes-sports-outdoor-at-3",
@@ -5725,25 +5725,6 @@
       "dataConfidence": "official-name-lot-category"
     },
     {
-      "id": "mvm-under-armour-g-012",
-      "name": "Under Armour",
-      "mall": "Mid Valley Megamall",
-      "floor": "G",
-      "lot": "G-012",
-      "kind": "tenant",
-      "category": "FASHION > Sportswear LEISURE & ENTERTAINMENT > Sportswear",
-      "keywords": [
-        "cinema",
-        "pawagam",
-        "wayang",
-        "filem",
-        "movie",
-        "tonton"
-      ],
-      "officialUrl": "https://www.midvalley.com.my/tenant/UnderArmour/c39cd0bd-c19c-4d27-85db-cb5d82c78074/SHOP",
-      "dataConfidence": "official-name-lot-category"
-    },
-    {
       "id": "mvm-uniqlo-g-ja1c-f-ja2a",
       "name": "UNIQLO",
       "mall": "Mid Valley Megamall",
@@ -5910,6 +5891,18 @@
       "category": "",
       "keywords": [],
       "officialUrl": "https://www.midvalley.com.my/tenant/AhChengLaksa/98832de6-5020-4712-8035-5253ea3bb342/SHOP",
+      "dataConfidence": "official-name-lot-category"
+    },
+    {
+      "id": "mvm-amlife-lgc-07",
+      "name": "AmLife",
+      "mall": "Mid Valley Megamall",
+      "floor": "LG",
+      "lot": "LGC-07",
+      "kind": "tenant",
+      "category": "HOMES > Furniture & Furnishing",
+      "keywords": [],
+      "officialUrl": "https://www.midvalley.com.my/tenant/AmLife/135dfb1c-05eb-4622-bc8b-174521220a08/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
@@ -7278,18 +7271,6 @@
       "category": "",
       "keywords": [],
       "officialUrl": "https://www.midvalley.com.my/tenant/SushiJiro/6d9e1114-f0e0-4914-93ac-4c455afd720b/SHOP",
-      "dataConfidence": "official-name-lot-category"
-    },
-    {
-      "id": "mvm-tan-mujiang-lgc-07",
-      "name": "Tan Mujiang 谭木匠",
-      "mall": "Mid Valley Megamall",
-      "floor": "LG",
-      "lot": "LGC-07",
-      "kind": "tenant",
-      "category": "BEAUTY & WELLNESS",
-      "keywords": [],
-      "officialUrl": "https://www.midvalley.com.my/tenant/TanMujiang/135dfb1c-05eb-4622-bc8b-174521220a08/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
