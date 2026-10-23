@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-10-22T00:40:59.880Z",
+  "updatedAt": "2026-10-23T00:39:03.305Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -10,7 +10,7 @@
     "https://www.midvalley.com.my/about/services-facilities/",
     "https://www.midvalley.com.my/locate/parking/index.aspx"
   ],
-  "tenantCount": 557,
+  "tenantCount": 556,
   "places": [
     {
       "id": "mvm-aeon-homes-sports-outdoor-at-3",
@@ -815,18 +815,6 @@
       ],
       "officialUrl": "https://www.midvalley.com.my/about/services-facilities/",
       "dataConfidence": "official-facilities-page"
-    },
-    {
-      "id": "mvm-jelly-bunny-f-085",
-      "name": "Jelly Bunny",
-      "mall": "Mid Valley Megamall",
-      "floor": "1",
-      "lot": "F-085",
-      "kind": "tenant",
-      "category": "FASHION > Accessories, Bags & Shoes FASHION > Women Fashion",
-      "keywords": [],
-      "officialUrl": "https://www.midvalley.com.my/tenant/JellyBunny/9c5e378b-9577-450f-b6e3-9442b9ea0dd7/SHOP",
-      "dataConfidence": "official-name-lot-category"
     },
     {
       "id": "mvm-jessanne-f-057",

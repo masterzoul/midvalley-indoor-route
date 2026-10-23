@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceMode": "generated",
-  "updatedAt": "2026-10-22T00:41:04.003Z",
+  "updatedAt": "2026-10-23T00:39:07.609Z",
   "mallScope": [
     "The Gardens Mall"
   ],
@@ -2948,7 +2948,7 @@
     },
     {
       "id": "tgm-g-236-g-236",
-      "name": "Atelier de Prestige (ComingSoon)",
+      "name": "Atelier de Prestige",
       "mall": "The Gardens Mall",
       "floor": "G",
       "lot": "G-236",
