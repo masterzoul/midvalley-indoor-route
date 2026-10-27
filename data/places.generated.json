@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-10-26T00:20:17.113Z",
+  "updatedAt": "2026-10-27T01:28:24.554Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -10,7 +10,7 @@
     "https://www.midvalley.com.my/about/services-facilities/",
     "https://www.midvalley.com.my/locate/parking/index.aspx"
   ],
-  "tenantCount": 556,
+  "tenantCount": 555,
   "places": [
     {
       "id": "mvm-aeon-homes-sports-outdoor-at-3",
@@ -1801,15 +1801,15 @@
       "dataConfidence": "official-name-lot-category"
     },
     {
-      "id": "mvm-asterspring-s-031",
-      "name": "AsterSpring",
+      "id": "mvm-artzy-nails-s-013",
+      "name": "Artzy Nails",
       "mall": "Mid Valley Megamall",
       "floor": "2",
-      "lot": "S-031",
+      "lot": "S-013",
       "kind": "tenant",
-      "category": "BEAUTY & WELLNESS > Beauty & Hair Salon",
+      "category": "BEAUTY & WELLNESS > Beauty & Hair Salon BEAUTY & WELLNESS > Cosmetic",
       "keywords": [],
-      "officialUrl": "https://www.midvalley.com.my/tenant/AsterSpring/1f63dba8-64ab-4a76-8932-bf5a325612bf/SHOP",
+      "officialUrl": "https://www.midvalley.com.my/tenant/ArtzyNails/8135c541-4463-47cc-b6a8-b3ddae0db74e/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
@@ -3047,25 +3047,6 @@
         "tonton"
       ],
       "officialUrl": "https://www.midvalley.com.my/tenant/AceCardsCollectibles/317c764d-5fce-4312-a5ae-bcb3b357a634/SHOP",
-      "dataConfidence": "official-name-lot-category"
-    },
-    {
-      "id": "mvm-anta-t-026",
-      "name": "ANTA",
-      "mall": "Mid Valley Megamall",
-      "floor": "3",
-      "lot": "T-026",
-      "kind": "tenant",
-      "category": "FASHION > Sportswear LEISURE & ENTERTAINMENT > Sportswear",
-      "keywords": [
-        "cinema",
-        "pawagam",
-        "wayang",
-        "filem",
-        "movie",
-        "tonton"
-      ],
-      "officialUrl": "https://www.midvalley.com.my/tenant/ANTA/ae1e704e-bbda-44ba-b88b-923c0d3da695/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
