@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-10-27T01:28:24.554Z",
+  "updatedAt": "2026-10-28T01:18:59.173Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -10,7 +10,7 @@
     "https://www.midvalley.com.my/about/services-facilities/",
     "https://www.midvalley.com.my/locate/parking/index.aspx"
   ],
-  "tenantCount": 555,
+  "tenantCount": 556,
   "places": [
     {
       "id": "mvm-aeon-homes-sports-outdoor-at-3",
@@ -1323,6 +1323,18 @@
       "category": "BEAUTY & WELLNESS > Cosmetic",
       "keywords": [],
       "officialUrl": "https://www.midvalley.com.my/tenant/ShuUemura/d81e2c98-52c4-42ad-85f0-fcd2c4d72db4/SHOP",
+      "dataConfidence": "official-name-lot-category"
+    },
+    {
+      "id": "mvm-siti-khadijah-f-032",
+      "name": "Siti Khadijah",
+      "mall": "Mid Valley Megamall",
+      "floor": "1",
+      "lot": "F-032",
+      "kind": "tenant",
+      "category": "FASHION > Women Fashion",
+      "keywords": [],
+      "officialUrl": "https://www.midvalley.com.my/tenant/SitiKhadijah/2d4667ca-73e4-47c5-96f8-dc1c9510565f/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
