@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-10-28T01:18:59.173Z",
+  "updatedAt": "2026-10-29T01:47:33.063Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -10,7 +10,7 @@
     "https://www.midvalley.com.my/about/services-facilities/",
     "https://www.midvalley.com.my/locate/parking/index.aspx"
   ],
-  "tenantCount": 556,
+  "tenantCount": 557,
   "places": [
     {
       "id": "mvm-aeon-homes-sports-outdoor-at-3",
@@ -3028,6 +3028,25 @@
         "food court"
       ],
       "officialUrl": "https://www.midvalley.com.my/tenant/ZusCoffee/c04e8e8d-2b3c-4a1c-9b57-c06ae2bb52ac/SHOP",
+      "dataConfidence": "official-name-lot-category"
+    },
+    {
+      "id": "mvm-zus-mart-sk-08",
+      "name": "ZUS Mart",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "SK-08",
+      "kind": "tenant",
+      "category": "LEISURE & ENTERTAINMENT",
+      "keywords": [
+        "cinema",
+        "pawagam",
+        "wayang",
+        "filem",
+        "movie",
+        "tonton"
+      ],
+      "officialUrl": "https://www.midvalley.com.my/tenant/ZUSMart/a588e020-4682-4499-bee8-b203e523bb05/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
