@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-10-29T01:47:33.063Z",
+  "updatedAt": "2026-10-30T01:57:22.046Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -10,7 +10,7 @@
     "https://www.midvalley.com.my/about/services-facilities/",
     "https://www.midvalley.com.my/locate/parking/index.aspx"
   ],
-  "tenantCount": 557,
+  "tenantCount": 556,
   "places": [
     {
       "id": "mvm-aeon-homes-sports-outdoor-at-3",
@@ -1825,6 +1825,18 @@
       "dataConfidence": "official-name-lot-category"
     },
     {
+      "id": "mvm-asterspring-s-031",
+      "name": "AsterSpring",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "S-031",
+      "kind": "tenant",
+      "category": "BEAUTY & WELLNESS > Beauty & Hair Salon",
+      "keywords": [],
+      "officialUrl": "https://www.midvalley.com.my/tenant/AsterSpring/1f63dba8-64ab-4a76-8932-bf5a325612bf/SHOP",
+      "dataConfidence": "official-name-lot-category"
+    },
+    {
       "id": "mvm-asus-s-094",
       "name": "Asus",
       "mall": "Mid Valley Megamall",
@@ -1834,22 +1846,6 @@
       "category": "IT & PHOTOGRAPHY GADGET > Computers & Gadget Accessories",
       "keywords": [],
       "officialUrl": "https://www.midvalley.com.my/tenant/Asus/4047247c-b460-45f7-9d78-a144dddaa1e9/SHOP",
-      "dataConfidence": "official-name-lot-category"
-    },
-    {
-      "id": "mvm-aveda-s-007",
-      "name": "Aveda",
-      "mall": "Mid Valley Megamall",
-      "floor": "2",
-      "lot": "S-007",
-      "kind": "tenant",
-      "category": "BEAUTY & WELLNESS > Beauty & Hair Salon BEAUTY & WELLNESS > Personal Care / Pharmacy",
-      "keywords": [
-        "pharmacy",
-        "farmasi",
-        "ubat"
-      ],
-      "officialUrl": "https://www.midvalley.com.my/tenant/Aveda/eacf014e-b4f2-4855-9045-75471f057425/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
@@ -4086,18 +4082,6 @@
         "food court"
       ],
       "officialUrl": "https://www.midvalley.com.my/tenant/SugirlDesserts/8768d697-3c0f-4cc1-844c-79aaa2b1d20a/SHOP",
-      "dataConfidence": "official-name-lot-category"
-    },
-    {
-      "id": "mvm-sun-sand-sports-t-010",
-      "name": "Sun & Sand Sports",
-      "mall": "Mid Valley Megamall",
-      "floor": "3",
-      "lot": "T-010",
-      "kind": "tenant",
-      "category": "FASHION > Accessories, Bags & Shoes FASHION > Sportswear",
-      "keywords": [],
-      "officialUrl": "https://www.midvalley.com.my/tenant/SunSandSports/903776c5-16e1-4b0b-9636-6259eb666e68/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
