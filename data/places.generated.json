@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-10-30T01:57:22.046Z",
+  "updatedAt": "2026-11-01T01:08:10.035Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -1837,15 +1837,19 @@
       "dataConfidence": "official-name-lot-category"
     },
     {
-      "id": "mvm-asus-s-094",
-      "name": "Asus",
+      "id": "mvm-aveda-s-007",
+      "name": "Aveda",
       "mall": "Mid Valley Megamall",
       "floor": "2",
-      "lot": "S-094",
+      "lot": "S-007",
       "kind": "tenant",
-      "category": "IT & PHOTOGRAPHY GADGET > Computers & Gadget Accessories",
-      "keywords": [],
-      "officialUrl": "https://www.midvalley.com.my/tenant/Asus/4047247c-b460-45f7-9d78-a144dddaa1e9/SHOP",
+      "category": "BEAUTY & WELLNESS > Beauty & Hair Salon BEAUTY & WELLNESS > Personal Care / Pharmacy",
+      "keywords": [
+        "pharmacy",
+        "farmasi",
+        "ubat"
+      ],
+      "officialUrl": "https://www.midvalley.com.my/tenant/Aveda/eacf014e-b4f2-4855-9045-75471f057425/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
