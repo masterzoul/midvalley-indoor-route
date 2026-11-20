@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-11-01T01:08:10.035Z",
+  "updatedAt": "2026-11-20T03:10:05.912Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -10,7 +10,7 @@
     "https://www.midvalley.com.my/about/services-facilities/",
     "https://www.midvalley.com.my/locate/parking/index.aspx"
   ],
-  "tenantCount": 556,
+  "tenantCount": 554,
   "places": [
     {
       "id": "mvm-aeon-homes-sports-outdoor-at-3",
@@ -914,22 +914,6 @@
       "dataConfidence": "official-name-lot-category"
     },
     {
-      "id": "mvm-l-occitane-en-provence-f-058",
-      "name": "L'Occitane En Provence",
-      "mall": "Mid Valley Megamall",
-      "floor": "1",
-      "lot": "F-058",
-      "kind": "tenant",
-      "category": "BEAUTY & WELLNESS > Personal Care / Pharmacy",
-      "keywords": [
-        "pharmacy",
-        "farmasi",
-        "ubat"
-      ],
-      "officialUrl": "https://www.midvalley.com.my/tenant/LOccitaneEnProvence/1c188e7a-f1b2-4e11-83cc-8df2ef513683/SHOP",
-      "dataConfidence": "official-name-lot-category"
-    },
-    {
       "id": "mvm-la-senza-lingerie-f-066",
       "name": "La Senza Lingerie",
       "mall": "Mid Valley Megamall",
@@ -1758,25 +1742,6 @@
       "dataConfidence": "official-name-lot-category"
     },
     {
-      "id": "mvm-ace-hardware-sja3-b-s057-s058",
-      "name": "Ace Hardware",
-      "mall": "Mid Valley Megamall",
-      "floor": "2",
-      "lot": "SJA3(B), S057 & S058",
-      "kind": "tenant",
-      "category": "HOMES > Household Appliances LEISURE & ENTERTAINMENT > Sports & Outdoor SUNDRY & SERVICES > Car Accessories",
-      "keywords": [
-        "cinema",
-        "pawagam",
-        "wayang",
-        "filem",
-        "movie",
-        "tonton"
-      ],
-      "officialUrl": "https://www.midvalley.com.my/tenant/AceHardware/68b571de-b99d-4002-acc7-06ac68caf5ac/SHOP",
-      "dataConfidence": "official-name-lot-category"
-    },
-    {
       "id": "mvm-acer-s-095",
       "name": "Acer",
       "mall": "Mid Valley Megamall",
@@ -1837,19 +1802,15 @@
       "dataConfidence": "official-name-lot-category"
     },
     {
-      "id": "mvm-aveda-s-007",
-      "name": "Aveda",
+      "id": "mvm-asus-s-094",
+      "name": "Asus",
       "mall": "Mid Valley Megamall",
       "floor": "2",
-      "lot": "S-007",
+      "lot": "S-094",
       "kind": "tenant",
-      "category": "BEAUTY & WELLNESS > Beauty & Hair Salon BEAUTY & WELLNESS > Personal Care / Pharmacy",
-      "keywords": [
-        "pharmacy",
-        "farmasi",
-        "ubat"
-      ],
-      "officialUrl": "https://www.midvalley.com.my/tenant/Aveda/eacf014e-b4f2-4855-9045-75471f057425/SHOP",
+      "category": "IT & PHOTOGRAPHY GADGET > Computers & Gadget Accessories",
+      "keywords": [],
+      "officialUrl": "https://www.midvalley.com.my/tenant/Asus/4047247c-b460-45f7-9d78-a144dddaa1e9/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
@@ -2768,31 +2729,6 @@
       "category": "BEAUTY & WELLNESS > Wellness Centre",
       "keywords": [],
       "officialUrl": "https://www.midvalley.com.my/tenant/ThaiOdyssey/b8c67e2d-5b61-4994-95e6-03d541f96e19/SHOP",
-      "dataConfidence": "official-name-lot-category"
-    },
-    {
-      "id": "mvm-the-home-care-shop-s-062",
-      "name": "The Home+Care Shop",
-      "mall": "Mid Valley Megamall",
-      "floor": "2",
-      "lot": "S-062",
-      "kind": "tenant",
-      "category": "BEAUTY & WELLNESS > Health & Fitness Equipment BEAUTY & WELLNESS > Personal Care / Pharmacy LEISURE & ENTERTAINMENT > Health & Fitness Equipment",
-      "keywords": [
-        "cinema",
-        "pawagam",
-        "wayang",
-        "filem",
-        "movie",
-        "tonton",
-        "pharmacy",
-        "farmasi",
-        "ubat",
-        "fitness",
-        "gym",
-        "senaman"
-      ],
-      "officialUrl": "https://www.midvalley.com.my/tenant/TheHomeCareShop/89179610-3174-42b6-8b91-5c3316204421/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
@@ -5068,6 +5004,30 @@
       "dataConfidence": "official-name-lot-category"
     },
     {
+      "id": "mvm-lilanz-g-098",
+      "name": "LILANZ",
+      "mall": "Mid Valley Megamall",
+      "floor": "G",
+      "lot": "G-098",
+      "kind": "tenant",
+      "category": "FASHION > Accessories, Bags & Shoes FASHION > Men Fashion FASHION > Women Fashion",
+      "keywords": [],
+      "officialUrl": "https://www.midvalley.com.my/tenant/LILANZ/273ad6b9-7d4b-4b64-9247-cb8ad5168d38/SHOP",
+      "dataConfidence": "official-name-lot-category"
+    },
+    {
+      "id": "mvm-lindt-g-013a",
+      "name": "Lindt",
+      "mall": "Mid Valley Megamall",
+      "floor": "G",
+      "lot": "G-013A",
+      "kind": "tenant",
+      "category": "",
+      "keywords": [],
+      "officialUrl": "https://www.midvalley.com.my/tenant/Lindt/5e9d3bec-d525-4b07-8b54-07cdd521a1b4/SHOP",
+      "dataConfidence": "official-name-lot-category"
+    },
+    {
       "id": "mvm-lingling-longlong-gastrobar-by-chateau-dc-g-e-018",
       "name": "LingLing LongLong Gastrobar by Chateau DC",
       "mall": "Mid Valley Megamall",
@@ -7292,18 +7252,6 @@
         "food court"
       ],
       "officialUrl": "https://www.midvalley.com.my/tenant/TheFoundersBakery/51f4e643-2c16-4895-8f75-f4782ab848d2/SHOP",
-      "dataConfidence": "official-name-lot-category"
-    },
-    {
-      "id": "mvm-the-manhattan-fish-market-lg-060",
-      "name": "The Manhattan Fish Market",
-      "mall": "Mid Valley Megamall",
-      "floor": "LG",
-      "lot": "LG-060",
-      "kind": "tenant",
-      "category": "",
-      "keywords": [],
-      "officialUrl": "https://www.midvalley.com.my/tenant/TheManhattanFishMarket/32fa6523-215b-4a1a-9cf0-8d42ed2d1bdb/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {

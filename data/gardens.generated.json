@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceMode": "generated",
-  "updatedAt": "2026-11-01T01:08:14.463Z",
+  "updatedAt": "2026-11-20T03:10:11.116Z",
   "mallScope": [
     "The Gardens Mall"
   ],
@@ -601,23 +601,8 @@
       "dataConfidence": "official-floor-map-coordinate"
     },
     {
-      "id": "tgm-f-218-f-218",
-      "name": "Lululemon",
-      "mall": "The Gardens Mall",
-      "floor": "1",
-      "lot": "F-218",
-      "kind": "tenant",
-      "categoryId": "32",
-      "keywords": [],
-      "x": 0.6223,
-      "y": 0.4899,
-      "mapSvg": "https://www.thegardensmall.com.my/data/editor/layer-maps/tgm-first-floor-2026-01.svg",
-      "officialUrl": "https://www.thegardensmall.com.my/floor-map",
-      "dataConfidence": "official-floor-map-coordinate"
-    },
-    {
       "id": "tgm-f-203-f-203",
-      "name": "lululemon (Coming Soon)",
+      "name": "lululemon",
       "mall": "The Gardens Mall",
       "floor": "1",
       "lot": "F-203",
@@ -686,6 +671,21 @@
       "keywords": [],
       "x": 0.7704,
       "y": 0.4793,
+      "mapSvg": "https://www.thegardensmall.com.my/data/editor/layer-maps/tgm-first-floor-2026-01.svg",
+      "officialUrl": "https://www.thegardensmall.com.my/floor-map",
+      "dataConfidence": "official-floor-map-coordinate"
+    },
+    {
+      "id": "tgm-f-218-f-218",
+      "name": "MO&Co. (Coming Soon)",
+      "mall": "The Gardens Mall",
+      "floor": "1",
+      "lot": "F-218",
+      "kind": "tenant",
+      "categoryId": "21",
+      "keywords": [],
+      "x": 0.6233,
+      "y": 0.488,
       "mapSvg": "https://www.thegardensmall.com.my/data/editor/layer-maps/tgm-first-floor-2026-01.svg",
       "officialUrl": "https://www.thegardensmall.com.my/floor-map",
       "dataConfidence": "official-floor-map-coordinate"
@@ -849,7 +849,7 @@
     },
     {
       "id": "tgm-f-250a-f-250a",
-      "name": "SONOS Store by TC Acoustic",
+      "name": "Sonos Flagship Store by TC Acoustic",
       "mall": "The Gardens Mall",
       "floor": "1",
       "lot": "F-250A",
@@ -1976,21 +1976,6 @@
       "dataConfidence": "official-floor-map-coordinate"
     },
     {
-      "id": "tgm-t-k06-t-k06",
-      "name": "BRUNO",
-      "mall": "The Gardens Mall",
-      "floor": "3",
-      "lot": "T-K06",
-      "kind": "tenant",
-      "categoryId": "8",
-      "keywords": [],
-      "x": 0.4579,
-      "y": 0.5088,
-      "mapSvg": "https://www.thegardensmall.com.my/data/editor/layer-maps/tgm-third-floor-2025.svg",
-      "officialUrl": "https://www.thegardensmall.com.my/floor-map",
-      "dataConfidence": "official-floor-map-coordinate"
-    },
-    {
       "id": "tgm-t-216d-t-216d",
       "name": "cha:coal",
       "mall": "The Gardens Mall",
@@ -2586,6 +2571,21 @@
       ],
       "x": 0.7839,
       "y": 0.4814,
+      "mapSvg": "https://www.thegardensmall.com.my/data/editor/layer-maps/tgm-third-floor-2025.svg",
+      "officialUrl": "https://www.thegardensmall.com.my/floor-map",
+      "dataConfidence": "official-floor-map-coordinate"
+    },
+    {
+      "id": "tgm-t-k06-t-k06",
+      "name": "XGIMI",
+      "mall": "The Gardens Mall",
+      "floor": "3",
+      "lot": "T-K06",
+      "kind": "tenant",
+      "categoryId": "8",
+      "keywords": [],
+      "x": 0.4579,
+      "y": 0.5088,
       "mapSvg": "https://www.thegardensmall.com.my/data/editor/layer-maps/tgm-third-floor-2025.svg",
       "officialUrl": "https://www.thegardensmall.com.my/floor-map",
       "dataConfidence": "official-floor-map-coordinate"
@@ -3369,7 +3369,7 @@
     },
     {
       "id": "tgm-g-250a-g-250a",
-      "name": "Red Kettle",
+      "name": "RED KETTLE",
       "mall": "The Gardens Mall",
       "floor": "G",
       "lot": "G-250A",
@@ -5083,7 +5083,7 @@
     },
     {
       "id": "tgm-lg-237b-lg-237b",
-      "name": "Tofu G",
+      "name": "Tofu G (Coming Soon)",
       "mall": "The Gardens Mall",
       "floor": "LG",
       "lot": "LG-237B",
