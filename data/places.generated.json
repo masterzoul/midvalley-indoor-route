@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-11-22T02:12:34.648Z",
+  "updatedAt": "2026-11-23T02:43:57.624Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -1814,15 +1814,19 @@
       "dataConfidence": "official-name-lot-category"
     },
     {
-      "id": "mvm-bbq-town-s-025-026",
-      "name": "BBQ Town",
+      "id": "mvm-aveda-s-007",
+      "name": "Aveda",
       "mall": "Mid Valley Megamall",
       "floor": "2",
-      "lot": "S-025 & 026",
+      "lot": "S-007",
       "kind": "tenant",
-      "category": "",
-      "keywords": [],
-      "officialUrl": "https://www.midvalley.com.my/tenant/BBQTown/c98ef0ef-cfc5-4117-8598-6e111f34c194/SHOP",
+      "category": "BEAUTY & WELLNESS > Beauty & Hair Salon BEAUTY & WELLNESS > Personal Care / Pharmacy",
+      "keywords": [
+        "pharmacy",
+        "farmasi",
+        "ubat"
+      ],
+      "officialUrl": "https://www.midvalley.com.my/tenant/Aveda/eacf014e-b4f2-4855-9045-75471f057425/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
