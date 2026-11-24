@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceMode": "generated",
-  "updatedAt": "2026-11-23T02:44:01.808Z",
+  "updatedAt": "2026-11-24T05:59:22.513Z",
   "mallScope": [
     "The Gardens Mall"
   ],
@@ -2291,6 +2291,21 @@
       "dataConfidence": "official-floor-map-coordinate"
     },
     {
+      "id": "tgm-t-205a-t-205a",
+      "name": "owala",
+      "mall": "The Gardens Mall",
+      "floor": "3",
+      "lot": "T-205A",
+      "kind": "tenant",
+      "categoryId": "47",
+      "keywords": [],
+      "x": 0.5721,
+      "y": 0.4387,
+      "mapSvg": "https://www.thegardensmall.com.my/data/editor/layer-maps/tgm-third-floor-2025.svg",
+      "officialUrl": "https://www.thegardensmall.com.my/floor-map",
+      "dataConfidence": "official-floor-map-coordinate"
+    },
+    {
       "id": "tgm-t-237ab-t-237-a-b",
       "name": "Padi House",
       "mall": "The Gardens Mall",
@@ -2496,21 +2511,6 @@
       "keywords": [],
       "x": 0.531,
       "y": 0.5128,
-      "mapSvg": "https://www.thegardensmall.com.my/data/editor/layer-maps/tgm-third-floor-2025.svg",
-      "officialUrl": "https://www.thegardensmall.com.my/floor-map",
-      "dataConfidence": "official-floor-map-coordinate"
-    },
-    {
-      "id": "tgm-t-205a-t-205a",
-      "name": "TOMS",
-      "mall": "The Gardens Mall",
-      "floor": "3",
-      "lot": "T-205A",
-      "kind": "tenant",
-      "categoryId": "32",
-      "keywords": [],
-      "x": 0.5721,
-      "y": 0.4387,
       "mapSvg": "https://www.thegardensmall.com.my/data/editor/layer-maps/tgm-third-floor-2025.svg",
       "officialUrl": "https://www.thegardensmall.com.my/floor-map",
       "dataConfidence": "official-floor-map-coordinate"

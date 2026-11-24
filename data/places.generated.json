@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-11-23T02:43:57.624Z",
+  "updatedAt": "2026-11-24T05:59:18.039Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -10,7 +10,7 @@
     "https://www.midvalley.com.my/about/services-facilities/",
     "https://www.midvalley.com.my/locate/parking/index.aspx"
   ],
-  "tenantCount": 554,
+  "tenantCount": 555,
   "places": [
     {
       "id": "mvm-aeon-homes-sports-outdoor-at-3",
@@ -1814,19 +1814,15 @@
       "dataConfidence": "official-name-lot-category"
     },
     {
-      "id": "mvm-aveda-s-007",
-      "name": "Aveda",
+      "id": "mvm-bbq-town-s-025-026",
+      "name": "BBQ Town",
       "mall": "Mid Valley Megamall",
       "floor": "2",
-      "lot": "S-007",
+      "lot": "S-025 & 026",
       "kind": "tenant",
-      "category": "BEAUTY & WELLNESS > Beauty & Hair Salon BEAUTY & WELLNESS > Personal Care / Pharmacy",
-      "keywords": [
-        "pharmacy",
-        "farmasi",
-        "ubat"
-      ],
-      "officialUrl": "https://www.midvalley.com.my/tenant/Aveda/eacf014e-b4f2-4855-9045-75471f057425/SHOP",
+      "category": "",
+      "keywords": [],
+      "officialUrl": "https://www.midvalley.com.my/tenant/BBQTown/c98ef0ef-cfc5-4117-8598-6e111f34c194/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
@@ -6102,6 +6098,18 @@
       "category": "FASHION > Jewellery",
       "keywords": [],
       "officialUrl": "https://www.midvalley.com.my/tenant/DiamondandGoldbyPohKong/cb64cd34-e94f-4b96-96e9-5bb79b9e0f90/SHOP",
+      "dataConfidence": "official-name-lot-category"
+    },
+    {
+      "id": "mvm-donkai-lg-060",
+      "name": "Donkai",
+      "mall": "Mid Valley Megamall",
+      "floor": "LG",
+      "lot": "LG-060",
+      "kind": "tenant",
+      "category": "",
+      "keywords": [],
+      "officialUrl": "https://www.midvalley.com.my/tenant/Donkai/32fa6523-215b-4a1a-9cf0-8d42ed2d1bdb/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
