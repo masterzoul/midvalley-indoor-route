@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "sourceMode": "generated",
-  "updatedAt": "2026-11-24T05:59:18.039Z",
+  "updatedAt": "2026-11-25T04:53:28.603Z",
   "mallScope": [
     "Mid Valley Megamall"
   ],
@@ -10,7 +10,7 @@
     "https://www.midvalley.com.my/about/services-facilities/",
     "https://www.midvalley.com.my/locate/parking/index.aspx"
   ],
-  "tenantCount": 555,
+  "tenantCount": 557,
   "places": [
     {
       "id": "mvm-aeon-homes-sports-outdoor-at-3",
@@ -1802,15 +1802,19 @@
       "dataConfidence": "official-name-lot-category"
     },
     {
-      "id": "mvm-asus-s-094",
-      "name": "Asus",
+      "id": "mvm-aveda-s-007",
+      "name": "Aveda",
       "mall": "Mid Valley Megamall",
       "floor": "2",
-      "lot": "S-094",
+      "lot": "S-007",
       "kind": "tenant",
-      "category": "IT & PHOTOGRAPHY GADGET > Computers & Gadget Accessories",
-      "keywords": [],
-      "officialUrl": "https://www.midvalley.com.my/tenant/Asus/4047247c-b460-45f7-9d78-a144dddaa1e9/SHOP",
+      "category": "BEAUTY & WELLNESS > Beauty & Hair Salon BEAUTY & WELLNESS > Personal Care / Pharmacy",
+      "keywords": [
+        "pharmacy",
+        "farmasi",
+        "ubat"
+      ],
+      "officialUrl": "https://www.midvalley.com.my/tenant/Aveda/eacf014e-b4f2-4855-9045-75471f057425/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
@@ -2304,6 +2308,18 @@
       "dataConfidence": "official-name-lot-category"
     },
     {
+      "id": "mvm-libernovo-s-043b",
+      "name": "LiberNovo",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "S-043B",
+      "kind": "tenant",
+      "category": "HOMES > Furniture & Furnishing",
+      "keywords": [],
+      "officialUrl": "https://www.midvalley.com.my/tenant/LiberNovo/8d0f66b3-f9af-4582-8641-5c142485df2c/SHOP",
+      "dataConfidence": "official-name-lot-category"
+    },
+    {
       "id": "mvm-madame-butterfly-s-016",
       "name": "Madame Butterfly",
       "mall": "Mid Valley Megamall",
@@ -2598,6 +2614,18 @@
       "dataConfidence": "official-name-lot-category"
     },
     {
+      "id": "mvm-robotique-by-mr-robot-s-057",
+      "name": "Robotique by Mr Robot",
+      "mall": "Mid Valley Megamall",
+      "floor": "2",
+      "lot": "S-057",
+      "kind": "tenant",
+      "category": "HOMES IT & PHOTOGRAPHY GADGET > Computers & Gadget Accessories",
+      "keywords": [],
+      "officialUrl": "https://www.midvalley.com.my/tenant/RobotiquebyMrRobot/35c8243a-39d5-4bbc-a726-bf861a0f408b/SHOP",
+      "dataConfidence": "official-name-lot-category"
+    },
+    {
       "id": "mvm-samsung-s-089",
       "name": "Samsung",
       "mall": "Mid Valley Megamall",
@@ -2889,18 +2917,6 @@
       "dataConfidence": "official-name-lot-category"
     },
     {
-      "id": "mvm-vivid-concepts-gadget-s-057",
-      "name": "Vivid Concepts Gadget",
-      "mall": "Mid Valley Megamall",
-      "floor": "2",
-      "lot": "S-057",
-      "kind": "tenant",
-      "category": "IT & PHOTOGRAPHY GADGET > Computers & Gadget Accessories",
-      "keywords": [],
-      "officialUrl": "https://www.midvalley.com.my/tenant/VividConceptsGadget/35c8243a-39d5-4bbc-a726-bf861a0f408b/SHOP",
-      "dataConfidence": "official-name-lot-category"
-    },
-    {
       "id": "mvm-vivo-s-098",
       "name": "Vivo",
       "mall": "Mid Valley Megamall",
@@ -3164,6 +3180,18 @@
       "category": "FASHION > Sportswear",
       "keywords": [],
       "officialUrl": "https://www.midvalley.com.my/tenant/Columbia/81eac863-a0fa-4511-b236-2d72343ff69c/SHOP",
+      "dataConfidence": "official-name-lot-category"
+    },
+    {
+      "id": "mvm-compasia-tk-15",
+      "name": "CompAsia",
+      "mall": "Mid Valley Megamall",
+      "floor": "3",
+      "lot": "TK-15",
+      "kind": "tenant",
+      "category": "IT & PHOTOGRAPHY GADGET > Computers & Gadget Accessories IT & PHOTOGRAPHY GADGET > Mobile & Telecommunication",
+      "keywords": [],
+      "officialUrl": "https://www.midvalley.com.my/tenant/CompAsia/bd9ef641-bd90-4d4e-99d3-e98428d876a5/SHOP",
       "dataConfidence": "official-name-lot-category"
     },
     {
