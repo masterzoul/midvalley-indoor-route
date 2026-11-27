@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceMode": "generated",
-  "updatedAt": "2026-11-26T04:08:36.441Z",
+  "updatedAt": "2026-11-27T04:14:13.589Z",
   "mallScope": [
     "The Gardens Mall"
   ],
@@ -1647,7 +1647,7 @@
     },
     {
       "id": "tgm-s-206-s-206",
-      "name": "Simmons",
+      "name": "SIMMONS",
       "mall": "The Gardens Mall",
       "floor": "2",
       "lot": "S-206",
@@ -5211,7 +5211,7 @@
       "name": "YAYOI",
       "mall": "The Gardens Mall",
       "floor": "LG",
-      "lot": "LG – 231C",
+      "lot": "LG-231C",
       "kind": "tenant",
       "categoryId": "24",
       "keywords": [
