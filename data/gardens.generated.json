@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "sourceMode": "generated",
-  "updatedAt": "2026-11-27T04:14:13.589Z",
+  "updatedAt": "2026-11-28T03:53:56.872Z",
   "mallScope": [
     "The Gardens Mall"
   ],
@@ -1931,11 +1931,11 @@
       "dataConfidence": "official-floor-map-coordinate"
     },
     {
-      "id": "tgm-t-201b-lot-t-201b",
+      "id": "tgm-t-201b-t-201b",
       "name": "Beauty In The Pot",
       "mall": "The Gardens Mall",
       "floor": "3",
-      "lot": "Lot T-201B",
+      "lot": "T-201B",
       "kind": "tenant",
       "categoryId": "24",
       "keywords": [],
